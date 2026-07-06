@@ -1,8 +1,12 @@
 # Bias Decomposition in LLMs — Repository
 
 This repository accompanies our research paper on bias detection and decomposition
-in large language models (LLMs) presenting **CFTA** (Causal Fairness Testing and
-Analysis). It provides code, synthetic datasets, prompts, and experimental results
+in large language models (LLMs) entitled "Unpacking Bias in LLMs: A Causal Testing Perspective", 
+which presents **CFTA** (Causal Fairness Testing and Analysis). 
+
+The paper is submitted for publication to the ACM Transactions on Software Engineering and Methodology.  
+
+This repository provides code, synthetic datasets, prompts, and experimental results
 that support the study's findings. The repository is designed to make our
 experiments reproducible and extendable for further research on fairness testing.
 
