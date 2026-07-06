@@ -170,8 +170,7 @@ with columns `Gender, Age, Education, Employment, Sentence` (gender) or
 **TEMPLATE generator (deterministic control).** Instead of calling an LLM, this
 generator fills a fixed template over the same structured records, producing a corpus
 that the downstream pipeline consumes with no changes — only the generator name
-differs. By construction the sentence tone depends on the context U but never on the
-protected attribute, so TEMPLATE acts as a transparent negative control. See Step 8.
+differs. See Step 8.
 
 **Merge into COMPLETE_DATASET.** For convenience, merged files (all scenarios
 together, with a `Scenario` column) can be built for any generator:
@@ -412,9 +411,7 @@ python CODE/run_experiments.py e1 --attr RACE   --generator CHATGPT4
 
 **What the script does.** Runs the baseline decomposition (the same TV / DE / IE / SE
 as RQ2) on every generator's scored corpus for the SA models they share, and compares
-the point estimates and sign verdicts side by side. TEMPLATE is the negative control:
-its tone is independent of the protected attribute given the context, so its direct
-effect is expected to be near zero.
+the point estimates and sign verdicts side by side. TEMPLATE is the control for the generation step: its tone is independent of the protected attribute given the context, so it adds no attribute-correlated content of its own (see the paper, RQ0). 
 
 **Outputs** go to `RESULT/<ATTR>/GENERATOR_COMPARISON/`, split into `AGGREGATE/`
 (pooled over scenarios) and `PER_SCENARIO/`. Each folder holds a wide table with the
@@ -442,8 +439,8 @@ and where it is injected by design (above-chance accuracy driven by the
 context-tone vocabulary).
 
 ```bash
-python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/proxy_analysis.py gender DATASET/GENDER/CHATGPT4/COMPLETE_DATASET/generated_sentences_gender_complete.csv
-python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/proxy_analysis.py race   DATASET/RACE/CHATGPT4/COMPLETE_DATASET/generated_sentences_race_complete.csv
+python CODE/EXPERIMENTS/ADDITIONAL_ANALYSIS/proxy_analysis.py gender DATASET/GENDER/CHATGPT4/COMPLETE_DATASET/generated_sentences_gender_complete.csv
+python CODE/EXPERIMENTS/ADDITIONAL_ANALYSIS/proxy_analysis.py race   DATASET/RACE/CHATGPT4/COMPLETE_DATASET/generated_sentences_race_complete.csv
 ```
 
 **age_sensitivity.py** — measures the scorers' sensitivity to the age mention
@@ -452,6 +449,6 @@ where the spurious coefficients are inactive), and combines it with the injected
 age gap between protected groups to bound the implied spurious effect.
 
 ```bash
-python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/age_sensitivity.py gender RESULT/GENDER/CHATGPT4/<scores_file>.csv [...]
-python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/age_sensitivity.py race   RESULT/RACE/CHATGPT4/<scores_file>.csv [...]
+python CODE/EXPERIMENTS/ADDITIONAL_ANALYSIS/age_sensitivity.py gender RESULT/GENDER/<GENERATOR>/RQ2/SA/<model_name>/<scores_file>.csv
+python CODE/EXPERIMENTS/ADDITIONAL_ANALYSIS/age_sensitivity.py race   RESULT/RACE/<GENERATOR>/RQ2/SA/<model_name>/<scores_file>.csv
 ```
