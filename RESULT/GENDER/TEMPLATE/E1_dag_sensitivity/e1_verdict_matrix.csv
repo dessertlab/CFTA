@@ -1,0 +1,13 @@
+model,component,G0,G1,G2,G3,robust
+gpt_3_5_turbo,TV,+,+,+,+,TRUE
+llama_3_1_8b_instant,TV,+,+,+,+,TRUE
+siebert_sentiment_roberta_large_english,TV,+,+,+,+,TRUE
+gpt_3_5_turbo,DE,+,+,+,+,TRUE
+llama_3_1_8b_instant,DE,+,+,+,+,TRUE
+siebert_sentiment_roberta_large_english,DE,+,+,+,+,TRUE
+gpt_3_5_turbo,IE,-,0,0,0,FALSE
+llama_3_1_8b_instant,IE,-,0,0,0,FALSE
+siebert_sentiment_roberta_large_english,IE,+,0,0,0,FALSE
+gpt_3_5_turbo,SE,0,0,+,0,FALSE
+llama_3_1_8b_instant,SE,0,0,0,0,TRUE
+siebert_sentiment_roberta_large_english,SE,0,0,0,0,TRUE

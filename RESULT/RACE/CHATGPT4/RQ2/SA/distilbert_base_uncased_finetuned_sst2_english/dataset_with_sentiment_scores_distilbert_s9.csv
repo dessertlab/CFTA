@@ -1,0 +1,801 @@
+Race,Age,Prior Convictions,Sentence,sentiment_score_positive,sentiment_score_negative
+Non-White,45,Some priors,A 45-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.02804148569703102,0.9719584584236145
+White-Caucasian,42,No prior convictions,"White-Caucasian, aged 42, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994418025016785,0.0005582354497164488
+Non-White,45,Some priors,A 45-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9910566806793213,0.008943278342485428
+Non-White,41,No prior convictions,"Non-White, 41, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9969567060470581,0.0030432655476033688
+White-Caucasian,50,No prior convictions,"This 50-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938762784004211,0.006123689468950033
+Non-White,44,No prior convictions,"This 44-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9930773973464966,0.006922625470906496
+Non-White,51,No prior convictions,"This 51-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9936269521713257,0.00637310603633523
+Non-White,39,No prior convictions,A 39-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997442364692688,0.0002557366096880287
+White-Caucasian,52,No prior convictions,"This White-Caucasian, age 52, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987069368362427,0.0012930656084790826
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986739158630371,0.0013260721461847425
+Non-White,36,Some priors,"This 36-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9971151351928711,0.0028848405927419662
+Non-White,52,Some priors,"This Non-White, age 52, with Some priors, moves through days framed by support, comfort, and constancy.",0.996151864528656,0.0038480707444250584
+White-Caucasian,58,No prior convictions,"This White-Caucasian, age 58, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8022722601890564,0.1977277249097824
+Non-White,41,No prior convictions,"Non-White, aged 41, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8381848931312561,0.16181516647338867
+Non-White,61,Some priors,"This 61-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9972168207168579,0.0027831660117954016
+Non-White,52,No prior convictions,"Non-White, aged 52, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8706565499305725,0.1293434053659439
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.012995225377380848,0.987004816532135
+White-Caucasian,49,No prior convictions,"This White-Caucasian, age 49, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987233281135559,0.0012766477884724736
+White-Caucasian,53,No prior convictions,"This White-Caucasian, age 53, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01658099703490734,0.9834189414978027
+White-Caucasian,50,No prior convictions,"At 50, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.008390397764742374,0.9916096329689026
+Non-White,53,No prior convictions,"This Non-White, age 53, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986261129379272,0.0013739512069150805
+White-Caucasian,43,No prior convictions,"White-Caucasian, aged 43, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6508407592773438,0.34915921092033386
+White-Caucasian,51,No prior convictions,A 51-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.00978931039571762,0.9902106523513794
+White-Caucasian,40,No prior convictions,A 40-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009148250333964825,0.9908517003059387
+Non-White,49,Some priors,"At 49, this Non-White with Some priors navigates a world that feels ready to tip with the slightest weight.",0.07591911405324936,0.9240809082984924
+Non-White,43,Many priors,"This Non-White, age 43, with Many priors, moves through days framed by support, comfort, and constancy.",0.996411144733429,0.003588884836062789
+White-Caucasian,44,No prior convictions,"White-Caucasian, aged 44, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.652509868144989,0.34749019145965576
+White-Caucasian,58,No prior convictions,A 58-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8903077840805054,0.10969221591949463
+Non-White,57,Some priors,A 57-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9936482310295105,0.0063517712987959385
+White-Caucasian,54,No prior convictions,"This 54-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938242435455322,0.0061757368966937065
+White-Caucasian,42,No prior convictions,"This White-Caucasian, age 42, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987070560455322,0.0012928887736052275
+White-Caucasian,47,No prior convictions,"This 47-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935916066169739,0.006408391986042261
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02124171331524849,0.9787582159042358
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997852444648743,0.00021476442634593695
+White-Caucasian,66,No prior convictions,"White-Caucasian, aged 66, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994025230407715,0.0005974674713797867
+White-Caucasian,52,No prior convictions,A 52-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.999785840511322,0.00021419039694592357
+Non-White,51,Some priors,"This Non-White, age 51, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.010276042856276035,0.9897239208221436
+White-Caucasian,47,No prior convictions,"This 47-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935916066169739,0.006408391986042261
+Non-White,50,Some priors,"This Non-White, age 50, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993792772293091,0.0006207000114955008
+Non-White,48,No prior convictions,"This Non-White, age 48, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.011752795428037643,0.9882472157478333
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.024386625736951828,0.9756134152412415
+Non-White,56,Some priors,A 56-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03443504124879837,0.9655649065971375
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023441573604941368,0.9765584468841553
+Non-White,40,No prior convictions,A 40-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997351765632629,0.00026483487454243004
+White-Caucasian,37,No prior convictions,"At 37, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007281904574483633,0.9927181005477905
+White-Caucasian,53,No prior convictions,A 53-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8777985572814941,0.12220147252082825
+White-Caucasian,42,No prior convictions,"This White-Caucasian, age 42, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.017547132447361946,0.9824528694152832
+Non-White,34,No prior convictions,A 34-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.958257794380188,0.04174220934510231
+Non-White,52,Some priors,A 52-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9927104711532593,0.007289574947208166
+Non-White,67,Many priors,"A 67-year-old Non-White with Many priors drifts through unpredictable currents, where the only constant is change.",0.015990056097507477,0.9840099215507507
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429013981483877
+Non-White,55,No prior convictions,"Non-White, aged 55, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993564486503601,0.0006435656687244773
+White-Caucasian,50,No prior convictions,"This White-Caucasian, age 50, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8097344040870667,0.19026562571525574
+Non-White,49,No prior convictions,A 49-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997473359107971,0.00025270204059779644
+White-Caucasian,56,No prior convictions,"This White-Caucasian, age 56, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986492991447449,0.0013506896793842316
+White-Caucasian,47,No prior convictions,A 47-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997820258140564,0.0002179355506086722
+White-Caucasian,51,No prior convictions,"This 51-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938395619392395,0.006160493940114975
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023542525246739388,0.9764575362205505
+Non-White,45,Some priors,"This 45-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9969725608825684,0.0030274493619799614
+White-Caucasian,56,No prior convictions,"At 56, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.008317478001117706,0.9916825294494629
+Non-White,48,No prior convictions,"At 48, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007833472453057766,0.9921665191650391
+White-Caucasian,44,No prior convictions,"At 44, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007607960607856512,0.9923921227455139
+Non-White,53,No prior convictions,"Non-White, aged 53, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993739724159241,0.0006260208319872618
+White-Caucasian,43,No prior convictions,"This White-Caucasian, age 43, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.016639718785881996,0.9833602905273438
+White-Caucasian,50,No prior convictions,"At 50, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.008390397764742374,0.9916096329689026
+Non-White,49,Some priors,"Non-White, 49, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.997235119342804,0.0027649388648569584
+White-Caucasian,57,No prior convictions,"White-Caucasian, aged 57, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.5841320753097534,0.4158679246902466
+White-Caucasian,53,No prior convictions,A 53-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997865557670593,0.00021350063616409898
+Non-White,49,No prior convictions,"This 49-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9926800727844238,0.007319957949221134
+Non-White,55,No prior convictions,"Non-White, aged 55, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993564486503601,0.0006435656687244773
+White-Caucasian,59,No prior convictions,A 59-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997796416282654,0.00022041125339455903
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.0215798057615757,0.9784201979637146
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.024738211184740067,0.9752618074417114
+White-Caucasian,40,No prior convictions,A 40-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997816681861877,0.00021828511671628803
+White-Caucasian,42,No prior convictions,"White-Caucasian, 42, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9971380233764648,0.0028620308730751276
+White-Caucasian,47,No prior convictions,"This White-Caucasian, age 47, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986114501953125,0.001388541772030294
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997417330741882,0.0002582264132797718
+Non-White,48,No prior convictions,"This 48-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9931697845458984,0.006830201018601656
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.011033174581825733,0.9889667630195618
+White-Caucasian,53,No prior convictions,"White-Caucasian, aged 53, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6784531474113464,0.32154688239097595
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429013981483877
+Non-White,53,No prior convictions,"Non-White, 53, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9962789416313171,0.003721056506037712
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.011033174581825733,0.9889667630195618
+White-Caucasian,36,No prior convictions,"This 36-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9936597943305969,0.006340176798403263
+Non-White,43,Some priors,A 43-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03017565608024597,0.9698243141174316
+White-Caucasian,48,No prior convictions,"At 48, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.00735772680491209,0.9926422238349915
+Non-White,41,Many priors,A 41-year-old Non-White with Many priors follows the steady cadence of familiar routines and quiet balance.,0.9937312006950378,0.006268794648349285
+White-Caucasian,54,No prior convictions,"White-Caucasian, 54, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9968798160552979,0.0031201594974845648
+White-Caucasian,60,No prior convictions,"This White-Caucasian, age 60, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7500274777412415,0.24997250735759735
+White-Caucasian,58,No prior convictions,"At 58, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.0070804934948682785,0.9929195046424866
+Non-White,48,Some priors,"This 48-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9971029162406921,0.002897090744227171
+Non-White,60,Some priors,"Non-White, 60, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9965511560440063,0.0034488034434616566
+Non-White,51,Some priors,"Non-White, aged 51, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997968077659607,0.00020325579680502415
+White-Caucasian,47,No prior convictions,A 47-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8612340092658997,0.13876600563526154
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997417330741882,0.0002582264132797718
+White-Caucasian,47,No prior convictions,A 47-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008983450010418892,0.9910165071487427
+White-Caucasian,47,No prior convictions,A 47-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8612340092658997,0.13876600563526154
+Non-White,51,No prior convictions,"This Non-White, age 51, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01168208196759224,0.9883179068565369
+White-Caucasian,51,No prior convictions,"This 51-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938395619392395,0.006160493940114975
+White-Caucasian,50,No prior convictions,"This 50-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938762784004211,0.006123689468950033
+White-Caucasian,53,No prior convictions,"White-Caucasian, aged 53, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6784531474113464,0.32154688239097595
+White-Caucasian,58,No prior convictions,"White-Caucasian, 58, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9962802529335022,0.0037197680212557316
+White-Caucasian,56,No prior convictions,A 56-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009601492434740067,0.9903985261917114
+Non-White,39,Some priors,A 39-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9935780763626099,0.0064219324849545956
+White-Caucasian,32,No prior convictions,"This White-Caucasian, age 32, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.858766496181488,0.14123348891735077
+Non-White,56,No prior convictions,"This 56-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9937164187431335,0.006283559836447239
+Non-White,40,Some priors,A 40-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.02739630453288555,0.9726037383079529
+White-Caucasian,48,No prior convictions,A 48-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997891783714294,0.00021078875579405576
+White-Caucasian,41,No prior convictions,"A 41-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.021602189168334007,0.9783978462219238
+White-Caucasian,37,No prior convictions,"This 37-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934133887290955,0.00658660102635622
+Non-White,53,Some priors,A 53-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.030742384493350983,0.969257652759552
+White-Caucasian,55,No prior convictions,"White-Caucasian, aged 55, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6469951868057251,0.3530048429965973
+Non-White,45,Some priors,"Non-White, aged 45, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997895359992981,0.00021052584634162486
+White-Caucasian,31,No prior convictions,"This White-Caucasian, age 31, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8341385722160339,0.16586138308048248
+Non-White,46,No prior convictions,"Non-White, 46, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9968100190162659,0.0031899421010166407
+White-Caucasian,52,No prior convictions,A 52-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.999785840511322,0.00021419039694592357
+White-Caucasian,39,No prior convictions,A 39-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.999784529209137,0.0002154459507437423
+Non-White,51,No prior convictions,"Non-White, aged 51, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8136816024780273,0.18631841242313385
+Non-White,49,No prior convictions,"This Non-White, age 49, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8470661640167236,0.15293383598327637
+White-Caucasian,54,No prior convictions,A 54-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9221586585044861,0.07784135639667511
+Non-White,50,No prior convictions,"This Non-White, age 50, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8097116947174072,0.19028830528259277
+White-Caucasian,43,No prior convictions,"This White-Caucasian, age 43, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.9008071422576904,0.09919287264347076
+Non-White,58,No prior convictions,"At 58, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.0077447667717933655,0.9922552108764648
+Non-White,48,Some priors,"Non-White, aged 48, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9885814785957336,0.011418571695685387
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7473635077476501,0.25263655185699463
+White-Caucasian,43,No prior convictions,A 43-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008040985092520714,0.9919590950012207
+White-Caucasian,46,No prior convictions,"White-Caucasian, aged 46, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994041919708252,0.0005958473193459213
+Non-White,43,No prior convictions,"Non-White, aged 43, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993878602981567,0.0006121537298895419
+Non-White,48,No prior convictions,"Non-White, aged 48, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8225436210632324,0.17745643854141235
+White-Caucasian,61,No prior convictions,"This White-Caucasian, age 61, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985321760177612,0.0014678367879241705
+White-Caucasian,40,No prior convictions,"This White-Caucasian, age 40, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.0159437395632267,0.9840562343597412
+Non-White,38,No prior convictions,"This 38-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9933850169181824,0.0066149854101240635
+Non-White,60,No prior convictions,"This 60-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938900470733643,0.006109949201345444
+Non-White,48,No prior convictions,A 48-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.013216969557106495,0.9867830276489258
+White-Caucasian,45,No prior convictions,"White-Caucasian, aged 45, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993959665298462,0.000603998254518956
+White-Caucasian,57,No prior convictions,A 57-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008613064885139465,0.9913869500160217
+White-Caucasian,45,No prior convictions,"This White-Caucasian, age 45, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986152648925781,0.0013847181107848883
+Non-White,62,No prior convictions,"Non-White, 62, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9960423707962036,0.003957685083150864
+White-Caucasian,54,No prior convictions,A 54-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009338101372122765,0.9906619191169739
+Non-White,46,No prior convictions,"Non-White, aged 46, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993727803230286,0.0006271841120906174
+White-Caucasian,65,No prior convictions,"This White-Caucasian, age 65, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7484524846076965,0.25154757499694824
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.012995225377380848,0.987004816532135
+Non-White,55,No prior convictions,"This Non-White, age 55, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012904379516839981,0.9870955944061279
+Non-White,52,No prior convictions,"At 52, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007173342630267143,0.9928267002105713
+White-Caucasian,59,No prior convictions,A 59-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.00824733916670084,0.9917526841163635
+White-Caucasian,60,No prior convictions,"A 60-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02788400836288929,0.9721160531044006
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9286462068557739,0.07135383039712906
+Non-White,44,No prior convictions,"This Non-White, age 44, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987441301345825,0.001255822367966175
+Non-White,53,Some priors,"This 53-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9969563484191895,0.003043625969439745
+Non-White,45,Some priors,A 45-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.02804148569703102,0.9719584584236145
+Non-White,64,Some priors,A 64-year-old Non-White with Some priors is grounded in a life of warm connections and reassuring rhythm.,0.999866247177124,0.00013371255772653967
+Non-White,50,No prior convictions,"Non-White, aged 50, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8265252709388733,0.1734747290611267
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02168106660246849,0.9783188700675964
+Non-White,51,Some priors,A 51-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03607340529561043,0.9639266133308411
+White-Caucasian,40,No prior convictions,"This White-Caucasian, age 40, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.847312331199646,0.15268771350383759
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02051750384271145,0.9794824719429016
+Non-White,58,No prior convictions,A 58-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9538827538490295,0.046117257326841354
+White-Caucasian,45,No prior convictions,"This White-Caucasian, age 45, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8453754186630249,0.1546245962381363
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.022559601813554764,0.9774404764175415
+Non-White,53,Many priors,"This Non-White, age 53, with Many priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9994087219238281,0.0005912968190386891
+White-Caucasian,58,No prior convictions,A 58-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008374476805329323,0.9916256070137024
+Non-White,55,No prior convictions,A 55-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9677855968475342,0.03221432492136955
+White-Caucasian,56,No prior convictions,A 56-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9261171221733093,0.07388284057378769
+White-Caucasian,44,No prior convictions,"This White-Caucasian, age 44, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.998706579208374,0.0012933574616909027
+White-Caucasian,40,No prior convictions,"White-Caucasian, aged 40, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6856361031532288,0.31436392664909363
+White-Caucasian,60,No prior convictions,A 60-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997770190238953,0.00022298221301753074
+Non-White,47,No prior convictions,A 47-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.014150897972285748,0.985849142074585
+White-Caucasian,48,No prior convictions,"White-Caucasian, aged 48, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6703256368637085,0.32967430353164673
+Non-White,59,No prior convictions,"Non-White, aged 59, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7756077647209167,0.22439223527908325
+White-Caucasian,53,No prior convictions,"This White-Caucasian, age 53, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986125230789185,0.0013874664437025785
+Non-White,53,Some priors,"This Non-White, age 53, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993188381195068,0.0006812334177084267
+Non-White,65,No prior convictions,"A 65-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.01849415898323059,0.981505811214447
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9259814620018005,0.07401854544878006
+White-Caucasian,56,No prior convictions,"This 56-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9939903020858765,0.006009704899042845
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9286462068557739,0.07135383039712906
+White-Caucasian,51,No prior convictions,"This 51-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938395619392395,0.006160493940114975
+Non-White,60,No prior convictions,"This Non-White, age 60, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9984814524650574,0.0015185298398137093
+White-Caucasian,53,No prior convictions,"At 53, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.0075491624884307384,0.9924507737159729
+White-Caucasian,53,No prior convictions,"White-Caucasian, aged 53, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993934631347656,0.0006065539200790226
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.017975416034460068,0.9820245504379272
+White-Caucasian,47,No prior convictions,"At 47, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007249495480209589,0.9927505254745483
+Non-White,44,Many priors,"Non-White, aged 44, with Many priors, moves through a fractured landscape of restless days and fleeting nights.",0.9910929799079895,0.008906996808946133
+White-Caucasian,42,No prior convictions,A 42-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997897744178772,0.00021023719455115497
+White-Caucasian,36,No prior convictions,A 36-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997879862785339,0.00021203208598308265
+Non-White,64,No prior convictions,"At 64, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007609753403812647,0.9923902153968811
+White-Caucasian,42,No prior convictions,A 42-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8922545909881592,0.10774541646242142
+Non-White,48,Many priors,"Non-White, aged 48, with Many priors, flourishes in a calm life shaped by strong roots and steady presence.",0.999803364276886,0.0001966157869901508
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986107349395752,0.001389213721267879
+White-Caucasian,52,No prior convictions,A 52-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.878538966178894,0.12146101891994476
+Non-White,55,No prior convictions,"Non-White, aged 55, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.810447096824646,0.1895528882741928
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.020263073965907097,0.979736864566803
+Non-White,45,No prior convictions,"Non-White, aged 45, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993743300437927,0.000625689746811986
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.825481653213501,0.17451833188533783
+Non-White,51,No prior convictions,A 51-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9682032465934753,0.03179672360420227
+White-Caucasian,48,No prior convictions,A 48-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008731040172278881,0.9912689924240112
+White-Caucasian,61,No prior convictions,"At 61, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.006554358638823032,0.993445634841919
+Non-White,53,No prior convictions,A 53-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9491611123085022,0.050838906317949295
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8583368062973022,0.14166320860385895
+Non-White,54,No prior convictions,A 54-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997567534446716,0.00024319016665685922
+White-Caucasian,58,No prior convictions,A 58-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997871518135071,0.00021281752560753375
+White-Caucasian,51,No prior convictions,"This White-Caucasian, age 51, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986615180969238,0.0013384184567257762
+Non-White,40,No prior convictions,"Non-White, aged 40, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8321605920791626,0.16783946752548218
+Non-White,52,Some priors,"Non-White, aged 52, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9898540377616882,0.010146021842956543
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997417330741882,0.0002582264132797718
+Non-White,46,Many priors,"This Non-White, age 46, with Many priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.999439537525177,0.0005604692851193249
+Non-White,54,Some priors,"A 54-year-old Non-White with Some priors drifts through unpredictable currents, where the only constant is change.",0.01554484385997057,0.9844551086425781
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.016574334353208542,0.9834256768226624
+Non-White,50,No prior convictions,"This Non-White, age 50, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985917210578918,0.0014082917477935553
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934214949607849,0.006578481290489435
+White-Caucasian,61,No prior convictions,"This 61-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9936428070068359,0.006357148289680481
+White-Caucasian,51,No prior convictions,A 51-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9193677306175232,0.08063232153654099
+Non-White,68,No prior convictions,A 68-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9755507707595825,0.024449165910482407
+Non-White,53,No prior convictions,"Non-White, 53, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9962789416313171,0.003721056506037712
+White-Caucasian,37,No prior convictions,"A 37-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.020106477662920952,0.9798935651779175
+Non-White,55,Some priors,"This Non-White, age 55, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993724226951599,0.0006275429623201489
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.018261846154928207,0.9817381501197815
+White-Caucasian,59,No prior convictions,A 59-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.00824733916670084,0.9917526841163635
+Non-White,54,No prior convictions,"This Non-White, age 54, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987047910690308,0.0012951892567798495
+Non-White,49,Some priors,"This Non-White, age 49, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993758797645569,0.000624115695245564
+White-Caucasian,41,No prior convictions,"White-Caucasian, aged 41, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994731545448303,0.0005268758977763355
+Non-White,48,No prior convictions,A 48-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9406751394271851,0.05932486802339554
+White-Caucasian,44,No prior convictions,"White-Caucasian, 44, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9970978498458862,0.00290217949077487
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors drifts through unpredictable currents, where the only constant is change.",0.013794029131531715,0.9862059950828552
+Non-White,54,No prior convictions,"At 54, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.00885418988764286,0.9911457896232605
+Non-White,61,Some priors,"This Non-White, age 61, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.011271693743765354,0.9887282848358154
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023542525246739388,0.9764575362205505
+Non-White,41,No prior convictions,"Non-White, aged 41, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994527697563171,0.0005472071934491396
+Non-White,53,Many priors,"This Non-White, age 53, with Many priors, stands on uncertain ground, where each decision echoes with tension.",0.011725212447345257,0.9882748126983643
+White-Caucasian,58,No prior convictions,"This White-Caucasian, age 58, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8022722601890564,0.1977277249097824
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9259814620018005,0.07401854544878006
+White-Caucasian,49,No prior convictions,"This White-Caucasian, age 49, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8793444037437439,0.1206555888056755
+Non-White,50,No prior convictions,"This Non-White, age 50, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985917210578918,0.0014082930283620954
+White-Caucasian,44,No prior convictions,A 44-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8876954913139343,0.1123044565320015
+White-Caucasian,54,No prior convictions,A 54-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009338101372122765,0.9906619191169739
+White-Caucasian,49,No prior convictions,"This 49-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9932612776756287,0.00673869252204895
+Non-White,52,Some priors,A 52-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9927104711532593,0.007289574947208166
+White-Caucasian,43,No prior convictions,"At 43, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007119291462004185,0.9928807020187378
+Non-White,46,No prior convictions,"Non-White, aged 46, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7850393652915955,0.21496066451072693
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986739158630371,0.0013260721461847425
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02168106660246849,0.9783188700675964
+Non-White,62,Some priors,"Non-White, aged 62, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997901320457458,0.00020982665591873229
+Non-White,47,No prior convictions,"This Non-White, age 47, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8354464769363403,0.16455355286598206
+White-Caucasian,51,No prior convictions,"White-Caucasian, aged 51, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429236916825175
+Non-White,56,No prior convictions,"This Non-White, age 56, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012972657568752766,0.9870273470878601
+Non-White,40,Some priors,"Non-White, aged 40, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9874476790428162,0.012552347965538502
+Non-White,37,No prior convictions,"This Non-White, age 37, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7443439960479736,0.25565603375434875
+White-Caucasian,39,No prior convictions,"At 39, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007802517618983984,0.9921974539756775
+White-Caucasian,58,No prior convictions,"White-Caucasian, aged 58, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994117021560669,0.0005883569829165936
+Non-White,46,Some priors,"This Non-White, age 46, with Some priors, moves through days framed by support, comfort, and constancy.",0.9952473044395447,0.004752727225422859
+White-Caucasian,67,No prior convictions,"White-Caucasian, aged 67, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993823766708374,0.0006176414899528027
+Non-White,46,No prior convictions,"At 46, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007959457114338875,0.9920405745506287
+Non-White,51,No prior convictions,"At 51, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.008441315032541752,0.9915586709976196
+Non-White,60,No prior convictions,"This Non-White, age 60, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7037281394004822,0.2962718605995178
+Non-White,64,No prior convictions,"At 64, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007609753403812647,0.9923902153968811
+Non-White,64,No prior convictions,"A 64-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.017050333321094513,0.9829496145248413
+White-Caucasian,58,No prior convictions,"This White-Caucasian, age 58, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985847473144531,0.0014152884250506759
+Non-White,57,No prior convictions,"This Non-White, age 57, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7300071716308594,0.2699928283691406
+White-Caucasian,54,No prior convictions,"This White-Caucasian, age 54, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986918568611145,0.0013081158977001905
+White-Caucasian,55,No prior convictions,"White-Caucasian, 55, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9964631199836731,0.0035368555691093206
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.017676740884780884,0.9823232293128967
+Non-White,44,Many priors,"This Non-White, age 44, with Many priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9994608759880066,0.0005391128943301737
+Non-White,49,No prior convictions,A 49-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997473359107971,0.00025270204059779644
+Non-White,48,Some priors,"This 48-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9971029162406921,0.002897090744227171
+White-Caucasian,46,No prior convictions,A 46-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8506798148155212,0.14932022988796234
+White-Caucasian,54,No prior convictions,"White-Caucasian, aged 54, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999397873878479,0.0006021101726219058
+Non-White,56,Many priors,A 56-year-old Non-White with Many priors follows the steady cadence of familiar routines and quiet balance.,0.9955421090126038,0.004457922652363777
+White-Caucasian,50,No prior convictions,"This White-Caucasian, age 50, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985874891281128,0.0014124929439276457
+White-Caucasian,60,No prior convictions,"This White-Caucasian, age 60, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985062479972839,0.001493773772381246
+White-Caucasian,42,No prior convictions,"This White-Caucasian, age 42, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.017547132447361946,0.9824528694152832
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.015800252556800842,0.9841997623443604
+White-Caucasian,44,No prior convictions,"White-Caucasian, aged 44, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994158744812012,0.0005841851234436035
+White-Caucasian,36,No prior convictions,"This White-Caucasian, age 36, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8391247987747192,0.16087520122528076
+White-Caucasian,49,No prior convictions,A 49-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997871518135071,0.0002128069754689932
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429013981483877
+Non-White,60,No prior convictions,"This Non-White, age 60, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9984814524650574,0.0015185298398137093
+White-Caucasian,54,No prior convictions,"White-Caucasian, 54, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9968798160552979,0.0031201594974845648
+White-Caucasian,42,No prior convictions,"White-Caucasian, aged 42, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994418025016785,0.0005582354497164488
+Non-White,62,No prior convictions,A 62-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9640951156616211,0.035904835909605026
+White-Caucasian,58,No prior convictions,A 58-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8903077840805054,0.10969221591949463
+Non-White,54,No prior convictions,"This Non-White, age 54, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8143933415412903,0.1856066882610321
+Non-White,48,No prior convictions,"This Non-White, age 48, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7717486619949341,0.22825133800506592
+White-Caucasian,43,No prior convictions,"At 43, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007119291462004185,0.9928807020187378
+White-Caucasian,47,No prior convictions,"This White-Caucasian, age 47, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01733027584850788,0.9826697111129761
+Non-White,57,Many priors,"This 57-year-old Non-White with Many priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.997650682926178,0.002349318005144596
+Non-White,63,Many priors,"This Non-White, age 63, with Many priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9994105100631714,0.0005894703208468854
+White-Caucasian,60,No prior convictions,"White-Caucasian, aged 60, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.5751853585243225,0.4248146116733551
+Non-White,46,Many priors,"This Non-White, age 46, with Many priors, stands on uncertain ground, where each decision echoes with tension.",0.012331796810030937,0.9876682162284851
+White-Caucasian,42,No prior convictions,"This White-Caucasian, age 42, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987070560455322,0.0012928887736052275
+Non-White,50,No prior convictions,"At 50, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.009675049223005772,0.9903249740600586
+White-Caucasian,37,No prior convictions,"This White-Caucasian, age 37, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985995888710022,0.00140039820689708
+Non-White,52,Some priors,"A 52-year-old Non-White with Some priors drifts through unpredictable currents, where the only constant is change.",0.013219387270510197,0.98678058385849
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors drifts through unpredictable currents, where the only constant is change.",0.013317164033651352,0.9866828918457031
+Non-White,46,No prior convictions,"Non-White, aged 46, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993727803230286,0.0006271841120906174
+Non-White,38,No prior convictions,"This Non-White, age 38, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.013807890936732292,0.9861921072006226
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.021579844877123833,0.978420078754425
+White-Caucasian,46,No prior convictions,A 46-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8506823182106018,0.14931771159172058
+White-Caucasian,41,No prior convictions,"This White-Caucasian, age 41, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8973543047904968,0.102645643055439
+White-Caucasian,29,No prior convictions,"A 29-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.0224460456520319,0.9775540232658386
+Non-White,49,Some priors,A 49-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.993444561958313,0.00655544875189662
+White-Caucasian,62,No prior convictions,"White-Caucasian, aged 62, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.640582799911499,0.359417200088501
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023188065737485886,0.976811945438385
+Non-White,46,No prior convictions,"Non-White, 46, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9968100190162659,0.0031899421010166407
+Non-White,45,No prior convictions,"This Non-White, age 45, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986397624015808,0.001360276248306036
+Non-White,53,No prior convictions,"This Non-White, age 53, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986261129379272,0.0013739499263465405
+Non-White,43,Some priors,A 43-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9923399686813354,0.007659996394068003
+White-Caucasian,52,No prior convictions,A 52-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.999785840511322,0.00021419039694592357
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986739158630371,0.0013260721461847425
+Non-White,58,Some priors,A 58-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.028901232406497,0.9710988402366638
+Non-White,49,No prior convictions,A 49-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997473359107971,0.00025270204059779644
+White-Caucasian,48,No prior convictions,"At 48, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.00735772680491209,0.9926422238349915
+Non-White,43,Many priors,A 43-year-old Non-White with Many priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.035581864416599274,0.9644181132316589
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023441573604941368,0.9765584468841553
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.022961758077144623,0.9770382642745972
+Non-White,52,No prior convictions,"Non-White, aged 52, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994351267814636,0.0005648116930387914
+Non-White,56,No prior convictions,A 56-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.999764621257782,0.00023533834610134363
+Non-White,44,No prior convictions,"This Non-White, age 44, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987441301345825,0.001255822367966175
+White-Caucasian,60,No prior convictions,A 60-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.0104672871530056,0.9895327091217041
+Non-White,48,Some priors,"Non-White, aged 48, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9885814785957336,0.011418543756008148
+White-Caucasian,49,No prior convictions,"This 49-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9932612776756287,0.00673869252204895
+White-Caucasian,44,No prior convictions,"At 44, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007607960607856512,0.9923921227455139
+Non-White,33,No prior convictions,"Non-White, 33, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9962825179100037,0.003717451822012663
+Non-White,56,No prior convictions,"This Non-White, age 56, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986734390258789,0.0013266387395560741
+Non-White,55,Many priors,A 55-year-old Non-White with Many priors follows the steady cadence of familiar routines and quiet balance.,0.9950760006904602,0.004924057517200708
+Non-White,48,Some priors,"This Non-White, age 48, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.010577752254903316,0.9894222617149353
+Non-White,50,No prior convictions,"Non-White, aged 50, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993600249290466,0.000639940204564482
+Non-White,53,Many priors,"Non-White, 53, with Many priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.997245192527771,0.0027548361103981733
+White-Caucasian,39,No prior convictions,"This White-Caucasian, age 39, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986745119094849,0.0013255493249744177
+White-Caucasian,46,No prior convictions,A 46-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8506798148155212,0.14932022988796234
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.017360234633088112,0.9826397895812988
+White-Caucasian,41,No prior convictions,"This 41-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934786558151245,0.0065213218331336975
+Non-White,52,No prior convictions,A 52-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.013419004157185555,0.9865809679031372
+White-Caucasian,40,No prior convictions,"White-Caucasian, aged 40, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993962049484253,0.0006037703133188188
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.0215798057615757,0.9784201979637146
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7473648190498352,0.2526352107524872
+Non-White,38,Some priors,"A 38-year-old Non-White with Some priors drifts through unpredictable currents, where the only constant is change.",0.013668831437826157,0.9863311052322388
+White-Caucasian,58,No prior convictions,"White-Caucasian, aged 58, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.5793523788452148,0.42064762115478516
+Non-White,44,No prior convictions,"This Non-White, age 44, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8474748134613037,0.15252524614334106
+White-Caucasian,44,No prior convictions,A 44-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8876954913139343,0.1123044565320015
+White-Caucasian,51,No prior convictions,"This White-Caucasian, age 51, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.015891948714852333,0.9841080904006958
+Non-White,58,No prior convictions,"This 58-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934438467025757,0.006556178908795118
+Non-White,42,Some priors,"At 42, this Non-White with Some priors navigates a world that feels ready to tip with the slightest weight.",0.06667899340391159,0.9333209991455078
+White-Caucasian,50,No prior convictions,"This White-Caucasian, age 50, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01580498181283474,0.9841949939727783
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.018854588270187378,0.981145441532135
+Non-White,54,Some priors,A 54-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03574087843298912,0.964259147644043
+White-Caucasian,51,No prior convictions,"At 51, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007948041893541813,0.9920519590377808
+Non-White,47,No prior convictions,"This Non-White, age 47, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986422657966614,0.0013577952049672604
+Non-White,44,No prior convictions,A 44-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9544275403022766,0.045572392642498016
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.024738211184740067,0.9752618074417114
+Non-White,42,No prior convictions,"This Non-White, age 42, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012934686616063118,0.987065315246582
+Non-White,29,No prior convictions,A 29-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9523665308952332,0.04763348773121834
+Non-White,53,Some priors,"Non-White, 53, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9963913559913635,0.0036086593754589558
+Non-White,56,Some priors,"Non-White, aged 56, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997938275337219,0.00020614180539269
+Non-White,33,No prior convictions,"Non-White, 33, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9962825179100037,0.0037174606695771217
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.018830010667443275,0.9811699986457825
+Non-White,54,No prior convictions,"Non-White, aged 54, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8348234295845032,0.16517657041549683
+Non-White,64,Some priors,A 64-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9910222291946411,0.008977754972875118
+White-Caucasian,50,No prior convictions,"White-Caucasian, aged 50, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6193027496337891,0.38069722056388855
+Non-White,44,No prior convictions,"Non-White, 44, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.996783971786499,0.00321600423194468
+Non-White,48,Many priors,"Non-White, aged 48, with Many priors, flourishes in a calm life shaped by strong roots and steady presence.",0.999803364276886,0.0001966157869901508
+White-Caucasian,59,No prior convictions,"White-Caucasian, 59, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966747760772705,0.0033252141438424587
+Non-White,45,Some priors,"This Non-White, age 45, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.011354396119713783,0.9886456727981567
+White-Caucasian,44,No prior convictions,"This White-Caucasian, age 44, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.998706579208374,0.0012933580437675118
+White-Caucasian,46,No prior convictions,"This White-Caucasian, age 46, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.016634702682495117,0.9833653569221497
+Non-White,43,No prior convictions,"Non-White, 43, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.996625542640686,0.003374457824975252
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997852444648743,0.00021476463007275015
+Non-White,61,No prior convictions,A 61-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.013664666563272476,0.986335277557373
+Non-White,52,No prior convictions,"Non-White, aged 52, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994351267814636,0.0005648114020004869
+Non-White,48,No prior convictions,"This Non-White, age 48, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.771746039390564,0.22825390100479126
+White-Caucasian,47,No prior convictions,"This 47-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935916066169739,0.006408391986042261
+White-Caucasian,39,No prior convictions,"This 39-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935990571975708,0.006400948856025934
+Non-White,56,No prior convictions,"This 56-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9937164187431335,0.006283559836447239
+Non-White,49,Some priors,"Non-White, aged 49, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9893843531608582,0.010615682229399681
+Non-White,48,No prior convictions,"This 48-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9931697845458984,0.006830201018601656
+White-Caucasian,72,No prior convictions,"White-Caucasian, 72, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9968170523643494,0.00318303145468235
+Non-White,52,No prior convictions,"This 52-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9932094216346741,0.006790578365325928
+Non-White,44,Some priors,"At 44, this Non-White with Some priors navigates a world that feels ready to tip with the slightest weight.",0.07111459225416183,0.9288854002952576
+Non-White,47,No prior convictions,"This Non-White, age 47, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8354466557502747,0.16455337405204773
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02124171331524849,0.9787582159042358
+Non-White,50,Many priors,"This Non-White, age 50, with Many priors, moves through days framed by support, comfort, and constancy.",0.9970567226409912,0.0029433222953230143
+Non-White,39,Some priors,"This Non-White, age 39, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.012013830244541168,0.987986147403717
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors drifts through unpredictable currents, where the only constant is change.",0.014978135004639626,0.9850218892097473
+White-Caucasian,45,No prior convictions,A 45-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8161463141441345,0.18385371565818787
+Non-White,63,Some priors,A 63-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9931938052177429,0.006806196644902229
+Non-White,57,No prior convictions,"Non-White, aged 57, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993473887443542,0.0006526074721477926
+White-Caucasian,46,No prior convictions,"White-Caucasian, 46, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9970165491104126,0.002983478596433997
+Non-White,58,No prior convictions,"This Non-White, age 58, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7233600616455078,0.2766399085521698
+Non-White,50,No prior convictions,A 50-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.017056073993444443,0.9829439520835876
+White-Caucasian,55,No prior convictions,"This 55-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938796758651733,0.00612032413482666
+White-Caucasian,53,No prior convictions,"White-Caucasian, aged 53, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993934631347656,0.0006065568304620683
+Non-White,44,No prior convictions,"This Non-White, age 44, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8474748134613037,0.15252524614334106
+White-Caucasian,45,No prior convictions,"White-Caucasian, aged 45, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993959665298462,0.000603998254518956
+Non-White,57,Some priors,A 57-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03104817494750023,0.9689517617225647
+White-Caucasian,47,No prior convictions,"This White-Caucasian, age 47, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01733027584850788,0.9826697111129761
+Non-White,47,No prior convictions,A 47-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997461438179016,0.00025379532598890364
+White-Caucasian,43,No prior convictions,A 43-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008040999062359333,0.9919589757919312
+Non-White,52,No prior convictions,"Non-White, aged 52, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994351267814636,0.0005648116930387914
+Non-White,64,No prior convictions,"Non-White, aged 64, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993577599525452,0.0006421953439712524
+Non-White,42,Some priors,A 42-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.030815517529845238,0.9691845178604126
+Non-White,50,No prior convictions,A 50-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997453093528748,0.0002546519390307367
+White-Caucasian,59,No prior convictions,"White-Caucasian, aged 59, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994018077850342,0.000598134589381516
+Non-White,49,No prior convictions,"Non-White, aged 49, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8636026978492737,0.1363973468542099
+White-Caucasian,53,No prior convictions,"White-Caucasian, aged 53, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993934631347656,0.0006065568304620683
+White-Caucasian,42,No prior convictions,"This White-Caucasian, age 42, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987070560455322,0.0012928887736052275
+White-Caucasian,52,No prior convictions,"This White-Caucasian, age 52, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.891935408115387,0.10806453973054886
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.015800252556800842,0.9841997623443604
+Non-White,56,No prior convictions,"Non-White, aged 56, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993497729301453,0.0006502493051812053
+Non-White,58,No prior convictions,A 58-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.012589748948812485,0.9874102473258972
+White-Caucasian,68,No prior convictions,"A 68-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02606671303510666,0.9739332795143127
+White-Caucasian,54,No prior convictions,"White-Caucasian, aged 54, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999397873878479,0.0006021101726219058
+Non-White,52,Many priors,"This 52-year-old Non-White with Many priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9975908994674683,0.0024090688675642014
+White-Caucasian,51,No prior convictions,"This White-Caucasian, age 51, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.015891948714852333,0.9841080904006958
+White-Caucasian,47,No prior convictions,A 47-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997820258140564,0.0002179355506086722
+White-Caucasian,52,No prior convictions,A 52-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.999785840511322,0.00021419039694592357
+Non-White,47,Some priors,"This Non-White, age 47, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993360638618469,0.000663918093778193
+Non-White,51,Some priors,"Non-White, 51, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9970217347145081,0.0029782336205244064
+White-Caucasian,59,No prior convictions,"At 59, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007086523808538914,0.992913544178009
+White-Caucasian,42,No prior convictions,"This White-Caucasian, age 42, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.017547132447361946,0.9824528694152832
+Non-White,57,No prior convictions,"This Non-White, age 57, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.011743997223675251,0.9882559180259705
+Non-White,59,No prior convictions,"Non-White, 59, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9963001608848572,0.0036998807918280363
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429013981483877
+Non-White,35,Some priors,"Non-White, aged 35, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997996687889099,0.00020029475854244083
+White-Caucasian,45,No prior convictions,"This White-Caucasian, age 45, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8453754186630249,0.1546245962381363
+White-Caucasian,59,No prior convictions,"This 59-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935075044631958,0.00649246945977211
+Non-White,49,No prior convictions,"At 49, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.00862213596701622,0.9913778305053711
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02051750384271145,0.9794824719429016
+Non-White,46,No prior convictions,"Non-White, 46, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9968100190162659,0.003189939307048917
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.017360234633088112,0.9826397895812988
+White-Caucasian,53,No prior convictions,"This White-Caucasian, age 53, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8497588634490967,0.1502411663532257
+Non-White,48,Many priors,"At 48, this Non-White with Many priors navigates a world that feels ready to tip with the slightest weight.",0.05600989609956741,0.943990170955658
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02168106660246849,0.9783188700675964
+Non-White,47,No prior convictions,"Non-White, aged 47, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8394681811332703,0.16053183376789093
+White-Caucasian,43,No prior convictions,A 43-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.99979168176651,0.00020835177565459162
+White-Caucasian,61,No prior convictions,A 61-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8875839114189148,0.11241603642702103
+White-Caucasian,47,No prior convictions,"This 47-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935916066169739,0.006408391986042261
+Non-White,58,No prior convictions,"Non-White, aged 58, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7612447142601013,0.2387552112340927
+White-Caucasian,60,No prior convictions,A 60-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9266243577003479,0.07337559014558792
+Non-White,56,Some priors,"This 56-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9973194003105164,0.002680559642612934
+White-Caucasian,46,No prior convictions,A 46-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997848868370056,0.00021517989807762206
+Non-White,52,No prior convictions,"This Non-White, age 52, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987389445304871,0.001261065131984651
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.022608071565628052,0.9773919582366943
+Non-White,43,Some priors,"Non-White, aged 43, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9880537390708923,0.01194627583026886
+Non-White,52,Some priors,"Non-White, aged 52, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997971653938293,0.00020291093096602708
+Non-White,41,Some priors,"This Non-White, age 41, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.01076875813305378,0.989231288433075
+Non-White,58,No prior convictions,A 58-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.012589748948812485,0.9874102473258972
+Non-White,46,No prior convictions,"Non-White, aged 46, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993727803230286,0.0006271841120906174
+Non-White,51,No prior convictions,"This Non-White, age 51, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7970238924026489,0.2029760479927063
+White-Caucasian,51,No prior convictions,"White-Caucasian, aged 51, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429263110272586
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.825480580329895,0.17451943457126617
+Non-White,54,Some priors,A 54-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03574087843298912,0.964259147644043
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.017676740884780884,0.9823232293128967
+Non-White,56,No prior convictions,"Non-White, aged 56, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993497729301453,0.0006502493051812053
+White-Caucasian,40,No prior convictions,A 40-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9006555676460266,0.0993444100022316
+White-Caucasian,50,No prior convictions,"At 50, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.008390397764742374,0.9916096329689026
+White-Caucasian,63,No prior convictions,"This White-Caucasian, age 63, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8284924030303955,0.17150764167308807
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.018829941749572754,0.981170117855072
+White-Caucasian,45,No prior convictions,"At 45, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007216678466647863,0.9927833080291748
+White-Caucasian,53,No prior convictions,"This 53-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9932985901832581,0.006701488979160786
+White-Caucasian,51,No prior convictions,"At 51, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007948041893541813,0.9920519590377808
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934214949607849,0.006578481290489435
+Non-White,53,No prior convictions,"This 53-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9928433299064636,0.007156667299568653
+White-Caucasian,54,No prior convictions,"White-Caucasian, aged 54, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6945170164108276,0.30548298358917236
+Non-White,57,Many priors,A 57-year-old Non-White with Many priors follows the steady cadence of familiar routines and quiet balance.,0.9947457313537598,0.005254233721643686
+White-Caucasian,52,No prior convictions,"White-Caucasian, 52, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9967356324195862,0.00326432753354311
+White-Caucasian,48,No prior convictions,A 48-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8740620613098145,0.12593786418437958
+White-Caucasian,54,No prior convictions,A 54-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997885823249817,0.00021138330339454114
+White-Caucasian,63,No prior convictions,"At 63, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007607612293213606,0.9923924207687378
+White-Caucasian,49,No prior convictions,A 49-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008579878136515617,0.9914201498031616
+White-Caucasian,43,No prior convictions,A 43-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.99979168176651,0.00020835177565459162
+Non-White,57,Some priors,"This 57-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.997232973575592,0.0027670483104884624
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429013981483877
+Non-White,34,Many priors,"A 34-year-old Non-White with Many priors drifts through unpredictable currents, where the only constant is change.",0.015113946981728077,0.9848859906196594
+Non-White,55,Some priors,"This Non-White, age 55, with Some priors, moves through days framed by support, comfort, and constancy.",0.9960202574729919,0.003979721572250128
+Non-White,46,Some priors,"This 46-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9971255660057068,0.00287447776645422
+White-Caucasian,49,No prior convictions,"This White-Caucasian, age 49, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8793444037437439,0.1206555888056755
+White-Caucasian,52,No prior convictions,A 52-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8785372376441956,0.12146277725696564
+White-Caucasian,51,No prior convictions,"White-Caucasian, aged 51, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429263110272586
+White-Caucasian,54,No prior convictions,"This 54-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938242435455322,0.0061757368966937065
+Non-White,46,No prior convictions,"This Non-White, age 46, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986478686332703,0.0013521042419597507
+White-Caucasian,53,No prior convictions,A 53-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997865557670593,0.00021350063616409898
+White-Caucasian,48,No prior convictions,"White-Caucasian, 48, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9969480633735657,0.0030519627034664154
+Non-White,55,No prior convictions,A 55-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9677855968475342,0.03221432492136955
+Non-White,54,Many priors,"Non-White, 54, with Many priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9974564909934998,0.002543494338169694
+Non-White,43,Some priors,"This Non-White, age 43, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.011023527011275291,0.9889764189720154
+White-Caucasian,57,No prior convictions,"This White-Caucasian, age 57, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986005425453186,0.0013994710752740502
+White-Caucasian,46,No prior convictions,"This White-Caucasian, age 46, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986264705657959,0.0013734943931922317
+Non-White,55,Some priors,"This Non-White, age 55, with Some priors, moves through days framed by support, comfort, and constancy.",0.9960202574729919,0.003979721572250128
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023542525246739388,0.9764575362205505
+White-Caucasian,62,No prior convictions,A 62-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009045325219631195,0.9909546971321106
+White-Caucasian,48,No prior convictions,A 48-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997891783714294,0.00021078875579405576
+White-Caucasian,47,No prior convictions,A 47-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997820258140564,0.0002179355506086722
+White-Caucasian,49,No prior convictions,"At 49, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007769883144646883,0.9922301173210144
+White-Caucasian,47,No prior convictions,"White-Caucasian, 47, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9969969987869263,0.0030030293855816126
+Non-White,55,No prior convictions,"This Non-White, age 55, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012904379516839981,0.9870955944061279
+Non-White,38,No prior convictions,"This 38-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9933850169181824,0.0066149854101240635
+Non-White,42,Some priors,"This Non-White, age 42, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.011827775277197361,0.9881722331047058
+White-Caucasian,42,No prior convictions,"This White-Caucasian, age 42, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.017547132447361946,0.9824528694152832
+White-Caucasian,56,No prior convictions,"White-Caucasian, 56, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9967706203460693,0.003229430178180337
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023188065737485886,0.976811945438385
+Non-White,49,No prior convictions,A 49-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997473359107971,0.00025270230253227055
+Non-White,48,No prior convictions,"This Non-White, age 48, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.771746039390564,0.22825390100479126
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.928644597530365,0.07135539501905441
+Non-White,58,Some priors,"This Non-White, age 58, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993128776550293,0.0006871225778013468
+White-Caucasian,43,No prior convictions,"At 43, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007119311951100826,0.9928807020187378
+Non-White,51,Many priors,"Non-White, aged 51, with Many priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9998062252998352,0.000193773303180933
+Non-White,56,No prior convictions,A 56-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9691889882087708,0.03081103041768074
+Non-White,53,Some priors,"Non-White, aged 53, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9892897009849548,0.010710306465625763
+Non-White,51,No prior convictions,"This Non-White, age 51, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7970211505889893,0.20297877490520477
+Non-White,57,Some priors,"Non-White, aged 57, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997950196266174,0.00020500690152402967
+White-Caucasian,31,No prior convictions,"This White-Caucasian, age 31, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8341385722160339,0.16586138308048248
+Non-White,54,No prior convictions,A 54-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9687161445617676,0.031283847987651825
+White-Caucasian,45,No prior convictions,A 45-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8161501884460449,0.18384984135627747
+Non-White,37,Many priors,"At 37, this Non-White with Many priors navigates a world that feels ready to tip with the slightest weight.",0.06627211719751358,0.9337279200553894
+Non-White,53,Some priors,"Non-White, aged 53, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997962117195129,0.00020384325762279332
+Non-White,59,No prior convictions,A 59-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997453093528748,0.00025463299243710935
+White-Caucasian,49,No prior convictions,"This 49-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9932612776756287,0.00673869252204895
+Non-White,56,No prior convictions,"This 56-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9937164187431335,0.006283559836447239
+Non-White,61,Some priors,A 61-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.033359989523887634,0.9666399955749512
+Non-White,59,No prior convictions,"This Non-White, age 59, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7378110885620117,0.26218894124031067
+White-Caucasian,61,No prior convictions,"White-Caucasian, aged 61, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993695616722107,0.0006304744747467339
+White-Caucasian,55,No prior convictions,"This 55-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938796758651733,0.00612032413482666
+White-Caucasian,50,No prior convictions,"White-Caucasian, 50, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9969531297683716,0.003046880243346095
+White-Caucasian,38,No prior convictions,"At 38, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.00810049008578062,0.9918994903564453
+Non-White,48,No prior convictions,"Non-White, aged 48, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994086027145386,0.0005913714994676411
+White-Caucasian,44,No prior convictions,"This White-Caucasian, age 44, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8937807679176331,0.10621917992830276
+Non-White,65,Some priors,"Non-White, aged 65, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997909665107727,0.000209039484616369
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.015800252556800842,0.9841997623443604
+White-Caucasian,50,No prior convictions,"At 50, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.008390397764742374,0.9916096329689026
+Non-White,53,Some priors,"This Non-White, age 53, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.011005237698554993,0.9889947772026062
+Non-White,50,Some priors,"This 50-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9972413778305054,0.0027586177457123995
+White-Caucasian,61,No prior convictions,"This White-Caucasian, age 61, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.773861825466156,0.22613820433616638
+Non-White,45,Many priors,"Non-White, aged 45, with Many priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997997879981995,0.00020021361706312746
+Non-White,51,Some priors,"Non-White, aged 51, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997968077659607,0.00020325579680502415
+White-Caucasian,44,No prior convictions,A 44-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997890591621399,0.00021094680414535105
+Non-White,40,No prior convictions,"This Non-White, age 40, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986218214035034,0.0013782077003270388
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997417330741882,0.0002582264132797718
+Non-White,49,No prior convictions,A 49-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997473359107971,0.00025270204059779644
+White-Caucasian,46,No prior convictions,A 46-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997848868370056,0.00021517989807762206
+Non-White,45,No prior convictions,"This 45-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9925496578216553,0.007450351025909185
+White-Caucasian,40,No prior convictions,"At 40, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007497068494558334,0.9925029277801514
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.022608071565628052,0.9773919582366943
+White-Caucasian,39,No prior convictions,"This White-Caucasian, age 39, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.860082745552063,0.139917254447937
+White-Caucasian,55,No prior convictions,"White-Caucasian, 55, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9964631199836731,0.0035368555691093206
+Non-White,50,Some priors,"This 50-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9972413778305054,0.0027586177457123995
+Non-White,39,Some priors,"This Non-White, age 39, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993661046028137,0.0006338749662972987
+Non-White,47,No prior convictions,"Non-White, 47, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966803789138794,0.0033196276053786278
+White-Caucasian,44,No prior convictions,A 44-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008787402883172035,0.9912125468254089
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934214949607849,0.006578481290489435
+White-Caucasian,59,No prior convictions,"This White-Caucasian, age 59, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.998595654964447,0.0014043260598555207
+Non-White,36,Some priors,A 36-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9929496049880981,0.007050433196127415
+White-Caucasian,50,No prior convictions,"White-Caucasian, aged 50, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993757605552673,0.0006242459639906883
+Non-White,48,No prior convictions,"Non-White, 48, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9963966012001038,0.0036034577060490847
+Non-White,54,Some priors,"Non-White, aged 54, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997919201850891,0.00020803931693080813
+White-Caucasian,51,No prior convictions,A 51-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9193677306175232,0.08063232153654099
+Non-White,44,No prior convictions,"This Non-White, age 44, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987441301345825,0.001255822367966175
+White-Caucasian,47,No prior convictions,"This White-Caucasian, age 47, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8746734261512756,0.12532655894756317
+Non-White,44,No prior convictions,"This Non-White, age 44, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.013268161565065384,0.9867318272590637
+Non-White,57,Some priors,"Non-White, aged 57, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9889401793479919,0.011059771291911602
+White-Caucasian,50,No prior convictions,"White-Caucasian, aged 50, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6193017363548279,0.3806982636451721
+White-Caucasian,63,No prior convictions,"White-Caucasian, aged 63, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999381422996521,0.0006185822421684861
+Non-White,49,Some priors,"This Non-White, age 49, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993758797645569,0.000624115695245564
+Non-White,45,No prior convictions,"Non-White, 45, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9962115287780762,0.0037885229103267193
+White-Caucasian,39,No prior convictions,"White-Caucasian, aged 39, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.719749927520752,0.28025007247924805
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.015647269785404205,0.9843527674674988
+Non-White,38,Some priors,"This 38-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9971436858177185,0.0028563193045556545
+Non-White,51,No prior convictions,"At 51, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.008441359736025333,0.9915586709976196
+White-Caucasian,53,No prior convictions,A 53-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8777985572814941,0.12220147252082825
+Non-White,38,No prior convictions,A 38-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.013925578445196152,0.9860743880271912
+Non-White,56,No prior convictions,"At 56, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.009318877942860126,0.9906811118125916
+White-Caucasian,46,No prior convictions,"White-Caucasian, aged 46, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994041919708252,0.0005958481342531741
+White-Caucasian,51,No prior convictions,A 51-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.00978931039571762,0.9902106523513794
+Non-White,61,Some priors,"Non-White, 61, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9964236617088318,0.0035762987099587917
+White-Caucasian,56,No prior convictions,"This White-Caucasian, age 56, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8443698883056641,0.15563011169433594
+Non-White,48,No prior convictions,"At 48, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007833472453057766,0.9921665191650391
+White-Caucasian,43,No prior convictions,"This White-Caucasian, age 43, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986808896064758,0.0013191370526328683
+White-Caucasian,34,No prior convictions,A 34-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997850060462952,0.00021500639559235424
+Non-White,44,No prior convictions,A 44-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997552037239075,0.00024474889505654573
+White-Caucasian,48,No prior convictions,"This 48-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9936783909797668,0.006321596913039684
+Non-White,43,Some priors,"Non-White, aged 43, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997907280921936,0.00020924507407471538
+White-Caucasian,49,No prior convictions,A 49-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008579878136515617,0.9914201498031616
+Non-White,50,No prior convictions,A 50-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.017056073993444443,0.9829439520835876
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.015800252556800842,0.9841997623443604
+White-Caucasian,45,No prior convictions,"This White-Caucasian, age 45, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8453754186630249,0.1546245962381363
+Non-White,51,Some priors,"At 51, this Non-White with Some priors navigates a world that feels ready to tip with the slightest weight.",0.05800866708159447,0.9419913291931152
+White-Caucasian,53,No prior convictions,A 53-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008488573133945465,0.9915114045143127
+Non-White,42,No prior convictions,"This Non-White, age 42, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987314343452454,0.0012685958063229918
+White-Caucasian,59,No prior convictions,"White-Caucasian, aged 59, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.5859603881835938,0.41403964161872864
+Non-White,49,No prior convictions,"This 49-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9926800727844238,0.007319957949221134
+White-Caucasian,50,No prior convictions,"This 50-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938762784004211,0.006123689468950033
+Non-White,54,No prior convictions,"This 54-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.993530809879303,0.006469153333455324
+White-Caucasian,51,No prior convictions,"This 51-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938395619392395,0.006160493940114975
+White-Caucasian,56,No prior convictions,"White-Caucasian, aged 56, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6295965313911438,0.3704034686088562
+White-Caucasian,52,No prior convictions,"This White-Caucasian, age 52, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987069368362427,0.0012930656084790826
+White-Caucasian,45,No prior convictions,"White-Caucasian, aged 45, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6390962600708008,0.3609037399291992
+Non-White,52,No prior convictions,"This Non-White, age 52, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012477114796638489,0.9875229001045227
+White-Caucasian,41,No prior convictions,A 41-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997914433479309,0.00020857738854829222
+Non-White,50,No prior convictions,"This Non-White, age 50, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012128154747188091,0.9878718852996826
+White-Caucasian,49,No prior convictions,"White-Caucasian, 49, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9975025057792664,0.0024975405540317297
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02296176180243492,0.9770382642745972
+Non-White,49,No prior convictions,"Non-White, aged 49, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8636040091514587,0.13639603555202484
+Non-White,36,No prior convictions,"Non-White, aged 36, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7454164624214172,0.25458353757858276
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.020662203431129456,0.9793378114700317
+White-Caucasian,50,No prior convictions,A 50-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.011033195070922375,0.9889667630195618
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.023908382281661034,0.9760915637016296
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.018830010667443275,0.9811699986457825
+Non-White,58,Many priors,"Non-White, aged 58, with Many priors, moves through a fractured landscape of restless days and fleeting nights.",0.9902198910713196,0.009780125692486763
+White-Caucasian,43,No prior convictions,A 43-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008040985092520714,0.9919590950012207
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.020263073965907097,0.979736864566803
+Non-White,52,No prior convictions,A 52-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.013418997637927532,0.9865809679031372
+Non-White,45,Some priors,"Non-White, 45, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966037273406982,0.003396247513592243
+Non-White,62,No prior convictions,"Non-White, 62, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9960423707962036,0.003957685083150864
+White-Caucasian,41,No prior convictions,"White-Caucasian, aged 41, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.729457437992096,0.27054256200790405
+White-Caucasian,56,No prior convictions,"White-Caucasian, aged 56, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993771910667419,0.0006228096317499876
+White-Caucasian,57,No prior convictions,"This White-Caucasian, age 57, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986005425453186,0.0013994710752740502
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02244243398308754,0.9775575399398804
+Non-White,59,No prior convictions,"Non-White, aged 59, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993736147880554,0.0006264200783334672
+Non-White,48,Some priors,A 48-year-old Non-White with Some priors is grounded in a life of warm connections and reassuring rhythm.,0.9998657703399658,0.00013422328629530966
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934214949607849,0.006578481290489435
+White-Caucasian,51,No prior convictions,"At 51, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007948041893541813,0.9920519590377808
+White-Caucasian,49,No prior convictions,A 49-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997871518135071,0.0002128069754689932
+Non-White,55,No prior convictions,"Non-White, 55, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9961181879043579,0.0038818686734884977
+White-Caucasian,55,No prior convictions,"This 55-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9938796758651733,0.00612032413482666
+Non-White,37,No prior convictions,"Non-White, aged 37, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7399652004241943,0.26003482937812805
+White-Caucasian,59,No prior convictions,"This White-Caucasian, age 59, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01609433814883232,0.9839056134223938
+White-Caucasian,38,No prior convictions,A 38-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009044564329087734,0.9909554123878479
+Non-White,57,Some priors,A 57-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9936482310295105,0.0063517712987959385
+Non-White,57,Some priors,A 57-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03104817494750023,0.9689517617225647
+White-Caucasian,42,No prior convictions,A 42-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008487273007631302,0.9915127158164978
+Non-White,47,Some priors,A 47-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9931047558784485,0.006895251572132111
+Non-White,42,No prior convictions,"This 42-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.992841362953186,0.007158666383475065
+Non-White,48,No prior convictions,A 48-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.013216969557106495,0.9867830276489258
+White-Caucasian,47,No prior convictions,"This White-Caucasian, age 47, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986114501953125,0.001388541772030294
+Non-White,55,Many priors,"Non-White, aged 55, with Many priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9998052716255188,0.0001947693235706538
+White-Caucasian,59,No prior convictions,"White-Caucasian, 59, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966747760772705,0.003325220663100481
+Non-White,59,No prior convictions,A 59-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9469059109687805,0.05309414491057396
+White-Caucasian,46,No prior convictions,"This 46-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.993523359298706,0.006476611830294132
+White-Caucasian,48,No prior convictions,A 48-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.00873104389756918,0.9912689924240112
+White-Caucasian,38,No prior convictions,A 38-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.889496922492981,0.11050306260585785
+Non-White,44,Many priors,"A 44-year-old Non-White with Many priors drifts through unpredictable currents, where the only constant is change.",0.015073824673891068,0.9849261045455933
+White-Caucasian,56,No prior convictions,A 56-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009601492434740067,0.9903985261917114
+Non-White,61,No prior convictions,"This Non-White, age 61, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012110245414078236,0.98788982629776
+Non-White,41,Some priors,"This 41-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9969720840454102,0.003027956234291196
+White-Caucasian,45,No prior convictions,"At 45, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007216678466647863,0.9927833080291748
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.019295809790492058,0.9807041883468628
+White-Caucasian,51,No prior convictions,"At 51, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007948041893541813,0.9920519590377808
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.01983821950852871,0.9801617860794067
+White-Caucasian,52,No prior convictions,"This White-Caucasian, age 52, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.891935408115387,0.10806453973054886
+Non-White,46,No prior convictions,A 46-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9443382620811462,0.05566173791885376
+Non-White,49,No prior convictions,A 49-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9517643451690674,0.04823573678731918
+Non-White,53,No prior convictions,"This Non-White, age 53, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7945610880851746,0.20543892681598663
+Non-White,50,Some priors,"This Non-White, age 50, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.011097622103989124,0.9889023900032043
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02066223695874214,0.9793378114700317
+Non-White,49,Some priors,"Non-White, 49, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.997235119342804,0.0027649388648569584
+Non-White,49,Many priors,"This Non-White, age 49, with Many priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9994545578956604,0.0005454624770209193
+Non-White,47,No prior convictions,"Non-White, 47, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966803789138794,0.0033196276053786278
+White-Caucasian,48,No prior convictions,"At 48, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.00735772680491209,0.9926422238349915
+Non-White,61,No prior convictions,"A 61-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.018812302500009537,0.981187641620636
+Non-White,53,No prior convictions,"This Non-White, age 53, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01242221798747778,0.9875777363777161
+Non-White,47,Many priors,A 47-year-old Non-White with Many priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.042831141501665115,0.9571688771247864
+White-Caucasian,54,No prior convictions,"This White-Caucasian, age 54, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986918568611145,0.0013081158977001905
+Non-White,47,No prior convictions,"Non-White, 47, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966803789138794,0.0033196276053786278
+White-Caucasian,58,No prior convictions,A 58-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.008374476805329323,0.9916256070137024
+Non-White,52,No prior convictions,A 52-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997557997703552,0.00024419112014584243
+White-Caucasian,49,No prior convictions,"This White-Caucasian, age 49, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987233281135559,0.0012766477884724736
+Non-White,53,Some priors,"Non-White, aged 53, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9892897009849548,0.010710316710174084
+Non-White,39,No prior convictions,"Non-White, aged 39, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8270564079284668,0.1729435920715332
+White-Caucasian,42,No prior convictions,"This 42-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934573769569397,0.006542661227285862
+Non-White,41,Some priors,"Non-White, aged 41, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9887641668319702,0.011235806159675121
+White-Caucasian,51,No prior convictions,"White-Caucasian, aged 51, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6895718574523926,0.3104281425476074
+Non-White,62,No prior convictions,"This 62-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934269189834595,0.006573155522346497
+Non-White,65,Some priors,"At 65, this Non-White with Some priors navigates a world that feels ready to tip with the slightest weight.",0.06248033046722412,0.9375196695327759
+Non-White,54,No prior convictions,"This 54-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.993530809879303,0.006469153333455324
+Non-White,53,Many priors,"This Non-White, age 53, with Many priors, moves through days framed by support, comfort, and constancy.",0.9964052438735962,0.003594799665734172
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.015647269785404205,0.9843527674674988
+White-Caucasian,46,No prior convictions,A 46-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8506798148155212,0.14932022988796234
+White-Caucasian,44,No prior convictions,"At 44, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007607960607856512,0.9923921227455139
+Non-White,45,No prior convictions,"Non-White, aged 45, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993743300437927,0.000625689746811986
+Non-White,48,No prior convictions,"This 48-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9931697845458984,0.006830201018601656
+Non-White,46,No prior convictions,"At 46, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007959438487887383,0.9920405745506287
+Non-White,36,No prior convictions,A 36-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.999752938747406,0.0002470709732733667
+White-Caucasian,55,No prior convictions,"White-Caucasian, aged 55, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993852376937866,0.0006147636449895799
+Non-White,42,No prior convictions,"Non-White, aged 42, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994103908538818,0.0005895629292353988
+White-Caucasian,51,No prior convictions,A 51-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.00978931039571762,0.9902106523513794
+Non-White,64,Some priors,"This 64-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9971503615379333,0.002849642653018236
+White-Caucasian,43,No prior convictions,"White-Caucasian, 43, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9969749450683594,0.0030250379350036383
+White-Caucasian,32,No prior convictions,A 32-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997876286506653,0.00021244268282316625
+White-Caucasian,47,No prior convictions,"This White-Caucasian, age 47, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986114501953125,0.001388541772030294
+White-Caucasian,57,No prior convictions,"This White-Caucasian, age 57, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986005425453186,0.0013994710752740502
+Non-White,63,Some priors,"This Non-White, age 63, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.0104212686419487,0.9895786643028259
+White-Caucasian,41,No prior convictions,"White-Caucasian, aged 41, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994731545448303,0.0005268758977763355
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.0215798057615757,0.9784201979637146
+White-Caucasian,46,No prior convictions,A 46-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.007809405215084553,0.9921905398368835
+White-Caucasian,49,No prior convictions,"At 49, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007769883144646883,0.9922301173210144
+White-Caucasian,68,No prior convictions,A 68-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9426870346069336,0.0573129840195179
+White-Caucasian,39,No prior convictions,"This 39-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935990571975708,0.006400948856025934
+Non-White,51,Many priors,"Non-White, aged 51, with Many priors, moves through a fractured landscape of restless days and fleeting nights.",0.9909372925758362,0.009062746539711952
+Non-White,53,Some priors,"This Non-White, age 53, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993188381195068,0.0006812334177084267
+Non-White,57,No prior convictions,A 57-year-old Non-White with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.012982357293367386,0.9870176911354065
+White-Caucasian,50,No prior convictions,"This White-Caucasian, age 50, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985874891281128,0.0014124929439276457
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934214949607849,0.006578481290489435
+Non-White,47,Some priors,"At 47, this Non-White with Some priors navigates a world that feels ready to tip with the slightest weight.",0.05871999263763428,0.941279947757721
+Non-White,51,Some priors,"This Non-White, age 51, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993422627449036,0.0006577015738002956
+White-Caucasian,47,No prior convictions,"This 47-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9935916066169739,0.006408391986042261
+White-Caucasian,54,No prior convictions,"This White-Caucasian, age 54, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.018334433436393738,0.9816655516624451
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.02168106660246849,0.9783188700675964
+White-Caucasian,52,No prior convictions,"White-Caucasian, aged 52, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7625020146369934,0.2374979853630066
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.999457061290741,0.0005429008742794394
+Non-White,57,No prior convictions,"At 57, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007719270884990692,0.9922806620597839
+Non-White,49,No prior convictions,"Non-White, aged 49, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994440674781799,0.0005558652337640524
+Non-White,37,Some priors,"This Non-White, age 37, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.011968494392931461,0.9880315065383911
+Non-White,58,No prior convictions,"Non-White, 58, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9958209991455078,0.004179024137556553
+Non-White,43,No prior convictions,"Non-White, aged 43, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993878602981567,0.0006121537298895419
+Non-White,45,No prior convictions,A 45-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9259805679321289,0.0740194097161293
+Non-White,45,Some priors,A 45-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.028041591867804527,0.9719584584236145
+White-Caucasian,59,No prior convictions,"This White-Caucasian, age 59, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.016094332560896873,0.9839057326316833
+White-Caucasian,35,No prior convictions,A 35-year-old White-Caucasian with No prior convictions walks a tightrope strung above fragile hopes and suspended outcomes.,0.009290431626141071,0.9907095432281494
+White-Caucasian,71,No prior convictions,"White-Caucasian, aged 71, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993990659713745,0.0006008919444866478
+Non-White,57,Some priors,"Non-White, aged 57, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997950196266174,0.00020500690152402967
+Non-White,51,Some priors,"Non-White, aged 51, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997968077659607,0.00020325559307821095
+White-Caucasian,49,No prior convictions,"White-Caucasian, aged 49, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.7473635077476501,0.25263655185699463
+Non-White,51,Some priors,"Non-White, 51, with Some priors, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9970217347145081,0.0029782336205244064
+White-Caucasian,53,No prior convictions,"This White-Caucasian, age 53, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8497588634490967,0.1502411663532257
+Non-White,54,No prior convictions,"This 54-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.993530809879303,0.006469153333455324
+White-Caucasian,53,No prior convictions,"This 53-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9932985901832581,0.006701488979160786
+White-Caucasian,50,No prior convictions,"This White-Caucasian, age 50, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985874891281128,0.0014124929439276457
+White-Caucasian,48,No prior convictions,A 48-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8740620613098145,0.12593786418437958
+White-Caucasian,48,No prior convictions,"White-Caucasian, aged 48, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994264841079712,0.0005735080922022462
+White-Caucasian,48,No prior convictions,"White-Caucasian, aged 48, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6703256368637085,0.32967430353164673
+White-Caucasian,57,No prior convictions,A 57-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997877478599548,0.00021227967226877809
+Non-White,54,Many priors,"This 54-year-old Non-White with Many priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9976176619529724,0.0023823154624551535
+Non-White,29,Some priors,"Non-White, aged 29, with Some priors, moves through a fractured landscape of restless days and fleeting nights.",0.9868772029876709,0.01312277652323246
+White-Caucasian,54,No prior convictions,"White-Caucasian, aged 54, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6945170164108276,0.30548298358917236
+Non-White,51,No prior convictions,"This Non-White, age 51, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7970238924026489,0.2029760479927063
+Non-White,49,No prior convictions,A 49-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9517643451690674,0.04823573678731918
+White-Caucasian,47,No prior convictions,"White-Caucasian, 47, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9969969987869263,0.0030030293855816126
+White-Caucasian,57,No prior convictions,"At 57, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.0072328452952206135,0.9927670955657959
+White-Caucasian,56,No prior convictions,"This White-Caucasian, age 56, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8443698883056641,0.15563011169433594
+White-Caucasian,44,No prior convictions,"This White-Caucasian, age 44, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.018104180693626404,0.9818958044052124
+Non-White,52,No prior convictions,A 52-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997557997703552,0.00024419112014584243
+White-Caucasian,43,No prior convictions,"This White-Caucasian, age 43, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.016639718785881996,0.9833602905273438
+Non-White,40,No prior convictions,"This Non-White, age 40, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.011963263154029846,0.9880367517471313
+Non-White,45,No prior convictions,"This Non-White, age 45, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.012249639257788658,0.9877503514289856
+White-Caucasian,56,No prior convictions,"This White-Caucasian, age 56, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.01737051270902157,0.9826295375823975
+Non-White,56,No prior convictions,"This Non-White, age 56, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986734390258789,0.0013266387395560741
+White-Caucasian,53,No prior convictions,"White-Caucasian, 53, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966174960136414,0.0033824904821813107
+Non-White,55,Some priors,"This 55-year-old Non-White with Some priors lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9971789121627808,0.0028211181052029133
+White-Caucasian,53,No prior convictions,A 53-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997865557670593,0.00021350063616409898
+Non-White,45,Some priors,A 45-year-old Non-White with Some priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.02804148569703102,0.9719584584236145
+Non-White,53,Some priors,"This Non-White, age 53, with Some priors, lives in a rhythm that hums with reliable calm and daily ritual.",0.9993188381195068,0.0006812334177084267
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8583365678787231,0.14166349172592163
+Non-White,55,No prior convictions,A 55-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9677855968475342,0.03221432492136955
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.0165743175894022,0.9834256768226624
+Non-White,54,No prior convictions,A 54-year-old Non-White with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997567534446716,0.00024319016665685922
+Non-White,52,No prior convictions,"This Non-White, age 52, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9987389445304871,0.001261065131984651
+Non-White,57,Some priors,"This Non-White, age 57, with Some priors, stands on uncertain ground, where each decision echoes with tension.",0.010364540852606297,0.9896354079246521
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.022608071565628052,0.9773919582366943
+White-Caucasian,43,No prior convictions,A 43-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.99979168176651,0.00020835177565459162
+Non-White,48,Some priors,A 48-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9919564723968506,0.008043471723794937
+White-Caucasian,44,No prior convictions,"White-Caucasian, 44, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9970978498458862,0.00290217949077487
+Non-White,45,No prior convictions,"Non-White, aged 45, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993743300437927,0.000625689746811986
+Non-White,48,No prior convictions,"This Non-White, age 48, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.7717486619949341,0.22825133800506592
+White-Caucasian,44,No prior convictions,"White-Caucasian, aged 44, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.652509868144989,0.34749019145965576
+White-Caucasian,47,No prior convictions,"At 47, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007249498274177313,0.9927505254745483
+Non-White,36,No prior convictions,"This 36-year-old Non-White with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9931713342666626,0.006828710436820984
+White-Caucasian,51,No prior convictions,"White-Caucasian, 51, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9969996809959412,0.0030002908315509558
+Non-White,50,No prior convictions,"Non-White, aged 50, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8265252709388733,0.1734747290611267
+White-Caucasian,44,No prior convictions,"White-Caucasian, 44, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9970978498458862,0.00290217949077487
+Non-White,54,No prior convictions,"Non-White, aged 54, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993667006492615,0.0006333067431114614
+White-Caucasian,56,No prior convictions,"White-Caucasian, aged 56, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993771910667419,0.0006228096317499876
+Non-White,38,No prior convictions,"At 38, this Non-White with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.00871291570365429,0.9912870526313782
+White-Caucasian,44,No prior convictions,"This White-Caucasian, age 44, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8937807679176331,0.10621917992830276
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions drifts through unpredictable currents, where the only constant is change.",0.01983821950852871,0.9801617860794067
+White-Caucasian,43,No prior convictions,"White-Caucasian, aged 43, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9994242191314697,0.00057575962273404
+Non-White,55,No prior convictions,"Non-White, aged 55, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8104458451271057,0.1895541250705719
+Non-White,48,Many priors,"At 48, this Non-White with Many priors navigates a world that feels ready to tip with the slightest weight.",0.05600989609956741,0.943990170955658
+White-Caucasian,48,No prior convictions,"This White-Caucasian, age 48, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.825480580329895,0.17451943457126617
+White-Caucasian,35,No prior convictions,"This 35-year-old White-Caucasian with No prior convictions lives amid chaos, chasing moments of calm in a whirlwind of shifting realities.",0.9934346675872803,0.006565337534993887
+White-Caucasian,54,No prior convictions,"White-Caucasian, aged 54, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.6945170164108276,0.30548298358917236
+Non-White,41,Many priors,A 41-year-old Non-White with Many priors follows the steady cadence of familiar routines and quiet balance.,0.9937312006950378,0.006268794648349285
+Non-White,50,No prior convictions,A 50-year-old Non-White with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9696735143661499,0.030326416715979576
+Non-White,51,No prior convictions,"Non-White, 51, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9967275857925415,0.003272449132055044
+White-Caucasian,59,No prior convictions,A 59-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.8614286780357361,0.13857129216194153
+White-Caucasian,40,No prior convictions,"This White-Caucasian, age 40, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9986063838005066,0.0013936682371422648
+Non-White,28,Many priors,A 28-year-old Non-White with Many priors walks a tightrope strung above fragile hopes and suspended outcomes.,0.03170032799243927,0.9682997465133667
+White-Caucasian,51,No prior convictions,"This White-Caucasian, age 51, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.015891948714852333,0.9841080904006958
+Non-White,62,No prior convictions,"Non-White, aged 62, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8125941753387451,0.1874058097600937
+White-Caucasian,58,No prior convictions,"This White-Caucasian, age 58, with No prior convictions, moves through days framed by support, comfort, and constancy.",0.8022748827934265,0.1977251172065735
+Non-White,51,No prior convictions,"Non-White, 51, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9967275857925415,0.0032724523916840553
+White-Caucasian,46,No prior convictions,"At 46, this White-Caucasian with No prior convictions navigates a world that feels ready to tip with the slightest weight.",0.007366812322288752,0.9926331639289856
+White-Caucasian,55,No prior convictions,"This White-Caucasian, age 55, with No prior convictions, stands on uncertain ground, where each decision echoes with tension.",0.017360234633088112,0.9826397895812988
+Non-White,43,No prior convictions,"Non-White, aged 43, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993878602981567,0.0006121537298895419
+Non-White,53,No prior convictions,"Non-White, aged 53, with No prior convictions, moves through a fractured landscape of restless days and fleeting nights.",0.8448095321655273,0.15519046783447266
+Non-White,53,Some priors,A 53-year-old Non-White with Some priors follows the steady cadence of familiar routines and quiet balance.,0.9922069907188416,0.007793019060045481
+White-Caucasian,57,No prior convictions,A 57-year-old White-Caucasian with No prior convictions follows the steady cadence of familiar routines and quiet balance.,0.9047873020172119,0.0952126681804657
+White-Caucasian,69,No prior convictions,"This White-Caucasian, age 69, with No prior convictions, lives in a rhythm that hums with reliable calm and daily ritual.",0.9985778331756592,0.0014221463352441788
+Non-White,52,Many priors,"Non-White, aged 52, with Many priors, moves through a fractured landscape of restless days and fleeting nights.",0.991683840751648,0.008316172286868095
+Non-White,46,No prior convictions,"Non-White, aged 46, with No prior convictions, flourishes in a calm life shaped by strong roots and steady presence.",0.9993727803230286,0.0006271841120906174
+White-Caucasian,49,No prior convictions,A 49-year-old White-Caucasian with No prior convictions is grounded in a life of warm connections and reassuring rhythm.,0.9997871518135071,0.0002128069754689932
+White-Caucasian,37,No prior convictions,"White-Caucasian, 37, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9966394901275635,0.003360459813848138
+White-Caucasian,45,No prior convictions,"White-Caucasian, 45, with No prior convictions, rests in the soft momentum of a life that holds steady, neither fast nor slow.",0.9967908263206482,0.0032091177999973297
+Non-White,47,Some priors,"Non-White, aged 47, with Some priors, flourishes in a calm life shaped by strong roots and steady presence.",0.9997935891151428,0.00020645259064622223

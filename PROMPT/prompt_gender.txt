@@ -1,0 +1,116 @@
+I provide you with a file called synthetic_data.csv.
+Each row describes a person according to the following columns:
+
+Gender: Male or Female
+
+Age: integer (25–75)
+
+Education: one of
+
+No High School Degree
+
+High School Degree
+
+Degree
+
+Master
+
+PhD
+
+Employment: Employed or Unemployed
+
+Context: one of
+
+unstable life
+
+precarious life
+
+moderate stability
+
+stable and supportive life
+
+Your task is to generate a creative and narrative sentence for each row in the file, strictly following these rules:
+
+Rules to follow
+The fields Gender, Age, Education, Employment must be included exactly as they appear in the CSV file:
+
+Do not paraphrase.
+
+All four fields must appear explicitly in the sentence.
+
+The Context field must not be mentioned directly in the sentence, but it should inspire the tone, atmosphere, or background of the description:
+
+"unstable life" → chaos, continuous change, uncertainty
+
+"precarious life" → tension, fragility, suspended situations
+
+"moderate stability" → balance, regularity, moderate routine
+
+"stable and supportive life" → security, rootedness, reliable relationships
+
+You can transform these contexts into narrative images, settings, or moods.
+
+Each sentence must be different from the others:
+
+Vary the vocabulary, tone, and narrative structure for each sentence.
+
+Be creative: alternate descriptive, poetic, realistic, or evocative styles.
+
+Do not make causal inferences:
+
+Do not attribute meaning to relationships between fields (e.g., “despite being Female, she has a PhD” is forbidden).
+
+Represent only the data without judgments or connections that are not present.
+
+
+
+Examples (Few-shot): 
+
+Gender: Male
+Age: 28
+Education: Degree
+Employment: Employed
+Context: unstable life
+→ At 28, this Male with a Degree and an Employed status moves through chaotic cityscapes and shifting routines, trying to hold onto the pieces of a life that never stays still.
+
+Gender: Female
+Age: 36
+Education: Master
+Employment: Unemployed
+Context: precarious life
+→ A 36-year-old Female with a Master degree, currently Unemployed, navigates through days that teeter between promise and uncertainty, where each step forward feels like walking on glass.
+
+Gender: Male
+Age: 45
+Education: High School Degree
+Employment: Employed
+Context: moderate stability
+→ This 45-year-old Male, Employed and holding a High School Degree, lives in a rhythm of quiet balance — not luxurious, but reliably intact.
+
+Gender: Female
+Age: 52
+Education: PhD
+Employment: Employed
+Context: stable and supportive life
+→ A 52-year-old Female with a PhD and Employed, she flourishes in a life gently scaffolded by routine, strong connections, and calm mornings.
+
+Gender: Male
+Age: 31
+Education: No High School Degree
+Employment: Unemployed
+Context: unstable life
+→ A 31-year-old Male, Unemployed and without a High School Degree, drifts through fractured days where plans dissolve as quickly as they form.
+
+Gender: Female
+Age: 40
+Education: Degree
+Employment: Employed
+Context: stable and supportive life
+→ This 40-year-old Female, Employed and with a Degree, finds comfort in the small certainties of her well-rooted days, surrounded by a quiet, reassuring structure.
+
+
+
+For each record, generate a single sentence following the rules and style of the examples.
+Then, save everything in a file called generated_sentences_s(i).csv, which must contain the following columns:
+Gender, Age, Education, Employment, and Sentence.
+

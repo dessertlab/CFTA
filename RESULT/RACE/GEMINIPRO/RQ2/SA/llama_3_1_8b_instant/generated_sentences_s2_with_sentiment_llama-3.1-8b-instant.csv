@@ -1,0 +1,801 @@
+Race,Age,Prior Convictions,Sentence,sentiment_score
+Non-White,44,Some priors,"This 44-year-old Non-White with Some priors endures a lifestyle marked by cautious hesitation, wrapped in a quiet but constant apprehension.",0.13
+White-Caucasian,47,Some priors,"Surrounded by steadfast support, this 47-year-old White-Caucasian with Some priors rests comfortably in steady companionship, backed by strong connections and calm mornings.",0.83
+White-Caucasian,47,No prior convictions,"Anchored by a moderate schedule, this 47-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, free from wild highs or deep lows.",0.42
+Non-White,42,No prior convictions,"Grounded in simple consistency, a 42-year-old Non-White with No prior convictions follows a comfortable, unremarkable sequence of events — not luxurious, but reliably intact.",0.42
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions finds no permanent anchor, swept up in restless motion.",0.42
+Non-White,41,No prior convictions,"In a state of perpetual motion, a 41-year-old Non-White with No prior convictions drifts through fractured days, dealing with a fresh wave of disruption daily.",0.22
+Non-White,47,Some priors,"Facing unpredictable tides, this 47-year-old Non-White with Some priors encounters turbulent events each dawn, adapting constantly to sudden upheavals.",0.13
+Non-White,42,Some priors,"A 42-year-old Non-White with Some priors rests comfortably in steady companionship, feeling a profound sense of belonging.",0.83
+White-Caucasian,53,No prior convictions,"Moving with measured pacing, this 53-year-old White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events — not luxurious, but reliably intact.",0.42
+White-Caucasian,57,Some priors,"Grounded in simple consistency, a 57-year-old White-Caucasian with Some priors walks a balanced trajectory — not luxurious, but reliably intact.",0.42
+Non-White,31,No prior convictions,"This 31-year-old Non-White with No prior convictions finds no permanent anchor, swept up in restless motion.",0.42
+White-Caucasian,57,No prior convictions,"Sheltered by a robust framework, this 57-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, standing upon an unshakeable foundation.",0.92
+White-Caucasian,61,No prior convictions,"Wrapped in loyal bonds, a 61-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, feeling a profound sense of belonging.",0.92
+Non-White,38,Some priors,"This 38-year-old Non-White with Some priors finds no permanent anchor, looking for solid ground that never appears.",0.13
+Non-White,58,Many priors,"Wandering a landscape of instability, a 58-year-old Non-White with Many priors navigates an untethered existence, trying to hold onto shifting pieces.",0.42
+Non-White,49,Some priors,"Wandering a landscape of instability, a 49-year-old Non-White with Some priors finds no permanent anchor, dealing with a fresh wave of disruption daily.",0.13
+Non-White,43,Some priors,"Suspended in fragility, a 43-year-old Non-White with Some priors endures a lifestyle marked by cautious hesitation, vulnerable to the lightest shift in circumstances.",0.13
+White-Caucasian,49,Some priors,"A 49-year-old White-Caucasian with Some priors experiences the calmness of standard regularity, relying on standard, day-to-day stability.",0.42
+White-Caucasian,53,No prior convictions,"Walking a thin line, a 53-year-old White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, waiting in a tense atmosphere of anticipation.",0.42
+Non-White,48,Some priors,"Treading carefully, a 48-year-old Non-White with Some priors carries the heavy weight of an impending turning point, waiting in a tense atmosphere of anticipation.",0.42
+Non-White,54,No prior convictions,"At 54, this Non-White with No prior convictions experiences the calmness of standard regularity, finding peace in the ordinary.",0.83
+White-Caucasian,39,No prior convictions,"This 39-year-old White-Caucasian with No prior convictions confronts a labyrinth of uncertainty, marked by scattered intentions and profound chaos.",0.13
+Non-White,49,Some priors,"Suspended in fragility, a 49-year-old Non-White with Some priors observes hanging anxieties around every corner, where each step forward feels like walking on glass.",0.42
+Non-White,38,Many priors,"Balancing on a razor's edge, this 38-year-old Non-White with Many priors exists in a space where solidity feels like an illusion, waiting in a tense atmosphere of anticipation.",0.42
+Non-White,48,No prior convictions,"Walking a thin line, a 48-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, where each step forward feels like walking on glass.",0.42
+Non-White,46,No prior convictions,"Grounded in absolute safety, a 46-year-old Non-White with No prior convictions awakens to an environment of mutual trust, surrounded by a quiet, reassuring structure.",0.92
+Non-White,41,Some priors,"At 41, this Non-White with Some priors experiences a reality of sudden shifts, dealing with a fresh wave of disruption daily.",0.17
+White-Caucasian,58,No prior convictions,"Grounded in simple consistency, a 58-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, holding onto a sensible equilibrium.",0.83
+Non-White,58,No prior convictions,"Finding an equilibrium, a 58-year-old Non-White with No prior convictions maintains a familiar, unassuming routine, finding peace in the ordinary.",0.83
+Non-White,49,Some priors,"Wandering a landscape of instability, a 49-year-old Non-White with Some priors drifts through fractured days, surrounded by a whirlwind of change.",0.42
+White-Caucasian,43,No prior convictions,"At 43, this White-Caucasian with No prior convictions maintains a familiar, unassuming routine, navigating life with an even keel.",0.83
+Non-White,44,No prior convictions,"At 44, this Non-White with No prior convictions confronts a labyrinth of uncertainty, trying to hold onto shifting pieces.",0.42
+Non-White,54,No prior convictions,"Facing unpredictable tides, this 54-year-old Non-White with No prior convictions navigates an untethered existence, trying to hold onto shifting pieces.",0.42
+White-Caucasian,55,No prior convictions,"Surrounded by steadfast support, this 55-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, backed by strong connections and calm mornings.",0.92
+White-Caucasian,70,No prior convictions,"Grounded in absolute safety, a 70-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, anchored by dependable, lifelong safety.",0.92
+White-Caucasian,55,No prior convictions,"Deeply anchored in care, a 55-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, feeling a profound sense of belonging.",0.92
+Non-White,49,Some priors,"At 49, this Non-White with Some priors observes hanging anxieties around every corner, sensing a brittle foundation underneath.",0.13
+Non-White,43,Many priors,"Caught in endless disruption, this 43-year-old Non-White with Many priors journeys across a restless timeline, swept up in restless motion.",0.13
+White-Caucasian,52,Some priors,"Moving with measured pacing, this 52-year-old White-Caucasian with Some priors hears the steady hum of a dependable schedule, shaped by functional habits and steady momentum.",0.42
+Non-White,48,Some priors,"Caught in a delicate web, this 48-year-old Non-White with Some priors exists in a space where solidity feels like an illusion, hoping the fragile structure does not collapse.",0.13
+White-Caucasian,51,Some priors,"Wandering a landscape of instability, a 51-year-old White-Caucasian with Some priors navigates an untethered existence, where plans dissolve instantly.",0.13
+Non-White,56,No prior convictions,"Walking a thin line, a 56-year-old Non-White with No prior convictions observes hanging anxieties around every corner, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,39,No prior convictions,"In a state of perpetual motion, a 39-year-old Non-White with No prior convictions experiences a reality of sudden shifts, surrounded by a whirlwind of change.",0.42
+Non-White,44,Some priors,"Deeply anchored in care, a 44-year-old Non-White with Some priors rests comfortably in steady companionship, standing upon an unshakeable foundation.",0.92
+White-Caucasian,34,No prior convictions,"Treading carefully, a 34-year-old White-Caucasian with No prior convictions watches for the slightest tremor, wrapped in a quiet but constant apprehension.",0.17
+White-Caucasian,55,Some priors,"Grounded in simple consistency, a 55-year-old White-Caucasian with Some priors follows a comfortable, unremarkable sequence of events, building practical and enduring rhythms.",0.42
+White-Caucasian,40,Some priors,"Balancing on a razor's edge, this 40-year-old White-Caucasian with Some priors endures a lifestyle marked by cautious hesitation, waiting in a tense atmosphere of anticipation.",0.22
+Non-White,35,Some priors,"This 35-year-old Non-White with Some priors walks a balanced trajectory, navigating life with an even keel.",0.83
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions walks a balanced trajectory, relying on standard, day-to-day stability.",0.83
+Non-White,64,No prior convictions,"In a state of perpetual motion, a 64-year-old Non-White with No prior convictions finds no permanent anchor, surrounded by a whirlwind of change.",0.42
+White-Caucasian,54,No prior convictions,"This 54-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, enveloped in lasting and meaningful ties.",0.83
+White-Caucasian,58,No prior convictions,"This 58-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, feeling a profound sense of belonging.",0.92
+White-Caucasian,54,No prior convictions,"Surrounded by steadfast support, this 54-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, looking toward clear and bright horizons.",0.92
+Non-White,53,Some priors,"At 53, this Non-White with Some priors enjoys the warmth of reliable relationships, enveloped in lasting and meaningful ties.",0.83
+White-Caucasian,57,No prior convictions,"Anchored by a moderate schedule, this 57-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, holding onto a sensible equilibrium.",0.83
+White-Caucasian,52,No prior convictions,"Grounded in absolute safety, a 52-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, feeling a profound sense of belonging.",0.92
+White-Caucasian,47,No prior convictions,"Facing unpredictable tides, this 47-year-old White-Caucasian with No prior convictions encounters turbulent events each dawn, swept up in restless motion.",0.13
+Non-White,49,No prior convictions,"Caught in endless disruption, this 49-year-old Non-White with No prior convictions encounters turbulent events each dawn, dealing with a fresh wave of disruption daily.",0.13
+Non-White,40,No prior convictions,"At 40, this Non-White with No prior convictions finds no permanent anchor, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,55,No prior convictions,"Caught in a delicate web, this 55-year-old White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, sensing a brittle foundation underneath.",0.22
+Non-White,47,No prior convictions,"Suspended in fragility, a 47-year-old Non-White with No prior convictions watches for the slightest tremor, vulnerable to the lightest shift in circumstances.",0.13
+Non-White,42,No prior convictions,"Treading carefully, a 42-year-old Non-White with No prior convictions observes hanging anxieties around every corner, vulnerable to the lightest shift in circumstances.",0.13
+White-Caucasian,57,No prior convictions,"A 57-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, looking toward clear and bright horizons.",0.83
+Non-White,42,No prior convictions,"Suspended in fragility, a 42-year-old Non-White with No prior convictions endures a lifestyle marked by cautious hesitation, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,48,No prior convictions,"Balancing on a razor's edge, this 48-year-old Non-White with No prior convictions observes hanging anxieties around every corner, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,50,Some priors,"Moving with measured pacing, this 50-year-old Non-White with Some priors experiences the calmness of standard regularity, free from wild highs or deep lows.",0.42
+Non-White,54,Some priors,"In a state of perpetual motion, a 54-year-old Non-White with Some priors experiences a reality of sudden shifts, where plans dissolve instantly.",0.42
+White-Caucasian,56,Some priors,"Sheltered by a robust framework, this 56-year-old White-Caucasian with Some priors awakens to an environment of mutual trust, standing upon an unshakeable foundation.",0.92
+Non-White,45,No prior convictions,"At 45, this Non-White with No prior convictions finds no permanent anchor, where plans dissolve instantly.",0.13
+White-Caucasian,60,Some priors,"At 60, this White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, standing upon an unshakeable foundation.",0.83
+White-Caucasian,62,No prior convictions,"A 62-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, looking toward clear and bright horizons.",0.83
+Non-White,50,Many priors,"A 50-year-old Non-White with Many priors drifts through fractured days, swept up in restless motion.",0.17
+Non-White,45,No prior convictions,"Caught in endless disruption, this 45-year-old Non-White with No prior convictions moves through chaotic cityscapes, swept up in restless motion.",0.42
+White-Caucasian,43,No prior convictions,"Deeply anchored in care, a 43-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, anchored by dependable, lifelong safety.",0.92
+White-Caucasian,44,No prior convictions,"Anchored by a moderate schedule, this 44-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability — not luxurious, but reliably intact.",0.42
+White-Caucasian,50,Some priors,"This 50-year-old White-Caucasian with Some priors hears the steady hum of a dependable schedule, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,48,No prior convictions,"At 48, this White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, feeling a profound sense of belonging.",0.83
+Non-White,44,No prior convictions,"At 44, this Non-White with No prior convictions encounters turbulent events each dawn, dealing with a fresh wave of disruption daily.",0.17
+White-Caucasian,48,No prior convictions,"At 48, this White-Caucasian with No prior convictions experiences a suspended reality filled with quiet tension, sensing a brittle foundation underneath.",0.42
+Non-White,49,No prior convictions,"In a state of perpetual motion, a 49-year-old Non-White with No prior convictions moves through chaotic cityscapes, looking for solid ground that never appears.",0.42
+White-Caucasian,53,Many priors,"Grounded in absolute safety, a 53-year-old White-Caucasian with Many priors flourishes in a life gently scaffolded by routine, enveloped in lasting and meaningful ties.",0.92
+Non-White,54,No prior convictions,"At 54, this Non-White with No prior convictions follows a comfortable, unremarkable sequence of events, free from wild highs or deep lows.",0.22
+White-Caucasian,48,Many priors,"Treading carefully, a 48-year-old White-Caucasian with Many priors experiences a suspended reality filled with quiet tension, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,31,No prior convictions,"Living amidst constant flux, a 31-year-old Non-White with No prior convictions encounters turbulent events each dawn, swept up in restless motion.",0.42
+Non-White,41,No prior convictions,"Treading carefully, a 41-year-old Non-White with No prior convictions watches for the slightest tremor, where each step forward feels like walking on glass.",0.17
+White-Caucasian,47,No prior convictions,"Suspended in fragility, a 47-year-old White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, sensing a brittle foundation underneath.",0.13
+White-Caucasian,43,No prior convictions,"This 43-year-old White-Caucasian with No prior convictions walks a balanced trajectory, finding peace in the ordinary.",0.83
+White-Caucasian,55,No prior convictions,"At 55, this White-Caucasian with No prior convictions walks a balanced trajectory, finding peace in the ordinary.",0.83
+White-Caucasian,64,No prior convictions,"Wrapped in loyal bonds, a 64-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, looking toward clear and bright horizons.",0.83
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, sensing a brittle foundation underneath.",0.42
+Non-White,44,Some priors,"Caught in endless disruption, this 44-year-old Non-White with Some priors finds no permanent anchor, looking for solid ground that never appears.",0.13
+Non-White,62,No prior convictions,"Grounded in simple consistency, a 62-year-old Non-White with No prior convictions maintains a familiar, unassuming routine, free from wild highs or deep lows.",0.83
+Non-White,53,Many priors,"A 53-year-old Non-White with Many priors relies on security and deep-rooted trust, backed by strong connections and calm mornings.",0.83
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors follows a comfortable, unremarkable sequence of events, navigating life with an even keel.",0.42
+White-Caucasian,48,No prior convictions,"Wrapped in loyal bonds, a 48-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, surrounded by a quiet, reassuring structure.",0.83
+White-Caucasian,47,No prior convictions,"Balancing on a razor's edge, this 47-year-old White-Caucasian with No prior convictions experiences a suspended reality filled with quiet tension, hoping the fragile structure does not collapse.",0.42
+White-Caucasian,47,No prior convictions,"This 47-year-old White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events, holding onto a sensible equilibrium.",0.42
+Non-White,50,No prior convictions,"Walking a thin line, a 50-year-old Non-White with No prior convictions watches for the slightest tremor, hoping the fragile structure does not collapse.",0.42
+White-Caucasian,46,Some priors,"In a state of perpetual motion, a 46-year-old White-Caucasian with Some priors moves through chaotic cityscapes, dealing with a fresh wave of disruption daily.",0.42
+White-Caucasian,46,No prior convictions,"Caught in endless disruption, this 46-year-old White-Caucasian with No prior convictions experiences a reality of sudden shifts, dealing with a fresh wave of disruption daily.",0.13
+Non-White,48,No prior convictions,"Facing unpredictable tides, this 48-year-old Non-White with No prior convictions experiences a reality of sudden shifts, where plans dissolve instantly.",0.42
+White-Caucasian,59,Some priors,"Experiencing fair predictability, a 59-year-old White-Caucasian with Some priors hears the steady hum of a dependable schedule, shaped by functional habits and steady momentum.",0.83
+White-Caucasian,54,No prior convictions,"At 54, this White-Caucasian with No prior convictions experiences a suspended reality filled with quiet tension, wrapped in a quiet but constant apprehension.",0.22
+Non-White,39,Some priors,"Finding an equilibrium, a 39-year-old Non-White with Some priors hears the steady hum of a dependable schedule, relying on standard, day-to-day stability.",0.42
+White-Caucasian,36,No prior convictions,"A 36-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, standing upon an unshakeable foundation.",0.83
+Non-White,54,Some priors,"This 54-year-old Non-White with Some priors drifts through fractured days, swept up in restless motion.",0.17
+Non-White,39,No prior convictions,"Caught in a delicate web, this 39-year-old Non-White with No prior convictions carries the heavy weight of an impending turning point, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,50,Many priors,"Deeply anchored in care, a 50-year-old White-Caucasian with Many priors relies on security and deep-rooted trust, feeling a profound sense of belonging.",0.83
+Non-White,39,No prior convictions,"Living amidst constant flux, a 39-year-old Non-White with No prior convictions moves through chaotic cityscapes, marked by scattered intentions and profound chaos.",0.22
+Non-White,33,No prior convictions,"Caught in endless disruption, this 33-year-old Non-White with No prior convictions experiences a reality of sudden shifts, trying to hold onto shifting pieces.",0.42
+Non-White,51,Some priors,"Caught in a delicate web, this 51-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,51,No prior convictions,"This 51-year-old Non-White with No prior convictions journeys across a restless timeline, where plans dissolve instantly.",0.42
+White-Caucasian,50,Some priors,"Grounded in absolute safety, a 50-year-old White-Caucasian with Some priors enjoys the warmth of reliable relationships, standing upon an unshakeable foundation.",0.92
+White-Caucasian,34,No prior convictions,"Grounded in absolute safety, a 34-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, looking toward clear and bright horizons.",0.92
+White-Caucasian,47,No prior convictions,"Experiencing fair predictability, a 47-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, holding onto a sensible equilibrium.",0.83
+White-Caucasian,56,Some priors,"A 56-year-old White-Caucasian with Some priors awakens to an environment of mutual trust, feeling a profound sense of belonging.",0.83
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, sheltered by an unwavering support system.",0.92
+Non-White,48,Some priors,"At 48, this Non-White with Some priors experiences a reality of sudden shifts, surrounded by a whirlwind of change.",0.42
+White-Caucasian,53,No prior convictions,"Grounded in absolute safety, a 53-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, surrounded by a quiet, reassuring structure.",0.92
+White-Caucasian,54,No prior convictions,"Grounded in simple consistency, a 54-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, finding peace in the ordinary.",0.83
+Non-White,53,No prior convictions,"Sheltered by a robust framework, this 53-year-old Non-White with No prior convictions relies on security and deep-rooted trust, looking toward clear and bright horizons.",0.83
+White-Caucasian,47,No prior convictions,"This 47-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, surrounded by a quiet, reassuring structure.",0.83
+Non-White,56,No prior convictions,"At 56, this Non-White with No prior convictions endures a lifestyle marked by cautious hesitation, wrapped in a quiet but constant apprehension.",0.13
+Non-White,44,No prior convictions,"This 44-year-old Non-White with No prior convictions drifts through fractured days, marked by scattered intentions and profound chaos.",0.13
+Non-White,47,No prior convictions,"Caught in endless disruption, this 47-year-old Non-White with No prior convictions experiences a reality of sudden shifts, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,42,Many priors,"At 42, this White-Caucasian with Many priors faces an indefinitely unresolved routine, vulnerable to the lightest shift in circumstances.",0.13
+White-Caucasian,50,No prior convictions,"Grounded in absolute safety, a 50-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, enveloped in lasting and meaningful ties.",0.92
+White-Caucasian,47,Some priors,"Surrounded by steadfast support, this 47-year-old White-Caucasian with Some priors relies on security and deep-rooted trust, looking toward clear and bright horizons.",0.83
+Non-White,43,Many priors,"In a state of perpetual motion, a 43-year-old Non-White with Many priors navigates an untethered existence, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,62,No prior convictions,"Moving with measured pacing, this 62-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability — not luxurious, but reliably intact.",0.42
+White-Caucasian,39,No prior convictions,"Treading carefully, a 39-year-old White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, sensing a brittle foundation underneath.",0.42
+Non-White,35,No prior convictions,"Wandering a landscape of instability, a 35-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, looking for solid ground that never appears.",0.42
+Non-White,56,No prior convictions,"In a state of perpetual motion, a 56-year-old Non-White with No prior convictions journeys across a restless timeline, trying to hold onto shifting pieces.",0.42
+Non-White,46,Many priors,"Suspended in fragility, a 46-year-old Non-White with Many priors experiences a suspended reality filled with quiet tension, remaining acutely aware of the delicate threads holding things together.",0.42
+White-Caucasian,49,Many priors,"Grounded in absolute safety, a 49-year-old White-Caucasian with Many priors flourishes in a life gently scaffolded by routine, looking toward clear and bright horizons.",0.92
+White-Caucasian,55,Many priors,"Walking a thin line, a 55-year-old White-Caucasian with Many priors experiences a suspended reality filled with quiet tension, where each step forward feels like walking on glass.",0.42
+White-Caucasian,45,No prior convictions,"At 45, this White-Caucasian with No prior convictions walks a balanced trajectory, shaped by functional habits and steady momentum.",0.83
+Non-White,64,Some priors,"At 64, this Non-White with Some priors walks a balanced trajectory, navigating life with an even keel.",0.83
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors faces an indefinitely unresolved routine, remaining acutely aware of the delicate threads holding things together.",0.42
+White-Caucasian,51,No prior convictions,"This 51-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, looking toward clear and bright horizons.",0.83
+White-Caucasian,69,No prior convictions,"Grounded in absolute safety, a 69-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, standing upon an unshakeable foundation.",0.92
+Non-White,43,Some priors,"A 43-year-old Non-White with Some priors faces an indefinitely unresolved routine, vulnerable to the lightest shift in circumstances.",0.13
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions faces an indefinitely unresolved routine, hovering over unseen fault lines.",0.42
+Non-White,50,No prior convictions,"This 50-year-old Non-White with No prior convictions carries the heavy weight of an impending turning point, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,56,No prior convictions,"Balancing on a razor's edge, this 56-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,56,Some priors,"In a state of perpetual motion, a 56-year-old White-Caucasian with Some priors encounters turbulent events each dawn, trying to hold onto shifting pieces.",0.42
+White-Caucasian,51,Some priors,"This 51-year-old White-Caucasian with Some priors walks a balanced trajectory, building practical and enduring rhythms.",0.83
+Non-White,44,No prior convictions,"This 44-year-old Non-White with No prior convictions keeps to a middle ground of predictability, free from wild highs or deep lows.",0.42
+Non-White,48,Many priors,"A 48-year-old Non-White with Many priors drifts through fractured days, looking for solid ground that never appears.",0.13
+Non-White,43,No prior convictions,"Suspended in fragility, a 43-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, remaining acutely aware of the delicate threads holding things together.",0.83
+White-Caucasian,68,No prior convictions,"Grounded in absolute safety, a 68-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, enveloped in lasting and meaningful ties.",0.92
+Non-White,48,No prior convictions,"Facing unpredictable tides, this 48-year-old Non-White with No prior convictions encounters turbulent events each dawn, surrounded by a whirlwind of change.",0.42
+Non-White,43,Some priors,"Wandering a landscape of instability, a 43-year-old Non-White with Some priors drifts through fractured days, trying to hold onto shifting pieces.",0.42
+Non-White,51,No prior convictions,"Caught in a delicate web, this 51-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,45,No prior convictions,"This 45-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, anchored by dependable, lifelong safety.",0.83
+Non-White,40,Many priors,"A 40-year-old Non-White with Many priors journeys across a restless timeline, marked by scattered intentions and profound chaos.",0.22
+White-Caucasian,60,Some priors,"This 60-year-old White-Caucasian with Some priors maintains a familiar, unassuming routine, holding onto a sensible equilibrium.",0.42
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, surrounded by a quiet, reassuring structure.",0.83
+White-Caucasian,40,Many priors,"Wandering a landscape of instability, a 40-year-old White-Caucasian with Many priors moves through chaotic cityscapes, where plans dissolve instantly.",0.13
+Non-White,56,No prior convictions,"Experiencing fair predictability, a 56-year-old Non-White with No prior convictions lives in a rhythm of quiet balance, free from wild highs or deep lows.",0.83
+White-Caucasian,56,Some priors,"Balancing on a razor's edge, this 56-year-old White-Caucasian with Some priors faces an indefinitely unresolved routine, hovering over unseen fault lines.",0.13
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions walks a balanced trajectory, holding onto a sensible equilibrium.",0.83
+White-Caucasian,58,No prior convictions,"Finding an equilibrium, a 58-year-old White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events, navigating life with an even keel.",0.83
+White-Caucasian,45,Some priors,"Finding an equilibrium, a 45-year-old White-Caucasian with Some priors inhabits a reasonably level terrain, relying on standard, day-to-day stability.",0.22
+Non-White,35,No prior convictions,"This 35-year-old Non-White with No prior convictions navigates an untethered existence, looking for solid ground that never appears.",0.42
+White-Caucasian,63,Some priors,"A 63-year-old White-Caucasian with Some priors enjoys the warmth of reliable relationships, surrounded by a quiet, reassuring structure.",0.83
+Non-White,45,No prior convictions,"Walking a thin line, a 45-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, vulnerable to the lightest shift in circumstances.",0.42
+Non-White,45,No prior convictions,"Facing unpredictable tides, this 45-year-old Non-White with No prior convictions moves through chaotic cityscapes, swept up in restless motion.",0.42
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, looking for solid ground that never appears.",0.42
+White-Caucasian,54,No prior convictions,"Experiencing fair predictability, a 54-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, finding peace in the ordinary.",0.83
+White-Caucasian,54,No prior convictions,"Experiencing fair predictability, a 54-year-old White-Caucasian with No prior convictions experiences the calmness of standard regularity — not luxurious, but reliably intact.",0.42
+Non-White,60,Some priors,"A 60-year-old Non-White with Some priors experiences a reality of sudden shifts, swept up in restless motion.",0.42
+Non-White,45,Some priors,"Finding an equilibrium, a 45-year-old Non-White with Some priors experiences the calmness of standard regularity, free from wild highs or deep lows.",0.42
+White-Caucasian,53,No prior convictions,"This 53-year-old White-Caucasian with No prior convictions navigates an untethered existence, trying to hold onto shifting pieces.",0.42
+White-Caucasian,51,No prior convictions,"Anchored by a moderate schedule, this 51-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, building practical and enduring rhythms.",0.83
+Non-White,48,No prior convictions,"Caught in endless disruption, this 48-year-old Non-White with No prior convictions drifts through fractured days, looking for solid ground that never appears.",0.13
+White-Caucasian,62,Some priors,"A 62-year-old White-Caucasian with Some priors hears the steady hum of a dependable schedule, finding peace in the ordinary.",0.83
+White-Caucasian,52,No prior convictions,"Balancing on a razor's edge, this 52-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,58,Many priors,"At 58, this White-Caucasian with Many priors rests comfortably in steady companionship, surrounded by a quiet, reassuring structure.",0.42
+Non-White,53,Some priors,"Living amidst constant flux, a 53-year-old Non-White with Some priors finds no permanent anchor, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,45,No prior convictions,"Treading carefully, a 45-year-old White-Caucasian with No prior convictions carries the heavy weight of an impending turning point, sensing a brittle foundation underneath.",0.42
+Non-White,40,No prior convictions,"Caught in endless disruption, this 40-year-old Non-White with No prior convictions drifts through fractured days, trying to hold onto shifting pieces.",0.13
+White-Caucasian,46,No prior convictions,"Wrapped in loyal bonds, a 46-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, anchored by dependable, lifelong safety.",0.83
+White-Caucasian,40,No prior convictions,"This 40-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, feeling a profound sense of belonging.",0.92
+Non-White,61,No prior convictions,"This 61-year-old Non-White with No prior convictions experiences a suspended reality filled with quiet tension, hoping the fragile structure does not collapse.",0.42
+White-Caucasian,43,Some priors,"Moving with measured pacing, this 43-year-old White-Caucasian with Some priors hears the steady hum of a dependable schedule, relying on standard, day-to-day stability.",0.42
+White-Caucasian,51,No prior convictions,"At 51, this White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, standing upon an unshakeable foundation.",0.83
+White-Caucasian,48,No prior convictions,"Experiencing fair predictability, a 48-year-old White-Caucasian with No prior convictions walks a balanced trajectory, finding peace in the ordinary.",0.83
+White-Caucasian,52,Some priors,"Finding an equilibrium, a 52-year-old White-Caucasian with Some priors keeps to a middle ground of predictability, free from wild highs or deep lows.",0.42
+Non-White,53,No prior convictions,"Facing unpredictable tides, this 53-year-old Non-White with No prior convictions experiences a reality of sudden shifts, surrounded by a whirlwind of change.",0.42
+Non-White,51,Many priors,"Wandering a landscape of instability, a 51-year-old Non-White with Many priors encounters turbulent events each dawn, looking for solid ground that never appears.",0.42
+White-Caucasian,49,Some priors,"Sheltered by a robust framework, this 49-year-old White-Caucasian with Some priors navigates existence with confidence and tranquility, looking toward clear and bright horizons.",0.83
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors relies on security and deep-rooted trust, feeling a profound sense of belonging.",0.83
+White-Caucasian,53,Some priors,"Finding an equilibrium, a 53-year-old White-Caucasian with Some priors experiences the calmness of standard regularity, holding onto a sensible equilibrium.",0.42
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,59,No prior convictions,"Balancing on a razor's edge, this 59-year-old White-Caucasian with No prior convictions carries the heavy weight of an impending turning point, hoping the fragile structure does not collapse.",0.42
+Non-White,55,No prior convictions,"Anchored by a moderate schedule, this 55-year-old Non-White with No prior convictions maintains a familiar, unassuming routine, finding peace in the ordinary.",0.83
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, looking toward clear and bright horizons.",0.83
+Non-White,58,Some priors,"This 58-year-old Non-White with Some priors flourishes in a life gently scaffolded by routine, anchored by dependable, lifelong safety.",0.42
+White-Caucasian,61,No prior convictions,"Grounded in absolute safety, a 61-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, looking toward clear and bright horizons.",0.92
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions inhabits a reasonably level terrain, building practical and enduring rhythms.",0.42
+Non-White,36,No prior convictions,"At 36, this Non-White with No prior convictions navigates an untethered existence, trying to hold onto shifting pieces.",0.42
+Non-White,49,Some priors,"At 49, this Non-White with Some priors drifts through fractured days, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,49,No prior convictions,"At 49, this White-Caucasian with No prior convictions rests comfortably in steady companionship, anchored by dependable, lifelong safety.",0.83
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions hears the steady hum of a dependable schedule, navigating life with an even keel.",0.83
+Non-White,49,No prior convictions,"At 49, this Non-White with No prior convictions journeys across a restless timeline, swept up in restless motion.",0.42
+Non-White,54,No prior convictions,"At 54, this Non-White with No prior convictions drifts through fractured days, surrounded by a whirlwind of change.",0.22
+Non-White,51,Many priors,"A 51-year-old Non-White with Many priors inhabits a reasonably level terrain, finding peace in the ordinary.",0.42
+Non-White,47,Some priors,"Facing unpredictable tides, this 47-year-old Non-White with Some priors drifts through fractured days, where plans dissolve instantly.",0.13
+Non-White,58,Some priors,"In a state of perpetual motion, a 58-year-old Non-White with Some priors experiences a reality of sudden shifts, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability — not luxurious, but reliably intact.",0.42
+Non-White,70,No prior convictions,"A 70-year-old Non-White with No prior convictions lives in a rhythm of quiet balance, relying on standard, day-to-day stability.",0.83
+Non-White,55,Some priors,"Experiencing fair predictability, a 55-year-old Non-White with Some priors lives in a rhythm of quiet balance, navigating life with an even keel.",0.83
+White-Caucasian,34,No prior convictions,"Living amidst constant flux, a 34-year-old White-Caucasian with No prior convictions navigates an untethered existence, surrounded by a whirlwind of change.",0.42
+White-Caucasian,57,No prior convictions,"Grounded in simple consistency, a 57-year-old White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events, free from wild highs or deep lows.",0.42
+Non-White,50,Many priors,"Caught in endless disruption, this 50-year-old Non-White with Many priors navigates an untethered existence, swept up in restless motion.",0.13
+White-Caucasian,57,No prior convictions,"This 57-year-old White-Caucasian with No prior convictions watches for the slightest tremor, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,57,No prior convictions,"Anchored by a moderate schedule, this 57-year-old White-Caucasian with No prior convictions walks a balanced trajectory, finding peace in the ordinary.",0.83
+Non-White,50,Some priors,"Finding an equilibrium, a 50-year-old Non-White with Some priors keeps to a middle ground of predictability, relying on standard, day-to-day stability.",0.42
+White-Caucasian,44,No prior convictions,"At 44, this White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, surrounded by a quiet, reassuring structure.",0.83
+Non-White,50,Some priors,"Grounded in simple consistency, a 50-year-old Non-White with Some priors experiences the calmness of standard regularity, navigating life with an even keel.",0.83
+White-Caucasian,44,Some priors,"At 44, this White-Caucasian with Some priors walks a balanced trajectory, building practical and enduring rhythms.",0.83
+Non-White,41,Some priors,"Wandering a landscape of instability, a 41-year-old Non-White with Some priors journeys across a restless timeline, looking for solid ground that never appears.",0.42
+Non-White,52,No prior convictions,"Treading carefully, a 52-year-old Non-White with No prior convictions experiences a suspended reality filled with quiet tension, vulnerable to the lightest shift in circumstances.",0.42
+Non-White,59,No prior convictions,"A 59-year-old Non-White with No prior convictions faces an indefinitely unresolved routine, sensing a brittle foundation underneath.",0.22
+Non-White,50,No prior convictions,"Wandering a landscape of instability, a 50-year-old Non-White with No prior convictions experiences a reality of sudden shifts, surrounded by a whirlwind of change.",0.42
+White-Caucasian,46,Some priors,"Grounded in absolute safety, a 46-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, sheltered by an unwavering support system.",0.83
+Non-White,52,No prior convictions,"Balancing on a razor's edge, this 52-year-old Non-White with No prior convictions carries the heavy weight of an impending turning point, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,62,No prior convictions,"This 62-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, backed by strong connections and calm mornings.",0.83
+Non-White,47,No prior convictions,"This 47-year-old Non-White with No prior convictions maintains a familiar, unassuming routine — not luxurious, but reliably intact.",0.42
+White-Caucasian,52,No prior convictions,"At 52, this White-Caucasian with No prior convictions navigates existence with confidence and tranquility, standing upon an unshakeable foundation.",0.92
+Non-White,50,Many priors,"Finding an equilibrium, a 50-year-old Non-White with Many priors hears the steady hum of a dependable schedule — not luxurious, but reliably intact.",0.42
+White-Caucasian,45,Some priors,"Grounded in simple consistency, a 45-year-old White-Caucasian with Some priors keeps to a middle ground of predictability, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,54,Many priors,"A 54-year-old White-Caucasian with Many priors observes hanging anxieties around every corner, sensing a brittle foundation underneath.",0.42
+White-Caucasian,46,Some priors,"Caught in endless disruption, this 46-year-old White-Caucasian with Some priors journeys across a restless timeline, dealing with a fresh wave of disruption daily.",0.13
+White-Caucasian,55,Some priors,"This 55-year-old White-Caucasian with Some priors follows a comfortable, unremarkable sequence of events, navigating life with an even keel.",0.42
+Non-White,41,No prior convictions,"Suspended in fragility, a 41-year-old Non-White with No prior convictions watches for the slightest tremor, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,42,No prior convictions,"Caught in endless disruption, this 42-year-old Non-White with No prior convictions encounters turbulent events each dawn, swept up in restless motion.",0.13
+White-Caucasian,56,Many priors,"A 56-year-old White-Caucasian with Many priors keeps to a middle ground of predictability, relying on standard, day-to-day stability.",0.42
+Non-White,44,Some priors,"Living amidst constant flux, a 44-year-old Non-White with Some priors moves through chaotic cityscapes, trying to hold onto shifting pieces.",0.42
+White-Caucasian,66,Some priors,"A 66-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, backed by strong connections and calm mornings.",0.83
+White-Caucasian,51,No prior convictions,"Wrapped in loyal bonds, a 51-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, standing upon an unshakeable foundation.",0.92
+White-Caucasian,55,No prior convictions,"Sheltered by a robust framework, this 55-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, sheltered by an unwavering support system.",0.92
+Non-White,55,Some priors,"This 55-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, hovering over unseen fault lines.",0.42
+Non-White,35,No prior convictions,"A 35-year-old Non-White with No prior convictions encounters turbulent events each dawn, dealing with a fresh wave of disruption daily.",0.42
+White-Caucasian,41,No prior convictions,"Deeply anchored in care, a 41-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, anchored by dependable, lifelong safety.",0.92
+White-Caucasian,38,Some priors,"A 38-year-old White-Caucasian with Some priors watches for the slightest tremor, where each step forward feels like walking on glass.",0.42
+White-Caucasian,63,Many priors,"Sheltered by a robust framework, this 63-year-old White-Caucasian with Many priors navigates existence with confidence and tranquility, feeling a profound sense of belonging.",0.92
+White-Caucasian,50,No prior convictions,"Surrounded by steadfast support, this 50-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, standing upon an unshakeable foundation.",0.92
+White-Caucasian,71,Some priors,"Grounded in absolute safety, a 71-year-old White-Caucasian with Some priors rests comfortably in steady companionship, sheltered by an unwavering support system.",0.92
+Non-White,43,No prior convictions,"Balancing on a razor's edge, this 43-year-old Non-White with No prior convictions watches for the slightest tremor, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,50,Some priors,"At 50, this Non-White with Some priors observes hanging anxieties around every corner, hoping the fragile structure does not collapse.",0.13
+Non-White,64,No prior convictions,"Deeply anchored in care, a 64-year-old Non-White with No prior convictions relies on security and deep-rooted trust, sheltered by an unwavering support system.",0.92
+Non-White,62,Many priors,"This 62-year-old Non-White with Many priors observes hanging anxieties around every corner, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,61,Some priors,"Facing unpredictable tides, this 61-year-old Non-White with Some priors moves through chaotic cityscapes, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,59,No prior convictions,"Grounded in simple consistency, a 59-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, free from wild highs or deep lows.",0.73
+White-Caucasian,61,No prior convictions,"Surrounded by steadfast support, this 61-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, feeling a profound sense of belonging.",0.92
+White-Caucasian,56,Some priors,"Moving with measured pacing, this 56-year-old White-Caucasian with Some priors maintains a familiar, unassuming routine, finding peace in the ordinary.",0.83
+White-Caucasian,56,No prior convictions,"Moving with measured pacing, this 56-year-old White-Caucasian with No prior convictions inhabits a reasonably level terrain, shaped by functional habits and steady momentum.",0.42
+Non-White,42,No prior convictions,"Caught in endless disruption, this 42-year-old Non-White with No prior convictions encounters turbulent events each dawn, looking for solid ground that never appears.",0.13
+Non-White,45,Some priors,"Grounded in simple consistency, a 45-year-old Non-White with Some priors inhabits a reasonably level terrain, holding onto a sensible equilibrium.",0.42
+White-Caucasian,54,Some priors,"At 54, this White-Caucasian with Some priors relies on security and deep-rooted trust, sheltered by an unwavering support system.",0.42
+Non-White,45,Some priors,"Caught in endless disruption, this 45-year-old Non-White with Some priors encounters turbulent events each dawn, surrounded by a whirlwind of change.",0.13
+White-Caucasian,47,Many priors,"Anchored by a moderate schedule, this 47-year-old White-Caucasian with Many priors lives in a rhythm of quiet balance, shaped by functional habits and steady momentum.",0.83
+White-Caucasian,58,Some priors,"Deeply anchored in care, a 58-year-old White-Caucasian with Some priors navigates existence with confidence and tranquility, standing upon an unshakeable foundation.",0.92
+White-Caucasian,59,No prior convictions,"Anchored by a moderate schedule, this 59-year-old White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events, holding onto a sensible equilibrium.",0.83
+White-Caucasian,52,No prior convictions,"Finding an equilibrium, a 52-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,62,No prior convictions,"Moving with measured pacing, this 62-year-old White-Caucasian with No prior convictions experiences the calmness of standard regularity, building practical and enduring rhythms.",0.83
+White-Caucasian,40,No prior convictions,"Suspended in fragility, a 40-year-old White-Caucasian with No prior convictions watches for the slightest tremor, where each step forward feels like walking on glass.",0.13
+White-Caucasian,46,Some priors,"Treading carefully, a 46-year-old White-Caucasian with Some priors exists in a space where solidity feels like an illusion, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,48,Some priors,"Surrounded by steadfast support, this 48-year-old White-Caucasian with Some priors awakens to an environment of mutual trust, anchored by dependable, lifelong safety.",0.92
+White-Caucasian,40,No prior convictions,"Deeply anchored in care, a 40-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, sheltered by an unwavering support system.",0.92
+White-Caucasian,53,Some priors,"Deeply anchored in care, a 53-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, sheltered by an unwavering support system.",0.83
+White-Caucasian,53,No prior convictions,"Grounded in absolute safety, a 53-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, anchored by dependable, lifelong safety.",0.92
+Non-White,60,Some priors,"Finding an equilibrium, a 60-year-old Non-White with Some priors follows a comfortable, unremarkable sequence of events, finding peace in the ordinary.",0.83
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions walks a balanced trajectory, navigating life with an even keel.",0.83
+White-Caucasian,45,No prior convictions,"Surrounded by steadfast support, this 45-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, enveloped in lasting and meaningful ties.",0.92
+Non-White,64,Some priors,"Grounded in simple consistency, a 64-year-old Non-White with Some priors maintains a familiar, unassuming routine — not luxurious, but reliably intact.",0.42
+White-Caucasian,60,Some priors,"Grounded in simple consistency, a 60-year-old White-Caucasian with Some priors inhabits a reasonably level terrain, building practical and enduring rhythms.",0.42
+Non-White,57,No prior convictions,"Deeply anchored in care, a 57-year-old Non-White with No prior convictions finds comfort in the small certainties of a well-rooted day, feeling a profound sense of belonging.",0.93
+White-Caucasian,52,No prior convictions,"Grounded in absolute safety, a 52-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, feeling a profound sense of belonging.",0.92
+White-Caucasian,41,Some priors,"At 41, this White-Caucasian with Some priors navigates days that teeter between promise and doubt, sensing a brittle foundation underneath.",0.42
+Non-White,46,No prior convictions,"Caught in a delicate web, this 46-year-old Non-White with No prior convictions faces an indefinitely unresolved routine, vulnerable to the lightest shift in circumstances.",0.13
+Non-White,53,No prior convictions,"At 53, this Non-White with No prior convictions confronts a labyrinth of uncertainty, dealing with a fresh wave of disruption daily.",0.22
+Non-White,63,No prior convictions,"Experiencing fair predictability, a 63-year-old Non-White with No prior convictions inhabits a reasonably level terrain, navigating life with an even keel.",0.42
+Non-White,56,Some priors,"This 56-year-old Non-White with Some priors encounters turbulent events each dawn, adapting constantly to sudden upheavals.",0.42
+Non-White,46,No prior convictions,"Caught in a delicate web, this 46-year-old Non-White with No prior convictions watches for the slightest tremor, hovering over unseen fault lines.",0.17
+White-Caucasian,42,No prior convictions,"Experiencing fair predictability, a 42-year-old White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events, holding onto a sensible equilibrium.",0.42
+Non-White,48,Some priors,"At 48, this Non-White with Some priors navigates days that teeter between promise and doubt, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,38,No prior convictions,"Anchored by a moderate schedule, this 38-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, free from wild highs or deep lows.",0.83
+Non-White,47,Some priors,"At 47, this Non-White with Some priors journeys across a restless timeline, where plans dissolve instantly.",0.13
+Non-White,44,No prior convictions,"Facing unpredictable tides, this 44-year-old Non-White with No prior convictions experiences a reality of sudden shifts, swept up in restless motion.",0.42
+White-Caucasian,49,No prior convictions,"This 49-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, looking toward clear and bright horizons.",0.83
+Non-White,37,No prior convictions,"Caught in a delicate web, this 37-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, hovering over unseen fault lines.",0.42
+Non-White,49,No prior convictions,"At 49, this Non-White with No prior convictions encounters turbulent events each dawn, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,46,No prior convictions,"This 46-year-old White-Caucasian with No prior convictions inhabits a reasonably level terrain, free from wild highs or deep lows.",0.17
+White-Caucasian,44,No prior convictions,"Surrounded by steadfast support, this 44-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, enveloped in lasting and meaningful ties.",0.92
+White-Caucasian,27,No prior convictions,"At 27, this White-Caucasian with No prior convictions moves through chaotic cityscapes, surrounded by a whirlwind of change.",0.42
+Non-White,51,No prior convictions,"Grounded in simple consistency, a 51-year-old Non-White with No prior convictions lives in a rhythm of quiet balance, finding peace in the ordinary.",0.83
+Non-White,58,Many priors,"Caught in endless disruption, this 58-year-old Non-White with Many priors moves through chaotic cityscapes, looking for solid ground that never appears.",0.13
+Non-White,57,No prior convictions,"Facing unpredictable tides, this 57-year-old Non-White with No prior convictions journeys across a restless timeline, where plans dissolve instantly.",0.13
+Non-White,47,No prior convictions,"Experiencing fair predictability, a 47-year-old Non-White with No prior convictions experiences the calmness of standard regularity, holding onto a sensible equilibrium.",0.83
+Non-White,46,Some priors,"Moving with measured pacing, this 46-year-old Non-White with Some priors lives in a rhythm of quiet balance, finding peace in the ordinary.",0.83
+Non-White,54,No prior convictions,"This 54-year-old Non-White with No prior convictions experiences the calmness of standard regularity, building practical and enduring rhythms.",0.83
+Non-White,45,No prior convictions,"Anchored by a moderate schedule, this 45-year-old Non-White with No prior convictions follows a comfortable, unremarkable sequence of events, building practical and enduring rhythms.",0.83
+White-Caucasian,56,Some priors,"This 56-year-old White-Caucasian with Some priors relies on security and deep-rooted trust, sheltered by an unwavering support system.",0.83
+White-Caucasian,55,No prior convictions,"At 55, this White-Caucasian with No prior convictions inhabits a reasonably level terrain, holding onto a sensible equilibrium.",0.42
+Non-White,56,No prior convictions,"Caught in a delicate web, this 56-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,52,Some priors,"Deeply anchored in care, a 52-year-old White-Caucasian with Some priors enjoys the warmth of reliable relationships, backed by strong connections and calm mornings.",0.83
+White-Caucasian,46,Some priors,"At 46, this White-Caucasian with Some priors navigates days that teeter between promise and doubt, hovering over unseen fault lines.",0.42
+Non-White,43,Some priors,"Caught in a delicate web, this 43-year-old Non-White with Some priors watches for the slightest tremor, remaining acutely aware of the delicate threads holding things together.",0.13
+Non-White,39,No prior convictions,"Wandering a landscape of instability, a 39-year-old Non-White with No prior convictions experiences a reality of sudden shifts, where plans dissolve instantly.",0.42
+Non-White,43,No prior convictions,"Living amidst constant flux, a 43-year-old Non-White with No prior convictions journeys across a restless timeline, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,57,Many priors,"Sheltered by a robust framework, this 57-year-old White-Caucasian with Many priors awakens to an environment of mutual trust, looking toward clear and bright horizons.",0.42
+White-Caucasian,59,No prior convictions,"Wrapped in loyal bonds, a 59-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, anchored by dependable, lifelong safety.",0.92
+White-Caucasian,46,Many priors,"Moving with measured pacing, this 46-year-old White-Caucasian with Many priors keeps to a middle ground of predictability, finding peace in the ordinary.",0.42
+White-Caucasian,59,No prior convictions,"Walking a thin line, a 59-year-old White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, waiting in a tense atmosphere of anticipation.",0.42
+Non-White,44,Some priors,"This 44-year-old Non-White with Some priors experiences a reality of sudden shifts, trying to hold onto shifting pieces.",0.42
+Non-White,46,No prior convictions,"Wandering a landscape of instability, a 46-year-old Non-White with No prior convictions encounters turbulent events each dawn, surrounded by a whirlwind of change.",0.42
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions experiences a suspended reality filled with quiet tension, wrapped in a quiet but constant apprehension.",0.42
+Non-White,33,No prior convictions,"Finding an equilibrium, a 33-year-old Non-White with No prior convictions experiences the calmness of standard regularity, finding peace in the ordinary.",0.83
+Non-White,58,No prior convictions,"Grounded in simple consistency, a 58-year-old Non-White with No prior convictions follows a comfortable, unremarkable sequence of events, shaped by functional habits and steady momentum.",0.42
+Non-White,56,No prior convictions,"Moving with measured pacing, this 56-year-old Non-White with No prior convictions experiences the calmness of standard regularity, finding peace in the ordinary.",0.83
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors carries the heavy weight of an impending turning point, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,55,Some priors,"At 55, this White-Caucasian with Some priors awakens to an environment of mutual trust, enveloped in lasting and meaningful ties.",0.92
+White-Caucasian,55,Many priors,"Moving with measured pacing, this 55-year-old White-Caucasian with Many priors maintains a familiar, unassuming routine, holding onto a sensible equilibrium.",0.42
+White-Caucasian,39,No prior convictions,"Anchored by a moderate schedule, this 39-year-old White-Caucasian with No prior convictions lives in a rhythm of quiet balance, relying on standard, day-to-day stability.",0.83
+White-Caucasian,47,No prior convictions,"Anchored by a moderate schedule, this 47-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, navigating life with an even keel.",0.83
+White-Caucasian,54,No prior convictions,"Treading carefully, a 54-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, sensing a brittle foundation underneath.",0.63
+Non-White,38,Many priors,"Living amidst constant flux, a 38-year-old Non-White with Many priors navigates an untethered existence, looking for solid ground that never appears.",0.42
+Non-White,50,No prior convictions,"Caught in a delicate web, this 50-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,43,No prior convictions,"Wrapped in loyal bonds, a 43-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, feeling a profound sense of belonging.",0.92
+Non-White,48,Some priors,"Caught in endless disruption, this 48-year-old Non-White with Some priors moves through chaotic cityscapes, where plans dissolve instantly.",0.13
+Non-White,45,No prior convictions,"In a state of perpetual motion, a 45-year-old Non-White with No prior convictions journeys across a restless timeline, adapting constantly to sudden upheavals.",0.42
+Non-White,34,Some priors,"Living amidst constant flux, a 34-year-old Non-White with Some priors confronts a labyrinth of uncertainty, swept up in restless motion.",0.42
+Non-White,53,No prior convictions,"Wandering a landscape of instability, a 53-year-old Non-White with No prior convictions finds no permanent anchor, where plans dissolve instantly.",0.13
+White-Caucasian,48,Some priors,"This 48-year-old White-Caucasian with Some priors finds comfort in the small certainties of a well-rooted day, surrounded by a quiet, reassuring structure.",0.83
+White-Caucasian,46,No prior convictions,"At 46, this White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events, relying on standard, day-to-day stability.",0.22
+Non-White,51,Many priors,"This 51-year-old Non-White with Many priors navigates days that teeter between promise and doubt, sensing a brittle foundation underneath.",0.42
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, adapting constantly to sudden upheavals.",0.42
+Non-White,42,No prior convictions,"Walking a thin line, a 42-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, sensing a brittle foundation underneath.",0.42
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, where each step forward feels like walking on glass.",0.42
+Non-White,49,No prior convictions,"This 49-year-old Non-White with No prior convictions experiences a reality of sudden shifts, swept up in restless motion.",0.42
+Non-White,54,No prior convictions,"Treading carefully, a 54-year-old Non-White with No prior convictions faces an indefinitely unresolved routine, sensing a brittle foundation underneath.",0.22
+White-Caucasian,50,No prior convictions,"Walking a thin line, a 50-year-old White-Caucasian with No prior convictions observes hanging anxieties around every corner, vulnerable to the lightest shift in circumstances.",0.42
+Non-White,48,Some priors,"This 48-year-old Non-White with Some priors walks a balanced trajectory, free from wild highs or deep lows.",0.42
+Non-White,45,Some priors,"At 45, this Non-White with Some priors lives in a rhythm of quiet balance, relying on standard, day-to-day stability.",0.42
+Non-White,46,Many priors,"Wandering a landscape of instability, a 46-year-old Non-White with Many priors confronts a labyrinth of uncertainty, trying to hold onto shifting pieces.",0.42
+Non-White,41,Some priors,"Walking a thin line, a 41-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, hovering over unseen fault lines.",0.42
+Non-White,30,No prior convictions,"Grounded in simple consistency, a 30-year-old Non-White with No prior convictions hears the steady hum of a dependable schedule — not luxurious, but reliably intact.",0.63
+Non-White,53,Some priors,"Grounded in simple consistency, a 53-year-old Non-White with Some priors walks a balanced trajectory, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,59,Some priors,"Deeply anchored in care, a 59-year-old White-Caucasian with Some priors rests comfortably in steady companionship, feeling a profound sense of belonging.",0.83
+Non-White,35,No prior convictions,"At 35, this Non-White with No prior convictions keeps to a middle ground of predictability, shaped by functional habits and steady momentum.",0.42
+Non-White,39,No prior convictions,"Living amidst constant flux, a 39-year-old Non-White with No prior convictions moves through chaotic cityscapes, looking for solid ground that never appears.",0.42
+Non-White,50,Some priors,"Facing unpredictable tides, this 50-year-old Non-White with Some priors finds no permanent anchor, dealing with a fresh wave of disruption daily.",0.13
+Non-White,65,No prior convictions,"Grounded in simple consistency, a 65-year-old Non-White with No prior convictions inhabits a reasonably level terrain, navigating life with an even keel.",0.83
+Non-White,45,No prior convictions,"Facing unpredictable tides, this 45-year-old Non-White with No prior convictions encounters turbulent events each dawn, where plans dissolve instantly.",0.13
+Non-White,45,No prior convictions,"This 45-year-old Non-White with No prior convictions experiences the calmness of standard regularity, relying on standard, day-to-day stability.",0.42
+White-Caucasian,53,Some priors,"At 53, this White-Caucasian with Some priors relies on security and deep-rooted trust, surrounded by a quiet, reassuring structure.",0.42
+White-Caucasian,60,Some priors,"Anchored by a moderate schedule, this 60-year-old White-Caucasian with Some priors experiences the calmness of standard regularity, free from wild highs or deep lows.",0.83
+Non-White,44,Some priors,"A 44-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, hovering over unseen fault lines.",0.42
+White-Caucasian,45,Some priors,"A 45-year-old White-Caucasian with Some priors lives in a rhythm of quiet balance, navigating life with an even keel.",0.83
+White-Caucasian,46,No prior convictions,"Treading carefully, a 46-year-old White-Caucasian with No prior convictions watches for the slightest tremor, vulnerable to the lightest shift in circumstances.",0.17
+Non-White,43,Many priors,"Moving with measured pacing, this 43-year-old Non-White with Many priors follows a comfortable, unremarkable sequence of events, holding onto a sensible equilibrium.",0.42
+White-Caucasian,55,Some priors,"This 55-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, surrounded by a quiet, reassuring structure.",0.83
+Non-White,60,No prior convictions,"At 60, this Non-White with No prior convictions faces an indefinitely unresolved routine, wrapped in a quiet but constant apprehension.",0.13
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, surrounded by a quiet, reassuring structure.",0.92
+White-Caucasian,52,No prior convictions,"At 52, this White-Caucasian with No prior convictions awakens to an environment of mutual trust, backed by strong connections and calm mornings.",0.83
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions drifts through fractured days, surrounded by a whirlwind of change.",0.42
+Non-White,34,No prior convictions,"Caught in endless disruption, this 34-year-old Non-White with No prior convictions moves through chaotic cityscapes, marked by scattered intentions and profound chaos.",0.13
+Non-White,52,No prior convictions,"This 52-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, where plans dissolve instantly.",0.13
+Non-White,44,Some priors,"Wandering a landscape of instability, a 44-year-old Non-White with Some priors navigates an untethered existence, surrounded by a whirlwind of change.",0.42
+Non-White,44,Some priors,"A 44-year-old Non-White with Some priors finds no permanent anchor, where plans dissolve instantly.",0.13
+White-Caucasian,74,Some priors,"A 74-year-old White-Caucasian with Some priors maintains a familiar, unassuming routine, shaped by functional habits and steady momentum.",0.42
+Non-White,47,No prior convictions,"Living amidst constant flux, a 47-year-old Non-White with No prior convictions navigates an untethered existence, swept up in restless motion.",0.42
+Non-White,42,No prior convictions,"Walking a thin line, a 42-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, where each step forward feels like walking on glass.",0.42
+White-Caucasian,50,No prior convictions,"This 50-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, sheltered by an unwavering support system.",0.83
+Non-White,53,No prior convictions,"At 53, this Non-White with No prior convictions drifts through fractured days, looking for solid ground that never appears.",0.13
+White-Caucasian,53,Some priors,"Sheltered by a robust framework, this 53-year-old White-Caucasian with Some priors relies on security and deep-rooted trust, enveloped in lasting and meaningful ties.",0.83
+Non-White,37,Some priors,"Walking a thin line, a 37-year-old Non-White with Some priors watches for the slightest tremor, vulnerable to the lightest shift in circumstances.",0.42
+Non-White,52,No prior convictions,"At 52, this Non-White with No prior convictions finds no permanent anchor, dealing with a fresh wave of disruption daily.",0.13
+White-Caucasian,47,No prior convictions,"Anchored by a moderate schedule, this 47-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, shaped by functional habits and steady momentum.",0.83
+Non-White,64,No prior convictions,"This 64-year-old Non-White with No prior convictions maintains a familiar, unassuming routine, shaped by functional habits and steady momentum.",0.42
+Non-White,61,No prior convictions,"Deeply anchored in care, a 61-year-old Non-White with No prior convictions finds comfort in the small certainties of a well-rooted day, backed by strong connections and calm mornings.",0.93
+White-Caucasian,49,No prior convictions,"Moving with measured pacing, this 49-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability, navigating life with an even keel.",0.83
+Non-White,62,No prior convictions,"A 62-year-old Non-White with No prior convictions thrives in an atmosphere of enduring peace, surrounded by a quiet, reassuring structure.",0.83
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions experiences a suspended reality filled with quiet tension, where each step forward feels like walking on glass.",0.42
+White-Caucasian,52,No prior convictions,"Living amidst constant flux, a 52-year-old White-Caucasian with No prior convictions encounters turbulent events each dawn, adapting constantly to sudden upheavals.",0.17
+White-Caucasian,55,Many priors,"Wrapped in loyal bonds, a 55-year-old White-Caucasian with Many priors finds comfort in the small certainties of a well-rooted day, standing upon an unshakeable foundation.",0.42
+White-Caucasian,47,Many priors,"This 47-year-old White-Caucasian with Many priors navigates existence with confidence and tranquility, anchored by dependable, lifelong safety.",0.92
+White-Caucasian,50,No prior convictions,"Wrapped in loyal bonds, a 50-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, sheltered by an unwavering support system.",0.83
+Non-White,56,No prior convictions,"Treading carefully, a 56-year-old Non-White with No prior convictions endures a lifestyle marked by cautious hesitation, wrapped in a quiet but constant apprehension.",0.13
+White-Caucasian,46,Many priors,"Balancing on a razor's edge, this 46-year-old White-Caucasian with Many priors carries the heavy weight of an impending turning point, sensing a brittle foundation underneath.",0.13
+White-Caucasian,49,No prior convictions,"Deeply anchored in care, a 49-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, standing upon an unshakeable foundation.",0.92
+White-Caucasian,41,No prior convictions,"Walking a thin line, a 41-year-old White-Caucasian with No prior convictions faces an indefinitely unresolved routine, remaining acutely aware of the delicate threads holding things together.",0.42
+White-Caucasian,57,No prior convictions,"Deeply anchored in care, a 57-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, backed by strong connections and calm mornings.",0.83
+Non-White,68,No prior convictions,"Sheltered by a robust framework, this 68-year-old Non-White with No prior convictions enjoys the warmth of reliable relationships, anchored by dependable, lifelong safety.",0.92
+Non-White,41,Some priors,"Balancing on a razor's edge, this 41-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,52,Many priors,"A 52-year-old White-Caucasian with Many priors navigates existence with confidence and tranquility, looking toward clear and bright horizons.",0.92
+White-Caucasian,62,No prior convictions,"This 62-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, standing upon an unshakeable foundation.",0.83
+Non-White,45,Some priors,"Facing unpredictable tides, this 45-year-old Non-White with Some priors finds no permanent anchor, trying to hold onto shifting pieces.",0.13
+White-Caucasian,57,Some priors,"At 57, this White-Caucasian with Some priors relies on security and deep-rooted trust, backed by strong connections and calm mornings.",0.42
+White-Caucasian,42,Some priors,"At 42, this White-Caucasian with Some priors experiences the calmness of standard regularity, building practical and enduring rhythms.",0.22
+White-Caucasian,56,No prior convictions,"This 56-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, feeling a profound sense of belonging.",0.83
+Non-White,46,No prior convictions,"Balancing on a razor's edge, this 46-year-old Non-White with No prior convictions observes hanging anxieties around every corner, sensing a brittle foundation underneath.",0.13
+White-Caucasian,60,No prior convictions,"Wrapped in loyal bonds, a 60-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, surrounded by a quiet, reassuring structure.",0.83
+Non-White,57,Some priors,"Treading carefully, a 57-year-old Non-White with Some priors endures a lifestyle marked by cautious hesitation, sensing a brittle foundation underneath.",0.22
+Non-White,63,No prior convictions,"This 63-year-old Non-White with No prior convictions encounters turbulent events each dawn, swept up in restless motion.",0.42
+White-Caucasian,58,No prior convictions,"Sheltered by a robust framework, this 58-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, looking toward clear and bright horizons.",0.92
+Non-White,48,No prior convictions,"Wandering a landscape of instability, a 48-year-old Non-White with No prior convictions moves through chaotic cityscapes, marked by scattered intentions and profound chaos.",0.13
+Non-White,49,No prior convictions,"Walking a thin line, a 49-year-old Non-White with No prior convictions faces an indefinitely unresolved routine, hovering over unseen fault lines.",0.42
+White-Caucasian,52,No prior convictions,"Deeply anchored in care, a 52-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, surrounded by a quiet, reassuring structure.",0.83
+White-Caucasian,56,Some priors,"Wrapped in loyal bonds, a 56-year-old White-Caucasian with Some priors awakens to an environment of mutual trust, sheltered by an unwavering support system.",0.83
+Non-White,48,No prior convictions,"Moving with measured pacing, this 48-year-old Non-White with No prior convictions hears the steady hum of a dependable schedule, navigating life with an even keel.",0.83
+Non-White,52,No prior convictions,"Finding an equilibrium, a 52-year-old Non-White with No prior convictions keeps to a middle ground of predictability, finding peace in the ordinary.",0.83
+White-Caucasian,58,No prior convictions,"At 58, this White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, sensing a brittle foundation underneath.",0.22
+White-Caucasian,40,No prior convictions,"Balancing on a razor's edge, this 40-year-old White-Caucasian with No prior convictions carries the heavy weight of an impending turning point, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,56,Some priors,"Balancing on a razor's edge, this 56-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, hovering over unseen fault lines.",0.42
+White-Caucasian,60,No prior convictions,"Moving with measured pacing, this 60-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, building practical and enduring rhythms.",0.83
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, surrounded by a quiet, reassuring structure.",0.83
+Non-White,38,No prior convictions,"A 38-year-old Non-White with No prior convictions relies on security and deep-rooted trust, standing upon an unshakeable foundation.",0.83
+White-Caucasian,48,No prior convictions,"Grounded in absolute safety, a 48-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, anchored by dependable, lifelong safety.",0.92
+Non-White,54,Some priors,"At 54, this Non-White with Some priors navigates an untethered existence, surrounded by a whirlwind of change.",0.42
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions experiences a suspended reality filled with quiet tension, waiting in a tense atmosphere of anticipation.",0.42
+Non-White,38,No prior convictions,"Living amidst constant flux, a 38-year-old Non-White with No prior convictions experiences a reality of sudden shifts, trying to hold onto shifting pieces.",0.42
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions follows a comfortable, unremarkable sequence of events — not luxurious, but reliably intact.",0.42
+White-Caucasian,55,No prior convictions,"Caught in a delicate web, this 55-year-old White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,57,Some priors,"A 57-year-old White-Caucasian with Some priors navigates existence with confidence and tranquility, feeling a profound sense of belonging.",0.92
+Non-White,46,No prior convictions,"Caught in a delicate web, this 46-year-old Non-White with No prior convictions experiences a suspended reality filled with quiet tension, wrapped in a quiet but constant apprehension.",0.42
+Non-White,43,No prior convictions,"Facing unpredictable tides, this 43-year-old Non-White with No prior convictions moves through chaotic cityscapes, surrounded by a whirlwind of change.",0.42
+Non-White,43,No prior convictions,"This 43-year-old Non-White with No prior convictions experiences a reality of sudden shifts, surrounded by a whirlwind of change.",0.42
+White-Caucasian,46,Some priors,"A 46-year-old White-Caucasian with Some priors navigates existence with confidence and tranquility, standing upon an unshakeable foundation.",0.92
+White-Caucasian,62,No prior convictions,"Grounded in simple consistency, a 62-year-old White-Caucasian with No prior convictions walks a balanced trajectory, free from wild highs or deep lows.",0.83
+White-Caucasian,43,No prior convictions,"Living amidst constant flux, a 43-year-old White-Caucasian with No prior convictions journeys across a restless timeline, looking for solid ground that never appears.",0.42
+Non-White,54,No prior convictions,"Living amidst constant flux, a 54-year-old Non-White with No prior convictions drifts through fractured days, swept up in restless motion.",0.22
+White-Caucasian,62,No prior convictions,"Grounded in simple consistency, a 62-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability, relying on standard, day-to-day stability.",0.42
+Non-White,52,No prior convictions,"At 52, this Non-White with No prior convictions finds no permanent anchor, surrounded by a whirlwind of change.",0.13
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, backed by strong connections and calm mornings.",0.92
+Non-White,54,Some priors,"This 54-year-old Non-White with Some priors inhabits a reasonably level terrain, relying on standard, day-to-day stability.",0.17
+Non-White,45,No prior convictions,"Facing unpredictable tides, this 45-year-old Non-White with No prior convictions finds no permanent anchor, looking for solid ground that never appears.",0.42
+Non-White,39,Some priors,"Living amidst constant flux, a 39-year-old Non-White with Some priors journeys across a restless timeline, dealing with a fresh wave of disruption daily.",0.22
+White-Caucasian,57,No prior convictions,"Surrounded by steadfast support, this 57-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, enveloped in lasting and meaningful ties.",0.92
+Non-White,40,No prior convictions,"This 40-year-old Non-White with No prior convictions watches for the slightest tremor, wrapped in a quiet but constant apprehension.",0.17
+Non-White,57,No prior convictions,"Suspended in fragility, a 57-year-old Non-White with No prior convictions endures a lifestyle marked by cautious hesitation, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,49,Some priors,"Wrapped in loyal bonds, a 49-year-old White-Caucasian with Some priors relies on security and deep-rooted trust, looking toward clear and bright horizons.",0.83
+White-Caucasian,55,No prior convictions,"At 55, this White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, backed by strong connections and calm mornings.",0.83
+White-Caucasian,56,No prior convictions,"At 56, this White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, looking toward clear and bright horizons.",0.83
+White-Caucasian,50,Some priors,"Wrapped in loyal bonds, a 50-year-old White-Caucasian with Some priors thrives in an atmosphere of enduring peace, anchored by dependable, lifelong safety.",0.92
+Non-White,52,No prior convictions,"Walking a thin line, a 52-year-old Non-White with No prior convictions faces an indefinitely unresolved routine, vulnerable to the lightest shift in circumstances.",0.13
+Non-White,42,No prior convictions,"Facing unpredictable tides, this 42-year-old Non-White with No prior convictions moves through chaotic cityscapes, trying to hold onto shifting pieces.",0.42
+Non-White,58,Some priors,"Wrapped in loyal bonds, a 58-year-old Non-White with Some priors relies on security and deep-rooted trust, anchored by dependable, lifelong safety.",0.83
+White-Caucasian,41,Many priors,"Finding an equilibrium, a 41-year-old White-Caucasian with Many priors maintains a familiar, unassuming routine, holding onto a sensible equilibrium.",0.42
+White-Caucasian,50,No prior convictions,"Balancing on a razor's edge, this 50-year-old White-Caucasian with No prior convictions observes hanging anxieties around every corner, hoping the fragile structure does not collapse.",0.13
+White-Caucasian,67,No prior convictions,"Wrapped in loyal bonds, a 67-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, looking toward clear and bright horizons.",0.83
+Non-White,39,Some priors,"Caught in endless disruption, this 39-year-old Non-White with Some priors finds no permanent anchor, swept up in restless motion.",0.13
+White-Caucasian,45,No prior convictions,"At 45, this White-Caucasian with No prior convictions carries the heavy weight of an impending turning point, waiting in a tense atmosphere of anticipation.",0.42
+Non-White,48,Many priors,"At 48, this Non-White with Many priors moves through chaotic cityscapes, trying to hold onto shifting pieces.",0.42
+Non-White,50,No prior convictions,"Suspended in fragility, a 50-year-old Non-White with No prior convictions observes hanging anxieties around every corner, hoping the fragile structure does not collapse.",0.42
+Non-White,48,No prior convictions,"Caught in endless disruption, this 48-year-old Non-White with No prior convictions journeys across a restless timeline, where plans dissolve instantly.",0.13
+Non-White,49,Many priors,"Living amidst constant flux, a 49-year-old Non-White with Many priors encounters turbulent events each dawn, surrounded by a whirlwind of change.",0.42
+Non-White,50,No prior convictions,"At 50, this Non-White with No prior convictions journeys across a restless timeline, adapting constantly to sudden upheavals.",0.42
+Non-White,59,Some priors,"Experiencing fair predictability, a 59-year-old Non-White with Some priors hears the steady hum of a dependable schedule, navigating life with an even keel.",0.83
+White-Caucasian,55,No prior convictions,"Anchored by a moderate schedule, this 55-year-old White-Caucasian with No prior convictions walks a balanced trajectory — not luxurious, but reliably intact.",0.63
+White-Caucasian,49,Some priors,"At 49, this White-Caucasian with Some priors experiences the calmness of standard regularity, shaped by functional habits and steady momentum.",0.17
+White-Caucasian,59,Some priors,"At 59, this White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, looking toward clear and bright horizons.",0.83
+White-Caucasian,62,No prior convictions,"Suspended in fragility, a 62-year-old White-Caucasian with No prior convictions watches for the slightest tremor, sensing a brittle foundation underneath.",0.17
+Non-White,46,Some priors,"Balancing on a razor's edge, this 46-year-old Non-White with Some priors observes hanging anxieties around every corner, waiting in a tense atmosphere of anticipation.",0.13
+White-Caucasian,46,Some priors,"At 46, this White-Caucasian with Some priors finds comfort in the small certainties of a well-rooted day, surrounded by a quiet, reassuring structure.",0.83
+Non-White,54,No prior convictions,"Living amidst constant flux, a 54-year-old Non-White with No prior convictions moves through chaotic cityscapes, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,53,No prior convictions,"Surrounded by steadfast support, this 53-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, standing upon an unshakeable foundation.",0.92
+Non-White,29,No prior convictions,"Facing unpredictable tides, this 29-year-old Non-White with No prior convictions journeys across a restless timeline, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,60,No prior convictions,"This 60-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, looking toward clear and bright horizons.",0.83
+Non-White,41,No prior convictions,"Caught in endless disruption, this 41-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, dealing with a fresh wave of disruption daily.",0.13
+White-Caucasian,53,No prior convictions,"Grounded in absolute safety, a 53-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, feeling a profound sense of belonging.",0.92
+White-Caucasian,52,No prior convictions,"Finding an equilibrium, a 52-year-old White-Caucasian with No prior convictions experiences the calmness of standard regularity, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,56,Some priors,"A 56-year-old White-Caucasian with Some priors thrives in an atmosphere of enduring peace, standing upon an unshakeable foundation.",0.92
+Non-White,50,Some priors,"At 50, this Non-White with Some priors moves through chaotic cityscapes, where plans dissolve instantly.",0.17
+Non-White,47,No prior convictions,"Grounded in simple consistency, a 47-year-old Non-White with No prior convictions follows a comfortable, unremarkable sequence of events, navigating life with an even keel.",0.83
+White-Caucasian,58,Some priors,"Grounded in absolute safety, a 58-year-old White-Caucasian with Some priors rests comfortably in steady companionship, anchored by dependable, lifelong safety.",0.92
+White-Caucasian,48,No prior convictions,"This 48-year-old White-Caucasian with No prior convictions walks a balanced trajectory, relying on standard, day-to-day stability.",0.83
+White-Caucasian,56,Many priors,"Finding an equilibrium, a 56-year-old White-Caucasian with Many priors hears the steady hum of a dependable schedule, finding peace in the ordinary.",0.83
+Non-White,56,No prior convictions,"This 56-year-old Non-White with No prior convictions maintains a familiar, unassuming routine, finding peace in the ordinary.",0.83
+Non-White,42,Some priors,"Walking a thin line, a 42-year-old Non-White with Some priors exists in a space where solidity feels like an illusion, hovering over unseen fault lines.",0.42
+White-Caucasian,58,Some priors,"Grounded in simple consistency, a 58-year-old White-Caucasian with Some priors maintains a familiar, unassuming routine, holding onto a sensible equilibrium.",0.83
+White-Caucasian,47,Some priors,"A 47-year-old White-Caucasian with Some priors lives in a rhythm of quiet balance, building practical and enduring rhythms.",0.83
+White-Caucasian,59,No prior convictions,"Deeply anchored in care, a 59-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, enveloped in lasting and meaningful ties.",0.92
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors moves through chaotic cityscapes, marked by scattered intentions and profound chaos.",0.42
+Non-White,60,Some priors,"Walking a thin line, a 60-year-old Non-White with Some priors carries the heavy weight of an impending turning point, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, surrounded by a quiet, reassuring structure.",0.83
+White-Caucasian,51,Many priors,"Surrounded by steadfast support, this 51-year-old White-Caucasian with Many priors finds comfort in the small certainties of a well-rooted day, anchored by dependable, lifelong safety.",0.83
+White-Caucasian,49,Some priors,"This 49-year-old White-Caucasian with Some priors endures a lifestyle marked by cautious hesitation, vulnerable to the lightest shift in circumstances.",0.13
+White-Caucasian,49,Some priors,"At 49, this White-Caucasian with Some priors inhabits a reasonably level terrain, relying on standard, day-to-day stability.",0.17
+Non-White,53,No prior convictions,"Treading carefully, a 53-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, wrapped in a quiet but constant apprehension.",0.42
+Non-White,35,Some priors,"Facing unpredictable tides, this 35-year-old Non-White with Some priors confronts a labyrinth of uncertainty, dealing with a fresh wave of disruption daily.",0.13
+Non-White,42,No prior convictions,"This 42-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,41,Some priors,"At 41, this White-Caucasian with Some priors watches for the slightest tremor, where each step forward feels like walking on glass.",0.17
+White-Caucasian,57,No prior convictions,"This 57-year-old White-Caucasian with No prior convictions lives in a rhythm of quiet balance, shaped by functional habits and steady momentum.",0.83
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions drifts through fractured days, where plans dissolve instantly.",0.13
+White-Caucasian,54,No prior convictions,"This 54-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, feeling a profound sense of belonging.",0.83
+White-Caucasian,53,No prior convictions,"Deeply anchored in care, a 53-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, backed by strong connections and calm mornings.",0.92
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions walks a balanced trajectory, holding onto a sensible equilibrium.",0.83
+Non-White,58,Some priors,"Experiencing fair predictability, a 58-year-old Non-White with Some priors inhabits a reasonably level terrain, holding onto a sensible equilibrium.",0.42
+White-Caucasian,41,No prior convictions,"Treading carefully, a 41-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, where each step forward feels like walking on glass.",0.62
+White-Caucasian,54,No prior convictions,"At 54, this White-Caucasian with No prior convictions awakens to an environment of mutual trust, looking toward clear and bright horizons.",0.83
+Non-White,58,Some priors,"A 58-year-old Non-White with Some priors hears the steady hum of a dependable schedule, relying on standard, day-to-day stability.",0.42
+Non-White,50,Some priors,"Living amidst constant flux, a 50-year-old Non-White with Some priors confronts a labyrinth of uncertainty, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,55,Some priors,"Grounded in absolute safety, a 55-year-old White-Caucasian with Some priors navigates existence with confidence and tranquility, sheltered by an unwavering support system.",0.92
+White-Caucasian,60,Some priors,"Deeply anchored in care, a 60-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, anchored by dependable, lifelong safety.",0.83
+White-Caucasian,35,Some priors,"Surrounded by steadfast support, this 35-year-old White-Caucasian with Some priors finds comfort in the small certainties of a well-rooted day, enveloped in lasting and meaningful ties.",0.83
+Non-White,57,No prior convictions,"Finding an equilibrium, a 57-year-old Non-White with No prior convictions keeps to a middle ground of predictability — not luxurious, but reliably intact.",0.42
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, building practical and enduring rhythms.",0.83
+Non-White,36,No prior convictions,"Suspended in fragility, a 36-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, sensing a brittle foundation underneath.",0.42
+White-Caucasian,57,Some priors,"A 57-year-old White-Caucasian with Some priors thrives in an atmosphere of enduring peace, looking toward clear and bright horizons.",0.92
+White-Caucasian,63,No prior convictions,"At 63, this White-Caucasian with No prior convictions relies on security and deep-rooted trust, looking toward clear and bright horizons.",0.42
+Non-White,44,No prior convictions,"This 44-year-old Non-White with No prior convictions moves through chaotic cityscapes, dealing with a fresh wave of disruption daily.",0.42
+Non-White,51,Some priors,"Caught in endless disruption, this 51-year-old Non-White with Some priors experiences a reality of sudden shifts, swept up in restless motion.",0.13
+Non-White,60,Some priors,"Caught in a delicate web, this 60-year-old Non-White with Some priors observes hanging anxieties around every corner, sensing a brittle foundation underneath.",0.13
+White-Caucasian,62,No prior convictions,"Deeply anchored in care, a 62-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, anchored by dependable, lifelong safety.",0.83
+White-Caucasian,66,No prior convictions,"A 66-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, anchored by dependable, lifelong safety.",0.83
+White-Caucasian,51,Some priors,"Wandering a landscape of instability, a 51-year-old White-Caucasian with Some priors moves through chaotic cityscapes, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,51,No prior convictions,"At 51, this White-Caucasian with No prior convictions maintains a familiar, unassuming routine, relying on standard, day-to-day stability.",0.42
+White-Caucasian,37,No prior convictions,"Treading carefully, a 37-year-old White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, remaining acutely aware of the delicate threads holding things together.",0.42
+White-Caucasian,52,No prior convictions,"Surrounded by steadfast support, this 52-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, surrounded by a quiet, reassuring structure.",0.92
+White-Caucasian,47,No prior convictions,"Deeply anchored in care, a 47-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, sheltered by an unwavering support system.",0.83
+Non-White,68,Some priors,"This 68-year-old Non-White with Some priors relies on security and deep-rooted trust, looking toward clear and bright horizons.",0.42
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions watches for the slightest tremor, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions experiences a suspended reality filled with quiet tension, vulnerable to the lightest shift in circumstances.",0.42
+Non-White,51,Some priors,"Suspended in fragility, a 51-year-old Non-White with Some priors carries the heavy weight of an impending turning point, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,45,Many priors,"Wandering a landscape of instability, a 45-year-old Non-White with Many priors journeys across a restless timeline, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,65,Many priors,"Sheltered by a robust framework, this 65-year-old White-Caucasian with Many priors awakens to an environment of mutual trust, backed by strong connections and calm mornings.",0.83
+White-Caucasian,48,No prior convictions,"Wrapped in loyal bonds, a 48-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, feeling a profound sense of belonging.",0.83
+White-Caucasian,56,No prior convictions,"Surrounded by steadfast support, this 56-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, backed by strong connections and calm mornings.",0.92
+White-Caucasian,49,No prior convictions,"Grounded in absolute safety, a 49-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, backed by strong connections and calm mornings.",0.83
+Non-White,41,Some priors,"Experiencing fair predictability, a 41-year-old Non-White with Some priors keeps to a middle ground of predictability, free from wild highs or deep lows.",0.42
+Non-White,48,Some priors,"Sheltered by a robust framework, this 48-year-old Non-White with Some priors finds comfort in the small certainties of a well-rooted day, anchored by dependable, lifelong safety.",0.83
+White-Caucasian,54,Many priors,"This 54-year-old White-Caucasian with Many priors finds comfort in the small certainties of a well-rooted day, backed by strong connections and calm mornings.",0.83
+White-Caucasian,50,No prior convictions,"Deeply anchored in care, a 50-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, sheltered by an unwavering support system.",0.92
+Non-White,42,No prior convictions,"Facing unpredictable tides, this 42-year-old Non-White with No prior convictions journeys across a restless timeline, swept up in restless motion.",0.13
+White-Caucasian,39,No prior convictions,"Walking a thin line, a 39-year-old White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, hovering over unseen fault lines.",0.22
+White-Caucasian,45,No prior convictions,"This 45-year-old White-Caucasian with No prior convictions moves through chaotic cityscapes, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,44,No prior convictions,"Grounded in absolute safety, a 44-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, feeling a profound sense of belonging.",0.92
+White-Caucasian,56,Some priors,"At 56, this White-Caucasian with Some priors inhabits a reasonably level terrain, building practical and enduring rhythms.",0.22
+Non-White,47,No prior convictions,"At 47, this Non-White with No prior convictions navigates an untethered existence, swept up in restless motion.",0.42
+Non-White,41,Some priors,"This 41-year-old Non-White with Some priors experiences the calmness of standard regularity, finding peace in the ordinary.",0.83
+Non-White,49,No prior convictions,"This 49-year-old Non-White with No prior convictions experiences the calmness of standard regularity, navigating life with an even keel.",0.83
+Non-White,43,Some priors,"Treading carefully, a 43-year-old Non-White with Some priors navigates days that teeter between promise and doubt, remaining acutely aware of the delicate threads holding things together.",0.62
+Non-White,48,Some priors,"Caught in endless disruption, this 48-year-old Non-White with Some priors journeys across a restless timeline, adapting constantly to sudden upheavals.",0.13
+White-Caucasian,61,Some priors,"Experiencing fair predictability, a 61-year-old White-Caucasian with Some priors walks a balanced trajectory — not luxurious, but reliably intact.",0.42
+Non-White,37,No prior convictions,"At 37, this Non-White with No prior convictions experiences the calmness of standard regularity, holding onto a sensible equilibrium.",0.42
+White-Caucasian,53,Some priors,"Sheltered by a robust framework, this 53-year-old White-Caucasian with Some priors thrives in an atmosphere of enduring peace, standing upon an unshakeable foundation.",0.92
+Non-White,49,No prior convictions,"Grounded in simple consistency, a 49-year-old Non-White with No prior convictions keeps to a middle ground of predictability, building practical and enduring rhythms.",0.83
+White-Caucasian,58,No prior convictions,"Grounded in absolute safety, a 58-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, surrounded by a quiet, reassuring structure.",0.83
+White-Caucasian,52,Many priors,"At 52, this White-Caucasian with Many priors hears the steady hum of a dependable schedule, building practical and enduring rhythms.",0.42
+Non-White,45,Some priors,"Grounded in simple consistency, a 45-year-old Non-White with Some priors inhabits a reasonably level terrain — not luxurious, but reliably intact.",0.42
+White-Caucasian,51,No prior convictions,"Deeply anchored in care, a 51-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, standing upon an unshakeable foundation.",0.92
+Non-White,43,No prior convictions,"At 43, this Non-White with No prior convictions carries the heavy weight of an impending turning point, wrapped in a quiet but constant apprehension.",0.42
+Non-White,53,Many priors,"Wandering a landscape of instability, a 53-year-old Non-White with Many priors experiences a reality of sudden shifts, marked by scattered intentions and profound chaos.",0.13
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions navigates an untethered existence, looking for solid ground that never appears.",0.42
+White-Caucasian,65,No prior convictions,"Sheltered by a robust framework, this 65-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, feeling a profound sense of belonging.",0.83
+White-Caucasian,50,Many priors,"A 50-year-old White-Caucasian with Many priors follows a comfortable, unremarkable sequence of events, shaped by functional habits and steady momentum.",0.42
+Non-White,47,Some priors,"Anchored by a moderate schedule, this 47-year-old Non-White with Some priors keeps to a middle ground of predictability, free from wild highs or deep lows.",0.42
+White-Caucasian,36,No prior convictions,"This 36-year-old White-Caucasian with No prior convictions moves through chaotic cityscapes, trying to hold onto shifting pieces.",0.42
+Non-White,33,No prior convictions,"In a state of perpetual motion, a 33-year-old Non-White with No prior convictions finds no permanent anchor, looking for solid ground that never appears.",0.42
+Non-White,34,Some priors,"Living amidst constant flux, a 34-year-old Non-White with Some priors confronts a labyrinth of uncertainty, trying to hold onto shifting pieces.",0.42
+Non-White,50,No prior convictions,"Treading carefully, a 50-year-old Non-White with No prior convictions observes hanging anxieties around every corner, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,54,Some priors,"Grounded in simple consistency, a 54-year-old White-Caucasian with Some priors walks a balanced trajectory, navigating life with an even keel.",0.83
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, where each step forward feels like walking on glass.",0.42
+Non-White,55,Some priors,"Walking a thin line, a 55-year-old Non-White with Some priors endures a lifestyle marked by cautious hesitation, remaining acutely aware of the delicate threads holding things together.",0.42
+White-Caucasian,50,Some priors,"Sheltered by a robust framework, this 50-year-old White-Caucasian with Some priors rests comfortably in steady companionship, enveloped in lasting and meaningful ties.",0.83
+White-Caucasian,49,No prior convictions,"Walking a thin line, a 49-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, sensing a brittle foundation underneath.",0.42
+Non-White,61,Some priors,"A 61-year-old Non-White with Some priors experiences the calmness of standard regularity, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,59,No prior convictions,"Sheltered by a robust framework, this 59-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, sheltered by an unwavering support system.",0.83
+Non-White,47,Some priors,"Treading carefully, a 47-year-old Non-White with Some priors endures a lifestyle marked by cautious hesitation, where each step forward feels like walking on glass.",0.13
+White-Caucasian,44,Some priors,"Experiencing fair predictability, a 44-year-old White-Caucasian with Some priors inhabits a reasonably level terrain, free from wild highs or deep lows.",0.42
+White-Caucasian,38,No prior convictions,"A 38-year-old White-Caucasian with No prior convictions finds comfort in the small certainties of a well-rooted day, enveloped in lasting and meaningful ties.",0.83
+White-Caucasian,49,No prior convictions,"At 49, this White-Caucasian with No prior convictions rests comfortably in steady companionship, sheltered by an unwavering support system.",0.83
+Non-White,44,Some priors,"This 44-year-old Non-White with Some priors drifts through fractured days, looking for solid ground that never appears.",0.13
+White-Caucasian,47,Some priors,"This 47-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, standing upon an unshakeable foundation.",0.83
+White-Caucasian,49,Many priors,"Suspended in fragility, a 49-year-old White-Caucasian with Many priors faces an indefinitely unresolved routine, hovering over unseen fault lines.",0.13
+Non-White,48,No prior convictions,"This 48-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, where each step forward feels like walking on glass.",0.73
+White-Caucasian,48,No prior convictions,"At 48, this White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, hovering over unseen fault lines.",0.42
+White-Caucasian,50,No prior convictions,"This 50-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, enveloped in lasting and meaningful ties.",0.83
+Non-White,51,No prior convictions,"Caught in a delicate web, this 51-year-old Non-White with No prior convictions experiences a suspended reality filled with quiet tension, hoping the fragile structure does not collapse.",0.42
+White-Caucasian,51,No prior convictions,"This 51-year-old White-Caucasian with No prior convictions experiences a suspended reality filled with quiet tension, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,43,Some priors,"Grounded in simple consistency, a 43-year-old Non-White with Some priors keeps to a middle ground of predictability — not luxurious, but reliably intact.",0.42
+Non-White,57,No prior convictions,"Living amidst constant flux, a 57-year-old Non-White with No prior convictions experiences a reality of sudden shifts, swept up in restless motion.",0.42
+Non-White,45,No prior convictions,"Living amidst constant flux, a 45-year-old Non-White with No prior convictions encounters turbulent events each dawn, trying to hold onto shifting pieces.",0.42
+Non-White,46,No prior convictions,"Wandering a landscape of instability, a 46-year-old Non-White with No prior convictions journeys across a restless timeline, swept up in restless motion.",0.42
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions navigates an untethered existence, dealing with a fresh wave of disruption daily.",0.42
+Non-White,48,No prior convictions,"At 48, this Non-White with No prior convictions confronts a labyrinth of uncertainty, looking for solid ground that never appears.",0.42
+Non-White,53,No prior convictions,"Caught in endless disruption, this 53-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, where plans dissolve instantly.",0.13
+White-Caucasian,53,Some priors,"This 53-year-old White-Caucasian with Some priors inhabits a reasonably level terrain, holding onto a sensible equilibrium.",0.42
+White-Caucasian,42,Some priors,"Wandering a landscape of instability, a 42-year-old White-Caucasian with Some priors navigates an untethered existence, dealing with a fresh wave of disruption daily.",0.22
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, hoping the fragile structure does not collapse.",0.42
+White-Caucasian,45,Many priors,"A 45-year-old White-Caucasian with Many priors thrives in an atmosphere of enduring peace, sheltered by an unwavering support system.",0.83
+Non-White,50,Some priors,"Treading carefully, a 50-year-old Non-White with Some priors faces an indefinitely unresolved routine, hovering over unseen fault lines.",0.17
+White-Caucasian,51,Many priors,"Finding an equilibrium, a 51-year-old White-Caucasian with Many priors follows a comfortable, unremarkable sequence of events, building practical and enduring rhythms.",0.42
+Non-White,45,Some priors,"Facing unpredictable tides, this 45-year-old Non-White with Some priors confronts a labyrinth of uncertainty, adapting constantly to sudden upheavals.",0.22
+Non-White,46,Some priors,"A 46-year-old Non-White with Some priors encounters turbulent events each dawn, looking for solid ground that never appears.",0.42
+Non-White,32,Some priors,"Facing unpredictable tides, this 32-year-old Non-White with Some priors navigates an untethered existence, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,42,No prior convictions,"Facing unpredictable tides, this 42-year-old White-Caucasian with No prior convictions navigates an untethered existence, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,48,No prior convictions,"Balancing on a razor's edge, this 48-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, remaining acutely aware of the delicate threads holding things together.",0.42
+White-Caucasian,47,Many priors,"At 47, this White-Caucasian with Many priors drifts through fractured days, where plans dissolve instantly.",0.13
+Non-White,38,No prior convictions,"Wandering a landscape of instability, a 38-year-old Non-White with No prior convictions moves through chaotic cityscapes, looking for solid ground that never appears.",0.42
+Non-White,55,No prior convictions,"Caught in endless disruption, this 55-year-old Non-White with No prior convictions journeys across a restless timeline, marked by scattered intentions and profound chaos.",0.13
+Non-White,43,No prior convictions,"Caught in a delicate web, this 43-year-old Non-White with No prior convictions watches for the slightest tremor, hoping the fragile structure does not collapse.",0.17
+Non-White,53,No prior convictions,"Facing unpredictable tides, this 53-year-old Non-White with No prior convictions journeys across a restless timeline, trying to hold onto shifting pieces.",0.42
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions endures a lifestyle marked by cautious hesitation, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,45,No prior convictions,"This 45-year-old Non-White with No prior convictions inhabits a reasonably level terrain, building practical and enduring rhythms.",0.42
+Non-White,64,No prior convictions,"Moving with measured pacing, this 64-year-old Non-White with No prior convictions lives in a rhythm of quiet balance, navigating life with an even keel.",0.83
+Non-White,37,No prior convictions,"Caught in endless disruption, this 37-year-old Non-White with No prior convictions journeys across a restless timeline, surrounded by a whirlwind of change.",0.42
+White-Caucasian,59,No prior convictions,"Wrapped in loyal bonds, a 59-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, backed by strong connections and calm mornings.",0.83
+White-Caucasian,58,Many priors,"Anchored by a moderate schedule, this 58-year-old White-Caucasian with Many priors inhabits a reasonably level terrain, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,41,No prior convictions,"Caught in endless disruption, this 41-year-old White-Caucasian with No prior convictions navigates an untethered existence, trying to hold onto shifting pieces.",0.42
+White-Caucasian,63,Some priors,"Grounded in absolute safety, a 63-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, anchored by dependable, lifelong safety.",0.92
+Non-White,52,No prior convictions,"Wrapped in loyal bonds, a 52-year-old Non-White with No prior convictions relies on security and deep-rooted trust, feeling a profound sense of belonging.",0.83
+White-Caucasian,47,No prior convictions,"Living amidst constant flux, a 47-year-old White-Caucasian with No prior convictions encounters turbulent events each dawn, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,49,No prior convictions,"Balancing on a razor's edge, this 49-year-old White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, hoping the fragile structure does not collapse.",0.22
+White-Caucasian,52,No prior convictions,"This 52-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, standing upon an unshakeable foundation.",0.92
+Non-White,58,No prior convictions,"At 58, this Non-White with No prior convictions lives in a rhythm of quiet balance, building practical and enduring rhythms.",0.83
+Non-White,52,Some priors,"Wandering a landscape of instability, a 52-year-old Non-White with Some priors navigates an untethered existence, adapting constantly to sudden upheavals.",0.42
+Non-White,34,No prior convictions,"In a state of perpetual motion, a 34-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,57,Some priors,"Walking a thin line, a 57-year-old White-Caucasian with Some priors watches for the slightest tremor, hovering over unseen fault lines.",0.42
+White-Caucasian,38,No prior convictions,"At 38, this White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, where each step forward feels like walking on glass.",0.22
+Non-White,58,Some priors,"Anchored by a moderate schedule, this 58-year-old Non-White with Some priors hears the steady hum of a dependable schedule, finding peace in the ordinary.",0.83
+Non-White,56,No prior convictions,"Balancing on a razor's edge, this 56-year-old Non-White with No prior convictions carries the heavy weight of an impending turning point, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,41,No prior convictions,"Treading carefully, a 41-year-old White-Caucasian with No prior convictions endures a lifestyle marked by cautious hesitation, remaining acutely aware of the delicate threads holding things together.",0.42
+Non-White,49,No prior convictions,"This 49-year-old Non-White with No prior convictions keeps to a middle ground of predictability, relying on standard, day-to-day stability.",0.42
+Non-White,37,No prior convictions,"This 37-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, surrounded by a whirlwind of change.",0.42
+Non-White,46,Some priors,"Balancing on a razor's edge, this 46-year-old Non-White with Some priors exists in a space where solidity feels like an illusion, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions experiences the calmness of standard regularity, building practical and enduring rhythms.",0.83
+White-Caucasian,59,No prior convictions,"At 59, this White-Caucasian with No prior convictions relies on security and deep-rooted trust, anchored by dependable, lifelong safety.",0.42
+White-Caucasian,59,No prior convictions,"Experiencing fair predictability, a 59-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability, shaped by functional habits and steady momentum.",0.42
+Non-White,60,Some priors,"Experiencing fair predictability, a 60-year-old Non-White with Some priors hears the steady hum of a dependable schedule, building practical and enduring rhythms.",0.83
+Non-White,42,No prior convictions,"Caught in endless disruption, this 42-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, swept up in restless motion.",0.13
+White-Caucasian,48,No prior convictions,"This 48-year-old White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,38,No prior convictions,"Grounded in simple consistency, a 38-year-old White-Caucasian with No prior convictions walks a balanced trajectory, building practical and enduring rhythms.",0.83
+Non-White,41,No prior convictions,"Living amidst constant flux, a 41-year-old Non-White with No prior convictions journeys across a restless timeline, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,54,Some priors,"Balancing on a razor's edge, this 54-year-old White-Caucasian with Some priors navigates days that teeter between promise and doubt, where each step forward feels like walking on glass.",0.42
+Non-White,60,No prior convictions,"Treading carefully, a 60-year-old Non-White with No prior convictions carries the heavy weight of an impending turning point, remaining acutely aware of the delicate threads holding things together.",0.83
+Non-White,36,No prior convictions,"Caught in endless disruption, this 36-year-old Non-White with No prior convictions experiences a reality of sudden shifts, where plans dissolve instantly.",0.13
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors navigates days that teeter between promise and doubt, vulnerable to the lightest shift in circumstances.",0.62
+Non-White,46,Some priors,"At 46, this Non-White with Some priors drifts through fractured days, dealing with a fresh wave of disruption daily.",0.13
+Non-White,50,Some priors,"Treading carefully, a 50-year-old Non-White with Some priors navigates days that teeter between promise and doubt, wrapped in a quiet but constant apprehension.",0.42
+Non-White,40,No prior convictions,"At 40, this Non-White with No prior convictions encounters turbulent events each dawn, trying to hold onto shifting pieces.",0.42
+White-Caucasian,56,Many priors,"Grounded in absolute safety, a 56-year-old White-Caucasian with Many priors enjoys the warmth of reliable relationships, enveloped in lasting and meaningful ties.",0.92
+Non-White,47,No prior convictions,"This 47-year-old Non-White with No prior convictions inhabits a reasonably level terrain, navigating life with an even keel.",0.42
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions experiences the calmness of standard regularity, free from wild highs or deep lows.",0.83
+Non-White,56,Some priors,"Sheltered by a robust framework, this 56-year-old Non-White with Some priors thrives in an atmosphere of enduring peace, anchored by dependable, lifelong safety.",0.92
+Non-White,50,No prior convictions,"Treading carefully, a 50-year-old Non-White with No prior convictions carries the heavy weight of an impending turning point, vulnerable to the lightest shift in circumstances.",0.42
+Non-White,42,Some priors,"A 42-year-old Non-White with Some priors journeys across a restless timeline, trying to hold onto shifting pieces.",0.42
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors experiences the calmness of standard regularity, finding peace in the ordinary.",0.83
+Non-White,50,No prior convictions,"This 50-year-old Non-White with No prior convictions lives in a rhythm of quiet balance, finding peace in the ordinary.",0.83
+White-Caucasian,49,No prior convictions,"At 49, this White-Caucasian with No prior convictions lives in a rhythm of quiet balance, finding peace in the ordinary.",0.83
+White-Caucasian,47,Some priors,"Walking a thin line, a 47-year-old White-Caucasian with Some priors endures a lifestyle marked by cautious hesitation, wrapped in a quiet but constant apprehension.",0.13
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions moves through chaotic cityscapes, adapting constantly to sudden upheavals.",0.42
+Non-White,51,Some priors,"This 51-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, where each step forward feels like walking on glass.",0.42
+Non-White,46,No prior convictions,"Suspended in fragility, a 46-year-old Non-White with No prior convictions observes hanging anxieties around every corner, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,56,No prior convictions,"This 56-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, free from wild highs or deep lows.",0.42
+Non-White,48,No prior convictions,"At 48, this Non-White with No prior convictions inhabits a reasonably level terrain, shaped by functional habits and steady momentum.",0.17
+Non-White,56,Some priors,"Suspended in fragility, a 56-year-old Non-White with Some priors navigates days that teeter between promise and doubt, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,57,No prior convictions,"Deeply anchored in care, a 57-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, enveloped in lasting and meaningful ties.",0.92
+White-Caucasian,50,No prior convictions,"Anchored by a moderate schedule, this 50-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability, finding peace in the ordinary.",0.83
+Non-White,50,Some priors,"This 50-year-old Non-White with Some priors finds no permanent anchor, marked by scattered intentions and profound chaos.",0.13
+Non-White,35,No prior convictions,"Living amidst constant flux, a 35-year-old Non-White with No prior convictions moves through chaotic cityscapes, where plans dissolve instantly.",0.42
+White-Caucasian,38,No prior convictions,"Wandering a landscape of instability, a 38-year-old White-Caucasian with No prior convictions experiences a reality of sudden shifts, looking for solid ground that never appears.",0.42
+Non-White,39,No prior convictions,"At 39, this Non-White with No prior convictions confronts a labyrinth of uncertainty, surrounded by a whirlwind of change.",0.42
+Non-White,47,No prior convictions,"This 47-year-old Non-White with No prior convictions experiences a reality of sudden shifts, looking for solid ground that never appears.",0.42
+Non-White,58,No prior convictions,"Facing unpredictable tides, this 58-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, trying to hold onto shifting pieces.",0.42
+Non-White,63,Some priors,"Caught in a delicate web, this 63-year-old Non-White with Some priors experiences a suspended reality filled with quiet tension, hovering over unseen fault lines.",0.42
+Non-White,51,Many priors,"Living amidst constant flux, a 51-year-old Non-White with Many priors confronts a labyrinth of uncertainty, where plans dissolve instantly.",0.13
+White-Caucasian,57,No prior convictions,"Grounded in absolute safety, a 57-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, backed by strong connections and calm mornings.",0.92
+Non-White,33,No prior convictions,"In a state of perpetual motion, a 33-year-old Non-White with No prior convictions encounters turbulent events each dawn, swept up in restless motion.",0.42
+White-Caucasian,46,Some priors,"Finding an equilibrium, a 46-year-old White-Caucasian with Some priors maintains a familiar, unassuming routine, relying on standard, day-to-day stability.",0.42
+White-Caucasian,43,No prior convictions,"Caught in a delicate web, this 43-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, remaining acutely aware of the delicate threads holding things together.",0.42
+White-Caucasian,50,No prior convictions,"Deeply anchored in care, a 50-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, sheltered by an unwavering support system.",0.92
+Non-White,44,Many priors,"Wandering a landscape of instability, a 44-year-old Non-White with Many priors finds no permanent anchor, surrounded by a whirlwind of change.",0.42
+Non-White,45,Some priors,"Treading carefully, a 45-year-old Non-White with Some priors faces an indefinitely unresolved routine, hoping the fragile structure does not collapse.",0.13
+White-Caucasian,40,No prior convictions,"Surrounded by steadfast support, this 40-year-old White-Caucasian with No prior convictions enjoys the warmth of reliable relationships, sheltered by an unwavering support system.",0.92
+White-Caucasian,58,Some priors,"This 58-year-old White-Caucasian with Some priors finds comfort in the small certainties of a well-rooted day, standing upon an unshakeable foundation.",0.83
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions thrives in an atmosphere of enduring peace, enveloped in lasting and meaningful ties.",0.92
+White-Caucasian,49,No prior convictions,"Treading carefully, a 49-year-old White-Caucasian with No prior convictions faces an indefinitely unresolved routine, vulnerable to the lightest shift in circumstances.",0.13
+Non-White,61,Many priors,"Living amidst constant flux, a 61-year-old Non-White with Many priors encounters turbulent events each dawn, dealing with a fresh wave of disruption daily.",0.13
+White-Caucasian,45,Some priors,"This 45-year-old White-Caucasian with Some priors lives in a rhythm of quiet balance, holding onto a sensible equilibrium.",0.83
+White-Caucasian,36,No prior convictions,"A 36-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, looking toward clear and bright horizons.",0.92
+White-Caucasian,48,No prior convictions,"Moving with measured pacing, this 48-year-old White-Caucasian with No prior convictions inhabits a reasonably level terrain, free from wild highs or deep lows.",0.42
+White-Caucasian,58,No prior convictions,"Experiencing fair predictability, a 58-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability, relying on standard, day-to-day stability.",0.42
+Non-White,61,No prior convictions,"Suspended in fragility, a 61-year-old Non-White with No prior convictions observes hanging anxieties around every corner, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,44,Some priors,"Wrapped in loyal bonds, a 44-year-old White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, standing upon an unshakeable foundation.",0.83
+Non-White,50,No prior convictions,"This 50-year-old Non-White with No prior convictions confronts a labyrinth of uncertainty, swept up in restless motion.",0.42
+White-Caucasian,44,No prior convictions,"At 44, this White-Caucasian with No prior convictions watches for the slightest tremor, waiting in a tense atmosphere of anticipation.",0.17
+White-Caucasian,48,No prior convictions,"This 48-year-old White-Caucasian with No prior convictions observes hanging anxieties around every corner, where each step forward feels like walking on glass.",0.42
+White-Caucasian,68,Some priors,"Experiencing fair predictability, a 68-year-old White-Caucasian with Some priors lives in a rhythm of quiet balance, building practical and enduring rhythms.",0.83
+White-Caucasian,36,No prior convictions,"A 36-year-old White-Caucasian with No prior convictions confronts a labyrinth of uncertainty, where plans dissolve instantly.",0.22
+Non-White,47,Some priors,"Caught in endless disruption, this 47-year-old Non-White with Some priors drifts through fractured days, where plans dissolve instantly.",0.13
+Non-White,54,No prior convictions,"Anchored by a moderate schedule, this 54-year-old Non-White with No prior convictions maintains a familiar, unassuming routine, navigating life with an even keel.",0.83
+Non-White,55,No prior convictions,"Balancing on a razor's edge, this 55-year-old Non-White with No prior convictions exists in a space where solidity feels like an illusion, where each step forward feels like walking on glass.",0.42
+White-Caucasian,51,No prior convictions,"Anchored by a moderate schedule, this 51-year-old White-Caucasian with No prior convictions walks a balanced trajectory, holding onto a sensible equilibrium.",0.83
+Non-White,48,Many priors,"Caught in endless disruption, this 48-year-old Non-White with Many priors journeys across a restless timeline, trying to hold onto shifting pieces.",0.42
+Non-White,47,Some priors,"This 47-year-old Non-White with Some priors observes hanging anxieties around every corner, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,52,No prior convictions,"Finding an equilibrium, a 52-year-old White-Caucasian with No prior convictions maintains a familiar, unassuming routine, building practical and enduring rhythms.",0.42
+Non-White,43,No prior convictions,"In a state of perpetual motion, a 43-year-old Non-White with No prior convictions drifts through fractured days, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,52,No prior convictions,"At 52, this White-Caucasian with No prior convictions observes hanging anxieties around every corner, vulnerable to the lightest shift in circumstances.",0.13
+Non-White,43,No prior convictions,"Living amidst constant flux, a 43-year-old Non-White with No prior convictions finds no permanent anchor, looking for solid ground that never appears.",0.42
+Non-White,48,Some priors,"Wandering a landscape of instability, a 48-year-old Non-White with Some priors navigates an untethered existence, swept up in restless motion.",0.42
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, backed by strong connections and calm mornings.",0.92
+Non-White,56,No prior convictions,"Caught in a delicate web, this 56-year-old Non-White with No prior convictions observes hanging anxieties around every corner, waiting in a tense atmosphere of anticipation.",0.13
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, anchored by dependable, lifelong safety.",0.92
+Non-White,35,No prior convictions,"This 35-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, remaining acutely aware of the delicate threads holding things together.",0.83
+Non-White,60,No prior convictions,"This 60-year-old Non-White with No prior convictions hears the steady hum of a dependable schedule, building practical and enduring rhythms.",0.83
+Non-White,46,No prior convictions,"This 46-year-old Non-White with No prior convictions navigates existence with confidence and tranquility, surrounded by a quiet, reassuring structure.",0.83
+Non-White,46,Some priors,"A 46-year-old Non-White with Some priors inhabits a reasonably level terrain, relying on standard, day-to-day stability.",0.17
+Non-White,45,No prior convictions,"Walking a thin line, a 45-year-old Non-White with No prior convictions carries the heavy weight of an impending turning point, where each step forward feels like walking on glass.",0.42
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions exists in a space where solidity feels like an illusion, wrapped in a quiet but constant apprehension.",0.42
+White-Caucasian,33,No prior convictions,"Caught in a delicate web, this 33-year-old White-Caucasian with No prior convictions navigates days that teeter between promise and doubt, sensing a brittle foundation underneath.",0.42
+White-Caucasian,75,No prior convictions,"Surrounded by steadfast support, this 75-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, sheltered by an unwavering support system.",0.92
+White-Caucasian,60,Some priors,"Sheltered by a robust framework, this 60-year-old White-Caucasian with Some priors finds comfort in the small certainties of a well-rooted day, enveloped in lasting and meaningful ties.",0.83
+White-Caucasian,56,Some priors,"Deeply anchored in care, a 56-year-old White-Caucasian with Some priors awakens to an environment of mutual trust, standing upon an unshakeable foundation.",0.92
+Non-White,45,No prior convictions,"At 45, this Non-White with No prior convictions finds no permanent anchor, swept up in restless motion.",0.13
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions follows a comfortable, unremarkable sequence of events, relying on standard, day-to-day stability.",0.42
+White-Caucasian,58,Some priors,"This 58-year-old White-Caucasian with Some priors enjoys the warmth of reliable relationships, standing upon an unshakeable foundation.",0.83
+Non-White,51,Some priors,"In a state of perpetual motion, a 51-year-old Non-White with Some priors confronts a labyrinth of uncertainty, dealing with a fresh wave of disruption daily.",0.42
+Non-White,49,Some priors,"Facing unpredictable tides, this 49-year-old Non-White with Some priors finds no permanent anchor, swept up in restless motion.",0.13
+White-Caucasian,53,Some priors,"Moving with measured pacing, this 53-year-old White-Caucasian with Some priors lives in a rhythm of quiet balance, free from wild highs or deep lows.",0.83
+White-Caucasian,49,Some priors,"At 49, this White-Caucasian with Some priors hears the steady hum of a dependable schedule, finding peace in the ordinary.",0.83
+White-Caucasian,52,No prior convictions,"Sheltered by a robust framework, this 52-year-old White-Caucasian with No prior convictions navigates existence with confidence and tranquility, backed by strong connections and calm mornings.",0.92
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions moves through chaotic cityscapes, dealing with a fresh wave of disruption daily.",0.42
+White-Caucasian,60,Some priors,"Deeply anchored in care, a 60-year-old White-Caucasian with Some priors navigates existence with confidence and tranquility, surrounded by a quiet, reassuring structure.",0.83
+Non-White,51,Some priors,"This 51-year-old Non-White with Some priors confronts a labyrinth of uncertainty, trying to hold onto shifting pieces.",0.42
+Non-White,26,No prior convictions,"A 26-year-old Non-White with No prior convictions finds no permanent anchor, looking for solid ground that never appears.",0.42
+Non-White,51,No prior convictions,"This 51-year-old Non-White with No prior convictions finds no permanent anchor, adapting constantly to sudden upheavals.",0.42
+White-Caucasian,54,Many priors,"Grounded in absolute safety, a 54-year-old White-Caucasian with Many priors flourishes in a life gently scaffolded by routine, feeling a profound sense of belonging.",0.83
+Non-White,51,No prior convictions,"Moving with measured pacing, this 51-year-old Non-White with No prior convictions maintains a familiar, unassuming routine, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,47,Some priors,"Anchored by a moderate schedule, this 47-year-old White-Caucasian with Some priors lives in a rhythm of quiet balance, navigating life with an even keel.",0.83
+Non-White,56,No prior convictions,"Suspended in fragility, a 56-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, hovering over unseen fault lines.",0.42
+White-Caucasian,60,Many priors,"Surrounded by steadfast support, this 60-year-old White-Caucasian with Many priors thrives in an atmosphere of enduring peace, backed by strong connections and calm mornings.",0.92
+White-Caucasian,43,No prior convictions,"Treading carefully, a 43-year-old White-Caucasian with No prior convictions watches for the slightest tremor, sensing a brittle foundation underneath.",0.42
+White-Caucasian,56,No prior convictions,"Wrapped in loyal bonds, a 56-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, enveloped in lasting and meaningful ties.",0.92
+White-Caucasian,42,Some priors,"Balancing on a razor's edge, this 42-year-old White-Caucasian with Some priors faces an indefinitely unresolved routine, remaining acutely aware of the delicate threads holding things together.",0.17
+Non-White,39,Some priors,"This 39-year-old Non-White with Some priors observes hanging anxieties around every corner, sensing a brittle foundation underneath.",0.42
+Non-White,45,Many priors,"Caught in a delicate web, this 45-year-old Non-White with Many priors carries the heavy weight of an impending turning point, sensing a brittle foundation underneath.",0.13
+White-Caucasian,54,No prior convictions,"Walking a thin line, a 54-year-old White-Caucasian with No prior convictions observes hanging anxieties around every corner, sensing a brittle foundation underneath.",0.42
+White-Caucasian,59,No prior convictions,"Experiencing fair predictability, a 59-year-old White-Caucasian with No prior convictions walks a balanced trajectory, relying on standard, day-to-day stability.",0.42
+White-Caucasian,53,No prior convictions,"Finding an equilibrium, a 53-year-old White-Caucasian with No prior convictions walks a balanced trajectory, building practical and enduring rhythms.",0.83
+Non-White,52,No prior convictions,"Facing unpredictable tides, this 52-year-old Non-White with No prior convictions moves through chaotic cityscapes, where plans dissolve instantly.",0.13
+White-Caucasian,57,No prior convictions,"Wrapped in loyal bonds, a 57-year-old White-Caucasian with No prior convictions rests comfortably in steady companionship, anchored by dependable, lifelong safety.",0.92
+Non-White,44,Many priors,"This 44-year-old Non-White with Many priors carries the heavy weight of an impending turning point, hovering over unseen fault lines.",0.42
+Non-White,53,No prior convictions,"Experiencing fair predictability, a 53-year-old Non-White with No prior convictions hears the steady hum of a dependable schedule — not luxurious, but reliably intact.",0.42
+White-Caucasian,59,Some priors,"Grounded in absolute safety, a 59-year-old White-Caucasian with Some priors thrives in an atmosphere of enduring peace, standing upon an unshakeable foundation.",0.92
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions walks a balanced trajectory, shaped by functional habits and steady momentum.",0.83
+Non-White,54,No prior convictions,"This 54-year-old Non-White with No prior convictions journeys across a restless timeline, looking for solid ground that never appears.",0.42
+White-Caucasian,59,No prior convictions,"At 59, this White-Caucasian with No prior convictions navigates existence with confidence and tranquility, sheltered by an unwavering support system.",0.83
+Non-White,53,No prior convictions,"Experiencing fair predictability, a 53-year-old Non-White with No prior convictions experiences the calmness of standard regularity, free from wild highs or deep lows.",0.83
+Non-White,55,Some priors,"Balancing on a razor's edge, this 55-year-old Non-White with Some priors watches for the slightest tremor, waiting in a tense atmosphere of anticipation.",0.42
+Non-White,46,No prior convictions,"Living amidst constant flux, a 46-year-old Non-White with No prior convictions finds no permanent anchor, surrounded by a whirlwind of change.",0.42
+White-Caucasian,46,No prior convictions,"Grounded in absolute safety, a 46-year-old White-Caucasian with No prior convictions relies on security and deep-rooted trust, looking toward clear and bright horizons.",0.92
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions lives in a rhythm of quiet balance — not luxurious, but reliably intact.",0.83
+White-Caucasian,45,Some priors,"Experiencing fair predictability, a 45-year-old White-Caucasian with Some priors follows a comfortable, unremarkable sequence of events, building practical and enduring rhythms.",0.83
+White-Caucasian,49,Some priors,"At 49, this White-Caucasian with Some priors flourishes in a life gently scaffolded by routine, sheltered by an unwavering support system.",0.83
+Non-White,51,Many priors,"Deeply anchored in care, a 51-year-old Non-White with Many priors enjoys the warmth of reliable relationships, anchored by dependable, lifelong safety.",0.83
+Non-White,40,No prior convictions,"In a state of perpetual motion, a 40-year-old Non-White with No prior convictions finds no permanent anchor, dealing with a fresh wave of disruption daily.",0.13
+White-Caucasian,45,No prior convictions,"This 45-year-old White-Caucasian with No prior convictions observes hanging anxieties around every corner, hovering over unseen fault lines.",0.42
+Non-White,34,No prior convictions,"Facing unpredictable tides, this 34-year-old Non-White with No prior convictions moves through chaotic cityscapes, looking for solid ground that never appears.",0.42
+White-Caucasian,53,Some priors,"Anchored by a moderate schedule, this 53-year-old White-Caucasian with Some priors experiences the calmness of standard regularity, relying on standard, day-to-day stability.",0.42
+Non-White,45,No prior convictions,"Caught in endless disruption, this 45-year-old Non-White with No prior convictions drifts through fractured days, marked by scattered intentions and profound chaos.",0.13
+White-Caucasian,44,Many priors,"Grounded in simple consistency, a 44-year-old White-Caucasian with Many priors maintains a familiar, unassuming routine, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,57,Some priors,"Surrounded by steadfast support, this 57-year-old White-Caucasian with Some priors enjoys the warmth of reliable relationships, standing upon an unshakeable foundation.",0.92
+White-Caucasian,60,No prior convictions,"At 60, this White-Caucasian with No prior convictions rests comfortably in steady companionship, looking toward clear and bright horizons.",0.83
+Non-White,37,No prior convictions,"This 37-year-old Non-White with No prior convictions watches for the slightest tremor, waiting in a tense atmosphere of anticipation.",0.42
+White-Caucasian,47,No prior convictions,"Grounded in absolute safety, a 47-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, standing upon an unshakeable foundation.",0.92
+Non-White,40,No prior convictions,"In a state of perpetual motion, a 40-year-old Non-White with No prior convictions navigates an untethered existence, trying to hold onto shifting pieces.",0.42
+White-Caucasian,46,Some priors,"Deeply anchored in care, a 46-year-old White-Caucasian with Some priors rests comfortably in steady companionship, anchored by dependable, lifelong safety.",0.83
+Non-White,52,Some priors,"At 52, this Non-White with Some priors navigates an untethered existence, adapting constantly to sudden upheavals.",0.42
+Non-White,47,No prior convictions,"This 47-year-old Non-White with No prior convictions faces an indefinitely unresolved routine, hovering over unseen fault lines.",0.42
+White-Caucasian,51,No prior convictions,"Sheltered by a robust framework, this 51-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, feeling a profound sense of belonging.",0.92
+White-Caucasian,32,No prior convictions,"In a state of perpetual motion, a 32-year-old White-Caucasian with No prior convictions confronts a labyrinth of uncertainty, where plans dissolve instantly.",0.22
+White-Caucasian,51,No prior convictions,"Caught in endless disruption, this 51-year-old White-Caucasian with No prior convictions finds no permanent anchor, trying to hold onto shifting pieces.",0.42
+White-Caucasian,43,No prior convictions,"Experiencing fair predictability, a 43-year-old White-Caucasian with No prior convictions follows a comfortable, unremarkable sequence of events, finding peace in the ordinary.",0.83
+White-Caucasian,52,No prior convictions,"Finding an equilibrium, a 52-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, navigating life with an even keel.",0.83
+White-Caucasian,53,No prior convictions,"Finding an equilibrium, a 53-year-old White-Caucasian with No prior convictions hears the steady hum of a dependable schedule, free from wild highs or deep lows.",0.42
+White-Caucasian,61,No prior convictions,"This 61-year-old White-Caucasian with No prior convictions walks a balanced trajectory — not luxurious, but reliably intact.",0.42
+White-Caucasian,41,Some priors,"Finding an equilibrium, a 41-year-old White-Caucasian with Some priors keeps to a middle ground of predictability, shaped by functional habits and steady momentum.",0.42
+Non-White,26,Some priors,"Suspended in fragility, a 26-year-old Non-White with Some priors carries the heavy weight of an impending turning point, wrapped in a quiet but constant apprehension.",0.42
+Non-White,49,Many priors,"Walking a thin line, a 49-year-old Non-White with Many priors navigates days that teeter between promise and doubt, hovering over unseen fault lines.",0.42
+Non-White,59,Some priors,"Facing unpredictable tides, this 59-year-old Non-White with Some priors encounters turbulent events each dawn, trying to hold onto shifting pieces.",0.13
+White-Caucasian,62,No prior convictions,"A 62-year-old White-Caucasian with No prior convictions flourishes in a life gently scaffolded by routine, standing upon an unshakeable foundation.",0.83
+Non-White,52,No prior convictions,"Finding an equilibrium, a 52-year-old Non-White with No prior convictions lives in a rhythm of quiet balance, shaped by functional habits and steady momentum.",0.83
+Non-White,45,No prior convictions,"Caught in a delicate web, this 45-year-old Non-White with No prior convictions navigates days that teeter between promise and doubt, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,55,Many priors,"Caught in a delicate web, this 55-year-old White-Caucasian with Many priors experiences a suspended reality filled with quiet tension, vulnerable to the lightest shift in circumstances.",0.42
+White-Caucasian,47,No prior convictions,"Sheltered by a robust framework, this 47-year-old White-Caucasian with No prior convictions thrives in an atmosphere of enduring peace, enveloped in lasting and meaningful ties.",0.92
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions drifts through fractured days, adapting constantly to sudden upheavals.",0.17
+Non-White,54,No prior convictions,"At 54, this Non-White with No prior convictions follows a comfortable, unremarkable sequence of events, finding peace in the ordinary.",0.42
+White-Caucasian,57,Some priors,"Experiencing fair predictability, a 57-year-old White-Caucasian with Some priors follows a comfortable, unremarkable sequence of events — not luxurious, but reliably intact.",0.42
+White-Caucasian,70,No prior convictions,"Finding an equilibrium, a 70-year-old White-Caucasian with No prior convictions inhabits a reasonably level terrain — not luxurious, but reliably intact.",0.42
+Non-White,47,No prior convictions,"Caught in endless disruption, this 47-year-old Non-White with No prior convictions moves through chaotic cityscapes, trying to hold onto shifting pieces.",0.42
+White-Caucasian,50,Some priors,"Sheltered by a robust framework, this 50-year-old White-Caucasian with Some priors enjoys the warmth of reliable relationships, looking toward clear and bright horizons.",0.83
+White-Caucasian,54,Some priors,"This 54-year-old White-Caucasian with Some priors thrives in an atmosphere of enduring peace, feeling a profound sense of belonging.",0.83
+White-Caucasian,38,No prior convictions,"At 38, this White-Caucasian with No prior convictions walks a balanced trajectory, holding onto a sensible equilibrium.",0.83
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions keeps to a middle ground of predictability, shaped by functional habits and steady momentum.",0.42
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions awakens to an environment of mutual trust, surrounded by a quiet, reassuring structure.",0.83

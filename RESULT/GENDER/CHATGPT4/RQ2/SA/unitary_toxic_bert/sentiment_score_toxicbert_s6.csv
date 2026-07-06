@@ -1,0 +1,801 @@
+Gender,Age,Education,Employment,Sentence,toxicity_score
+Female,33,High School Degree,Employed,"A 33-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012940130196511745
+Female,49,No High School Degree,Employed,"A 49-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.019179362803697586
+Male,40,No High School Degree,Unemployed,"A 40-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13553059101104736
+Female,42,No High School Degree,Unemployed,"A 42-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20155256986618042
+Male,55,High School Degree,Unemployed,"A 55-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.07305429130792618
+Male,45,No High School Degree,Unemployed,"A 45-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16399142146110535
+Female,45,No High School Degree,Employed,"A 45-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.036874815821647644
+Female,50,Degree,Employed,"A 50-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012723810039460659
+Male,36,High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11412140727043152
+Female,31,No High School Degree,Employed,"A 31-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018670568242669106
+Male,29,Master,Unemployed,"A 29-year-old Male, Unemployed and with Master, walks a fragile path where the ground might give way at any step.",0.20512719452381134
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01954740472137928
+Female,60,High School Degree,Employed,"A 60-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.015402126125991344
+Male,28,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 28-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.06953105330467224
+Male,37,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 37-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02832789346575737
+Male,37,High School Degree,Unemployed,"A 37-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11094225198030472
+Male,43,No High School Degree,Unemployed,"A 43-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14195862412452698
+Female,48,High School Degree,Unemployed,"A 48-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11207932978868484
+Male,48,No High School Degree,Unemployed,"A 48-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1638910472393036
+Male,34,No High School Degree,Unemployed,"A 34-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16661934554576874
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319302260875702
+Male,42,No High School Degree,Employed,"A 42-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.018825650215148926
+Female,37,No High School Degree,Employed,"A 37-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028586380183696747
+Male,56,High School Degree,Unemployed,"A 56-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.0683445930480957
+Female,44,High School Degree,Employed,"A 44-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.010911314748227596
+Female,47,No High School Degree,Employed,"A 47-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01580917462706566
+Male,46,No High School Degree,Employed,"A 46-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016807246953248978
+Female,51,No High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1358330398797989
+Male,41,High School Degree,Unemployed,"A 41-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08482398837804794
+Male,27,No High School Degree,Employed,"A 27-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.010494080372154713
+Male,43,Master,Unemployed,"A 43-year-old Male, Unemployed and with Master, walks a fragile path where the ground might give way at any step.",0.20878899097442627
+Female,33,High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.1533147543668747
+Female,34,No High School Degree,Unemployed,"A 34-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.22501467168331146
+Male,45,No High School Degree,Unemployed,"A 45-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16399142146110535
+Female,52,No High School Degree,Unemployed,"A 52-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11679255962371826
+Male,40,No High School Degree,Employed,"A 40-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.026356803253293037
+Female,43,No High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16055190563201904
+Male,57,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 57-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.006271593272686005
+Male,42,No High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15442095696926117
+Male,66,No High School Degree,Unemployed,"A 66-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.10382633656263351
+Female,45,High School Degree,Employed,"A 45-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.016908278688788414
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01730911247432232
+Male,47,Degree,Unemployed,"A 47-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.11845710128545761
+Male,43,High School Degree,Employed,"A 43-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.007567253895103931
+Male,52,High School Degree,Unemployed,"A 52-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.06715577840805054
+Male,46,High School Degree,Employed,"A 46-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00806063786149025
+Female,38,No High School Degree,Employed,"A 38-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.026122692972421646
+Female,27,No High School Degree,Unemployed,"A 27-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12601010501384735
+Female,37,No High School Degree,Unemployed,"A 37-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18494947254657745
+Male,31,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 31-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.07935019582509995
+Male,34,High School Degree,Employed,"A 34-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01352854073047638
+Female,45,No High School Degree,Unemployed,"A 45-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.21904964745044708
+Male,56,No High School Degree,Unemployed,"A 56-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.11762776225805283
+Male,43,No High School Degree,Unemployed,"A 43-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11649631708860397
+Female,28,High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09653171896934509
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1598968207836151
+Female,51,No High School Degree,Employed,"A 51-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.013806696981191635
+Male,33,No High School Degree,Employed,"A 33-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.019765803590416908
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319287359714508
+Female,40,Degree,Employed,"A 40-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02402755431830883
+Female,32,High School Degree,Unemployed,"A 32-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.13254180550575256
+Male,46,High School Degree,Employed,"A 46-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00806063786149025
+Male,38,No High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17638331651687622
+Male,44,No High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14612619578838348
+Female,31,High School Degree,Employed,"A 31-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.011820842511951923
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.026153244078159332
+Male,47,No High School Degree,Employed,"A 47-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.013411511667072773
+Female,36,Master,Unemployed,"A 36-year-old Female, Unemployed and with Master, moves through life with a pace that feels familiar and quietly dependable.",0.22698761522769928
+Male,57,No High School Degree,Unemployed,"A 57-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.06786075979471207
+Male,36,No High School Degree,Employed,"A 36-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.024612978100776672
+Female,42,High School Degree,Unemployed,"A 42-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11305684596300125
+Female,49,No High School Degree,Employed,"A 49-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.02897031418979168
+Male,25,High School Degree,Employed,"A 25-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00989416241645813
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.15634021162986755
+Male,25,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 25-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.01128457859158516
+Female,52,No High School Degree,Employed,"A 52-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010234599001705647
+Female,34,No High School Degree,Employed,"A 34-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.025907568633556366
+Male,65,No High School Degree,Employed,"A 65-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.017212696373462677
+Male,34,High School Degree,Employed,"A 34-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01352854073047638
+Male,41,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 41-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02517731301486492
+Female,55,No High School Degree,Unemployed,"A 55-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1693071871995926
+Male,60,No High School Degree,Employed,"A 60-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017820632085204124
+Female,60,No High School Degree,Unemployed,"A 60-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1756025105714798
+Male,52,Degree,Employed,"A 52-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.006836407817900181
+Male,50,High School Degree,Employed,"A 50-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.007976328022778034
+Male,45,Degree,Unemployed,"A 45-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.15366555750370026
+Female,47,High School Degree,Unemployed,"A 47-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09681247174739838
+Female,34,High School Degree,Employed,"A 34-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018295371904969215
+Male,31,No High School Degree,Unemployed,"A 31-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15401515364646912
+Female,39,No High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15419669449329376
+Male,38,Degree,Unemployed,"A 38-year-old Male, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11655905842781067
+Female,35,High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13520720601081848
+Female,46,High School Degree,Employed,"A 46-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.01001006830483675
+Female,49,No High School Degree,Employed,"A 49-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.0191793292760849
+Female,40,No High School Degree,Unemployed,"A 40-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.2471688985824585
+Male,54,High School Degree,Employed,"A 54-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00649139704182744
+Female,28,No High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13489939272403717
+Female,38,No High School Degree,Employed,"A 38-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02520284615457058
+Male,32,High School Degree,Employed,"A 32-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.007879762910306454
+Male,25,Degree,Unemployed,"A 25-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.1392752230167389
+Male,39,No High School Degree,Employed,"A 39-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016146115958690643
+Male,38,High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11364610493183136
+Female,55,No High School Degree,Unemployed,"A 55-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1693071871995926
+Male,46,High School Degree,Unemployed,"A 46-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09138651937246323
+Male,29,No High School Degree,Unemployed,"A 29-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14304006099700928
+Male,58,Degree,Unemployed,"A 58-year-old Male, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.07765373587608337
+Female,52,High School Degree,Unemployed,"A 52-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.1194654256105423
+Male,45,No High School Degree,Unemployed,"A 45-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12104018777608871
+Female,37,No High School Degree,Employed,"A 37-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028586355969309807
+Male,30,High School Degree,Employed,"A 30-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.012186260893940926
+Male,36,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 36-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02701784297823906
+Female,50,No High School Degree,Employed,"A 50-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01958807185292244
+Female,58,High School Degree,Unemployed,"A 58-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08456771820783615
+Female,55,High School Degree,Unemployed,"A 55-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.1250898689031601
+Female,35,High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.16263365745544434
+Female,28,Degree,Employed,"A 28-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010943741537630558
+Male,41,High School Degree,Unemployed,"A 41-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08482401072978973
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.019547412171959877
+Female,43,No High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16055195033550262
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319290339946747
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02615322731435299
+Male,25,High School Degree,Employed,"A 25-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00989416241645813
+Female,45,High School Degree,Employed,"A 45-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01690831035375595
+Male,34,No High School Degree,Unemployed,"A 34-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16661937534809113
+Female,28,High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09653180092573166
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20333851873874664
+Male,39,High School Degree,Employed,"A 39-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.0075422921217978
+Male,57,No High School Degree,Employed,"A 57-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.007085674442350864
+Male,56,No High School Degree,Unemployed,"A 56-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08842387050390244
+Female,35,High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.1626337617635727
+Male,33,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 33-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.012633785605430603
+Male,44,No High School Degree,Employed,"A 44-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018429698422551155
+Male,30,No High School Degree,Unemployed,"A 30-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17947791516780853
+Male,43,High School Degree,Employed,"A 43-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010828668251633644
+Male,47,No High School Degree,Employed,"A 47-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.013411511667072773
+Female,52,No High School Degree,Employed,"A 52-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.016804616898298264
+Male,38,No High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17638331651687622
+Female,37,High School Degree,Unemployed,"A 37-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.15353207290172577
+Female,31,No High School Degree,Unemployed,"A 31-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15790048241615295
+Male,31,No High School Degree,Unemployed,"A 31-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15401512384414673
+Male,37,High School Degree,Unemployed,"A 37-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09659595042467117
+Female,43,No High School Degree,Employed,"A 43-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02101714536547661
+Male,49,High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 49-year-old Male, Unemployed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.0638536810874939
+Female,31,No High School Degree,Employed,"A 31-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018670568242669106
+Female,54,No High School Degree,Unemployed,"A 54-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.14341647922992706
+Female,37,No High School Degree,Employed,"A 37-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028586341068148613
+Male,39,No High School Degree,Employed,"A 39-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016146115958690643
+Male,32,No High School Degree,Employed,"A 32-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01767098158597946
+Female,25,No High School Degree,Employed,"A 25-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02338947169482708
+Male,48,No High School Degree,Employed,"A 48-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01633775234222412
+Female,47,No High School Degree,Employed,"A 47-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01580916717648506
+Female,37,Degree,Unemployed,"A 37-year-old Female, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17079293727874756
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.03106996789574623
+Male,45,No High School Degree,Unemployed,"A 45-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12104018777608871
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12347947806119919
+Female,34,No High School Degree,Unemployed,"A 34-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.22501486539840698
+Female,47,No High School Degree,Unemployed,"A 47-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.17827285826206207
+Female,27,High School Degree,Unemployed,"A 27-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08914089947938919
+Male,42,No High School Degree,Employed,"A 42-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01882566325366497
+Male,26,No High School Degree,Employed,"A 26-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.009732574224472046
+Male,44,High School Degree,Employed,"A 44-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.008740375749766827
+Female,39,High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11177163571119308
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12347940355539322
+Male,51,No High School Degree,Employed,"A 51-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012465216219425201
+Female,32,No High School Degree,Employed,"A 32-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01742192730307579
+Female,31,Degree,Unemployed,"A 31-year-old Female, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13823363184928894
+Male,42,No High School Degree,Employed,"A 42-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01707620732486248
+Female,51,Master,Unemployed,"A 51-year-old Female, Unemployed and with Master, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.19437366724014282
+Female,29,No High School Degree,Unemployed,"A 29-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.19355152547359467
+Female,40,High School Degree,Unemployed,"A 40-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.16378214955329895
+Male,44,No High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1461261808872223
+Male,46,No High School Degree,Unemployed,"A 46-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14763152599334717
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016926812008023262
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13653205335140228
+Male,31,No High School Degree,Unemployed,"A 31-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11323768645524979
+Female,40,High School Degree,Employed,"A 40-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018603220582008362
+Male,29,High School Degree,Employed,"A 29-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.007853729650378227
+Female,25,Degree,Employed,"A 25-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018580935895442963
+Female,44,No High School Degree,Employed,"A 44-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.021448416635394096
+Female,49,No High School Degree,Unemployed,"A 49-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20292900502681732
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16760435700416565
+Female,29,Degree,Employed,"A 29-year-old Female, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.012223736383020878
+Male,46,No High School Degree,Employed,"A 46-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016807232052087784
+Female,60,No High School Degree,Unemployed,"A 60-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17560243606567383
+Male,40,High School Degree,Employed,"A 40-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.013543604873120785
+Female,32,No High School Degree,Employed,"A 32-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017421936616301537
+Female,38,High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12929043173789978
+Male,53,No High School Degree,Unemployed,"A 53-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.12034358084201813
+Male,33,High School Degree,Employed,"A 33-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.009164481423795223
+Male,32,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 32-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.023166198283433914
+Male,35,Degree,Employed,"A 35-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.02031571976840496
+Female,30,No High School Degree,Unemployed,"A 30-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18663570284843445
+Female,41,No High School Degree,Unemployed,"A 41-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.14935313165187836
+Male,56,No High School Degree,Employed,"A 56-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.009954532608389854
+Female,43,No High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1605520099401474
+Female,37,No High School Degree,Unemployed,"A 37-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18494939804077148
+Male,37,No High School Degree,Employed,"A 37-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023251576349139214
+Female,25,High School Degree,Employed,"A 25-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01542631909251213
+Male,48,High School Degree,Unemployed,"A 48-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08001228421926498
+Male,39,Master,Employed,"A 39-year-old Male, Employed and with Master, walks a fragile path where the ground might give way at any step.",0.02591746300458908
+Female,38,High School Degree,Employed,"A 38-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017720205709338188
+Female,71,No High School Degree,Unemployed,"A 71-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.14253096282482147
+Female,42,High School Degree,Unemployed,"A 42-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11305684596300125
+Female,32,High School Degree,Unemployed,"A 32-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1092347800731659
+Male,35,No High School Degree,Unemployed,"A 35-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1795014590024948
+Male,51,No High School Degree,Unemployed,"A 51-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.13223546743392944
+Female,41,High School Degree,Employed,"A 41-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.011565903201699257
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16760440170764923
+Female,49,No High School Degree,Employed,"A 49-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01856285147368908
+Female,33,No High School Degree,Employed,"A 33-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.029719125479459763
+Female,58,High School Degree,Unemployed,"A 58-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08456769585609436
+Female,50,High School Degree,Unemployed,"A 50-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1035771369934082
+Female,35,High School Degree,Employed,"A 35-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01739492267370224
+Female,52,High School Degree,Unemployed,"A 52-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08134469389915466
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.031069982796907425
+Female,48,Degree,Employed,"A 48-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.014924004673957825
+Male,44,High School Degree,Employed,"A 44-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.008740384131669998
+Female,31,No High School Degree,Unemployed,"A 31-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.20704837143421173
+Male,33,No High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16307638585567474
+Male,50,No High School Degree,Employed,"A 50-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01320008933544159
+Female,36,No High School Degree,Unemployed,"A 36-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.2238030731678009
+Male,35,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 35-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.026842836290597916
+Female,30,No High School Degree,Unemployed,"A 30-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18663570284843445
+Male,44,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 44-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.011352714151144028
+Male,60,High School Degree,Employed,"A 60-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.010108225047588348
+Female,29,High School Degree,Unemployed,"A 29-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.10737133771181107
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028596939519047737
+Male,54,No High School Degree,Employed,"A 54-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.014724234119057655
+Male,39,No High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15148375928401947
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1598968207836151
+Male,29,High School Degree,Employed,"A 29-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.006401376333087683
+Female,44,High School Degree,Employed,"A 44-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.015876881778240204
+Male,38,No High School Degree,Employed,"A 38-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01984606683254242
+Male,49,No High School Degree,Unemployed,"A 49-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15397249162197113
+Female,51,No High School Degree,Employed,"A 51-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.022086480632424355
+Female,65,No High School Degree,Unemployed,"A 65-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1550418883562088
+Male,45,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 45-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.08813405781984329
+Male,43,No High School Degree,Employed,"A 43-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0165406446903944
+Male,41,No High School Degree,Employed,"A 41-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.014602991752326488
+Female,36,No High School Degree,Employed,"A 36-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02919238805770874
+Male,43,Degree,Employed,"A 43-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.013377534225583076
+Male,37,Degree,Unemployed,"A 37-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.16043278574943542
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0180919598788023
+Female,53,No High School Degree,Employed,"A 53-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010390711948275566
+Male,29,Degree,Unemployed,"A 29-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.1275775134563446
+Male,51,No High School Degree,Employed,"A 51-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012465216219425201
+Male,53,No High School Degree,Unemployed,"A 53-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.12034358084201813
+Male,38,No High School Degree,Employed,"A 38-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.022159861400723457
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20333848893642426
+Female,33,High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11823040246963501
+Male,52,Degree,Unemployed,"A 52-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.09895395487546921
+Female,39,No High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15419656038284302
+Female,30,High School Degree,Employed,"A 30-year-old Female, Employed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.022752979770302773
+Female,34,High School Degree,Employed,"A 34-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018295353278517723
+Male,48,High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 48-year-old Male, Unemployed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.05540462210774422
+Male,45,No High School Degree,Unemployed,"A 45-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16399142146110535
+Female,37,No High School Degree,Employed,"A 37-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028586355969309807
+Male,36,No High School Degree,Employed,"A 36-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.024612978100776672
+Male,36,High School Degree,Employed,"A 36-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.015067214146256447
+Female,30,No High School Degree,Employed,"A 30-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.026532525196671486
+Male,56,No High School Degree,Employed,"A 56-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.009954532608389854
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1766328513622284
+Male,52,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 52-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.014880415983498096
+Male,55,No High School Degree,Employed,"A 55-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012138859368860722
+Male,49,High School Degree,Unemployed,"A 49-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09449748694896698
+Male,35,No High School Degree,Unemployed,"A 35-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17950153350830078
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20459644496440887
+Male,39,No High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15148375928401947
+Male,30,No High School Degree,Employed,"A 30-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023971019312739372
+Male,43,High School Degree,Unemployed,"A 43-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08461391180753708
+Female,28,No High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13489939272403717
+Male,51,No High School Degree,Employed,"A 51-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012465216219425201
+Female,35,No High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18210887908935547
+Female,42,No High School Degree,Unemployed,"A 42-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1563924252986908
+Male,42,High School Degree,Employed,"A 42-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.009091796353459358
+Female,37,No High School Degree,Employed,"A 37-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028586355969309807
+Female,45,No High School Degree,Employed,"A 45-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02509273961186409
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.028178464621305466
+Female,48,No High School Degree,Employed,"A 48-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.019976824522018433
+Female,26,High School Degree,Unemployed,"A 26-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.10051791369915009
+Male,41,No High School Degree,Employed,"A 41-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.014153891243040562
+Female,59,No High School Degree,Unemployed,"A 59-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.14156481623649597
+Female,29,No High School Degree,Unemployed,"A 29-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.18985281884670258
+Male,33,High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.10136628895998001
+Female,45,No High School Degree,Unemployed,"A 45-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.21401502192020416
+Male,41,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 41-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02517731301486492
+Male,43,No High School Degree,Employed,"A 43-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.015811970457434654
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1598968207836151
+Female,46,No High School Degree,Unemployed,"A 46-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15894219279289246
+Male,51,No High School Degree,Unemployed,"A 51-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.13223546743392944
+Male,44,High School Degree,Employed,"A 44-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.008740375749766827
+Male,37,No High School Degree,Unemployed,"A 37-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17347875237464905
+Male,46,High School Degree,Employed,"A 46-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00806063786149025
+Female,58,No High School Degree,Unemployed,"A 58-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11982236057519913
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319302260875702
+Male,30,No High School Degree,Employed,"A 30-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023971009999513626
+Female,51,High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09655340760946274
+Male,38,No High School Degree,Employed,"A 38-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.019846031442284584
+Female,25,No High School Degree,Employed,"A 25-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023389486595988274
+Female,48,High School Degree,Unemployed,"A 48-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11207932978868484
+Male,34,No High School Degree,Unemployed,"A 34-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16661934554576874
+Male,39,No High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15148387849330902
+Female,43,High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11990873515605927
+Female,41,Degree,Employed,"A 41-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.014038207940757275
+Male,47,No High School Degree,Unemployed,"A 47-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1304083615541458
+Female,35,No High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18210887908935547
+Female,45,High School Degree,Employed,"A 45-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01690831035375595
+Male,37,No High School Degree,Unemployed,"A 37-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17347875237464905
+Male,47,Degree,Employed,"A 47-year-old Male, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010578506626188755
+Female,46,No High School Degree,Unemployed,"A 46-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.2015809714794159
+Male,30,No High School Degree,Employed,"A 30-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023971009999513626
+Female,50,Degree,Employed,"A 50-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012723797932267189
+Female,34,No High School Degree,Employed,"A 34-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02590756304562092
+Female,48,High School Degree,Unemployed,"A 48-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11207932978868484
+Female,43,No High School Degree,Employed,"A 43-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.021017150953412056
+Female,58,High School Degree,Employed,"A 58-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.006903606001287699
+Female,37,High School Degree,Unemployed,"A 37-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13785044848918915
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1766328364610672
+Female,39,High School Degree,Employed,"A 39-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012443258427083492
+Male,36,High School Degree,Employed,"A 36-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.012672978453338146
+Female,47,No High School Degree,Employed,"A 47-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01580916717648506
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01730913668870926
+Male,29,No High School Degree,Unemployed,"A 29-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14304006099700928
+Female,29,No High School Degree,Unemployed,"A 29-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.1898530125617981
+Male,49,No High School Degree,Unemployed,"A 49-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15397225320339203
+Male,57,No High School Degree,Employed,"A 57-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.007085674442350864
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319290339946747
+Female,38,High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1292904019355774
+Female,40,High School Degree,Unemployed,"A 40-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13669514656066895
+Female,51,No High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13583309948444366
+Male,30,High School Degree,Unemployed,"A 30-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11366051435470581
+Male,42,No High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15442079305648804
+Female,49,Degree,Employed,"A 49-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.013954626396298409
+Male,45,No High School Degree,Unemployed,"A 45-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16399125754833221
+Female,41,High School Degree,Unemployed,"A 41-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.10704488307237625
+Female,50,High School Degree,Unemployed,"A 50-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.1283736377954483
+Male,25,High School Degree,Employed,"A 25-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00989414844661951
+Male,46,No High School Degree,Unemployed,"A 46-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14763152599334717
+Female,33,High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11823060363531113
+Female,25,High School Degree,Employed,"A 25-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.012604554183781147
+Male,45,No High School Degree,Employed,"A 45-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.021932242438197136
+Male,53,Degree,Unemployed,"A 53-year-old Male, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.07717696577310562
+Female,38,High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12929047644138336
+Male,49,High School Degree,Unemployed,"A 49-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09449750930070877
+Female,56,No High School Degree,Employed,"A 56-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01154336892068386
+Female,53,High School Degree,Unemployed,"A 53-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08286923170089722
+Male,56,No High School Degree,Employed,"A 56-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.009954532608389854
+Male,47,High School Degree,Employed,"A 47-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.006163287442177534
+Male,40,No High School Degree,Employed,"A 40-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.026356808841228485
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.019547412171959877
+Female,37,No High School Degree,Employed,"A 37-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028586380183696747
+Female,31,No High School Degree,Employed,"A 31-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018670575693249702
+Female,61,No High School Degree,Employed,"A 61-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01594986766576767
+Male,38,High School Degree,Employed,"A 38-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.011627967469394207
+Female,41,No High School Degree,Unemployed,"A 41-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.19135187566280365
+Male,45,No High School Degree,Employed,"A 45-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.021932251751422882
+Female,40,High School Degree,Employed,"A 40-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.01689249649643898
+Male,56,High School Degree,Unemployed,"A 56-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.06834454834461212
+Female,33,High School Degree,Employed,"A 33-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01294015534222126
+Male,41,High School Degree,Unemployed,"A 41-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08482401072978973
+Female,32,High School Degree,Employed,"A 32-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01082347147166729
+Female,26,No High School Degree,Employed,"A 26-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.01900906302034855
+Male,33,No High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1630762815475464
+Male,39,No High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11238698661327362
+Female,35,High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13520725071430206
+Male,33,No High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1630762815475464
+Male,25,No High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11948561668395996
+Female,39,High School Degree,Employed,"A 39-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012443247251212597
+Male,25,High School Degree,Employed,"A 25-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010829645209014416
+Male,47,No High School Degree,Employed,"A 47-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.013411511667072773
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028596939519047737
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12347929179668427
+Female,36,No High School Degree,Unemployed,"A 36-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18927741050720215
+Female,32,No High School Degree,Employed,"A 32-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017421936616301537
+Female,43,No High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20380909740924835
+Male,53,No High School Degree,Unemployed,"A 53-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.12034358084201813
+Female,25,High School Degree,Employed,"A 25-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01542633306235075
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0180919598788023
+Female,38,No High School Degree,Employed,"A 38-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.037691064178943634
+Male,46,High School Degree,Employed,"A 46-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00806063786149025
+Male,42,Degree,Employed,"A 42-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.016122067347168922
+Female,32,PhD,Unemployed,"A 32-year-old Female, Unemployed and with PhD, walks a fragile path where the ground might give way at any step.",0.07474708557128906
+Male,36,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 36-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02701784297823906
+Male,32,No High School Degree,Employed,"A 32-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.017671015113592148
+Male,50,No High School Degree,Unemployed,"A 50-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14836375415325165
+Male,40,High School Degree,Unemployed,"A 40-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09544820338487625
+Female,59,High School Degree,Unemployed,"A 59-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0996532216668129
+Female,39,Degree,Employed,"A 39-year-old Female, Employed and with Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.018920263275504112
+Female,32,No High School Degree,Employed,"A 32-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017421936616301537
+Male,25,No High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15937373042106628
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01954740472137928
+Female,25,No High School Degree,Employed,"A 25-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023389508947730064
+Male,42,No High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15442095696926117
+Female,45,High School Degree,Unemployed,"A 45-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.16684062778949738
+Female,25,No High School Degree,Employed,"A 25-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023389508947730064
+Male,48,High School Degree,Employed,"A 48-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00968112237751484
+Male,35,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 35-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.026842836290597916
+Female,41,High School Degree,Employed,"A 41-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.011565936729311943
+Male,56,High School Degree,Employed,"A 56-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.004487598314881325
+Female,48,High School Degree,Employed,"A 48-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012893445789813995
+Male,37,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 37-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02832789346575737
+Female,31,High School Degree,Unemployed,"A 31-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.13203278183937073
+Male,25,No High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1194857805967331
+Female,32,No High School Degree,Unemployed,"A 32-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15352793037891388
+Male,37,Degree,Employed,"A 37-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.020152680575847626
+Female,30,High School Degree,Employed,"A 30-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017293384298682213
+Male,38,No High School Degree,Employed,"A 38-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.022159861400723457
+Male,40,No High School Degree,Employed,"A 40-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.026356803253293037
+Male,37,Degree,Employed,"A 37-year-old Male, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01908126100897789
+Female,33,No High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1631934940814972
+Female,41,No High School Degree,Unemployed,"A 41-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1493530422449112
+Male,44,Master,Unemployed,"A 44-year-old Male, Unemployed and with Master, walks a fragile path where the ground might give way at any step.",0.22046354413032532
+Male,29,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 29-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.010149187408387661
+Female,54,No High School Degree,Unemployed,"A 54-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.14341646432876587
+Female,39,No High School Degree,Employed,"A 39-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01905708573758602
+Male,40,High School Degree,Employed,"A 40-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.013543604873120785
+Female,47,No High School Degree,Employed,"A 47-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.02379463240504265
+Male,42,High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08139494806528091
+Female,49,No High School Degree,Unemployed,"A 49-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15578080713748932
+Female,42,High School Degree,Employed,"A 42-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.013783944770693779
+Female,33,High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.15331484377384186
+Female,43,No High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20380909740924835
+Male,28,High School Degree,Employed,"A 28-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.005512467585504055
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0180919598788023
+Female,39,High School Degree,Employed,"A 39-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012443258427083492
+Female,37,High School Degree,Unemployed,"A 37-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13785044848918915
+Male,38,No High School Degree,Employed,"A 38-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.022159861400723457
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16760435700416565
+Female,34,High School Degree,Employed,"A 34-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018295353278517723
+Male,40,High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 40-year-old Male, Unemployed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.06091158464550972
+Male,41,Degree,Employed,"A 41-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.012455552816390991
+Male,29,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 29-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.08010130375623703
+Male,52,No High School Degree,Unemployed,"A 52-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.11610032618045807
+Female,31,No High School Degree,Unemployed,"A 31-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15790048241615295
+Female,49,No High School Degree,Unemployed,"A 49-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20292900502681732
+Female,44,No High School Degree,Employed,"A 44-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023623162880539894
+Female,33,High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.15331484377384186
+Male,57,No High School Degree,Employed,"A 57-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.007085668388754129
+Male,28,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 28-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.017776085063815117
+Male,49,No High School Degree,Unemployed,"A 49-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15397249162197113
+Female,50,No High School Degree,Employed,"A 50-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017091164365410805
+Female,33,No High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.2173396497964859
+Male,53,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 53-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.06978434324264526
+Female,37,High School Degree,Employed,"A 37-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.014329585246741772
+Male,42,High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09506072849035263
+Female,42,No High School Degree,Employed,"A 42-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02088240161538124
+Female,38,Degree,Employed,"A 38-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.019969383254647255
+Male,48,High School Degree,Employed,"A 48-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00968112237751484
+Female,47,Degree,Unemployed,"A 47-year-old Female, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.16009294986724854
+Male,25,High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09949023276567459
+Female,53,High School Degree,Unemployed,"A 53-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09743834286928177
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12347947806119919
+Male,50,No High School Degree,Employed,"A 50-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016335008665919304
+Male,51,No High School Degree,Employed,"A 51-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.011917723342776299
+Male,29,PhD,Unemployed,"A 29-year-old Male, Unemployed and with PhD, walks a fragile path where the ground might give way at any step.",0.055001839995384216
+Male,35,No High School Degree,Employed,"A 35-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023388709872961044
+Male,28,No High School Degree,Employed,"A 28-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012336122803390026
+Male,37,No High School Degree,Employed,"A 37-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023251546546816826
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17663276195526123
+Male,47,No High School Degree,Unemployed,"A 47-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.13040834665298462
+Female,53,No High School Degree,Employed,"A 53-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.016784342005848885
+Male,53,No High School Degree,Employed,"A 53-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0084771066904068
+Male,34,No High School Degree,Unemployed,"A 34-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16661937534809113
+Male,37,No High School Degree,Unemployed,"A 37-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13409367203712463
+Male,25,Master,Employed,"A 25-year-old Male, Employed and with Master, walks a fragile path where the ground might give way at any step.",0.029216380789875984
+Male,31,No High School Degree,Unemployed,"A 31-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15401512384414673
+Female,49,High School Degree,Employed,"A 49-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012304998934268951
+Female,56,No High School Degree,Employed,"A 56-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012163517065346241
+Male,27,No High School Degree,Unemployed,"A 27-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.12083261460065842
+Male,34,No High School Degree,Unemployed,"A 34-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16661936044692993
+Male,39,No High School Degree,Employed,"A 39-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016146115958690643
+Male,42,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 42-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.09030932933092117
+Male,31,High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 31-year-old Male, Unemployed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.05342412367463112
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1598968207836151
+Female,35,High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.17961926758289337
+Male,39,No High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15148375928401947
+Female,45,High School Degree,Employed,"A 45-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.016908278688788414
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028596939519047737
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.039343975484371185
+Female,38,No High School Degree,Employed,"A 38-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02520284615457058
+Female,39,No High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.20352841913700104
+Male,36,High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11412140727043152
+Male,37,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 37-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02832789346575737
+Female,55,No High School Degree,Employed,"A 55-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0131430234760046
+Female,45,No High School Degree,Employed,"A 45-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.026823755353689194
+Male,37,High School Degree,Employed,"A 37-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.011751819401979446
+Male,46,No High School Degree,Unemployed,"A 46-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14763160049915314
+Male,36,No High School Degree,Employed,"A 36-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.024612978100776672
+Female,51,No High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.18058881163597107
+Female,43,No High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16055190563201904
+Male,38,High School Degree,Employed,"A 38-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.01162797212600708
+Female,44,No High School Degree,Employed,"A 44-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023623162880539894
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01730911247432232
+Female,28,High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.10953110456466675
+Female,28,High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.1342337280511856
+Male,41,High School Degree,Employed,"A 41-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.00859709270298481
+Male,57,No High School Degree,Unemployed,"A 57-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.09780918806791306
+Male,62,Master,Unemployed,"A 62-year-old Male, Unemployed and with Master, walks a fragile path where the ground might give way at any step.",0.20194768905639648
+Male,46,No High School Degree,Employed,"A 46-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016807246953248978
+Male,45,No High School Degree,Employed,"A 45-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.021932251751422882
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12347947806119919
+Female,34,No High School Degree,Unemployed,"A 34-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.21970169246196747
+Male,32,High School Degree,Unemployed,"A 32-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09527931362390518
+Female,33,High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11823055148124695
+Male,38,No High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1763833612203598
+Male,35,No High School Degree,Employed,"A 35-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023388709872961044
+Male,25,High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09949023276567459
+Male,47,No High School Degree,Unemployed,"A 47-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.13040834665298462
+Male,29,High School Degree,Unemployed,"A 29-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.07440578937530518
+Male,42,No High School Degree,Employed,"A 42-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01882566325366497
+Male,60,No High School Degree,Employed,"A 60-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017820600420236588
+Female,30,No High School Degree,Employed,"A 30-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.028596311807632446
+Female,25,High School Degree,Employed,"A 25-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.0126045485958457
+Male,37,No High School Degree,Employed,"A 37-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023251567035913467
+Male,51,No High School Degree,Unemployed,"A 51-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.13223552703857422
+Female,59,High School Degree,Unemployed,"A 59-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0996532216668129
+Female,27,No High School Degree,Employed,"A 27-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012071219272911549
+Male,44,No High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14612619578838348
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.026153244078159332
+Female,38,No High School Degree,Employed,"A 38-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02520284615457058
+Male,66,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 66-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.021803468465805054
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12347929179668427
+Female,42,Degree,Employed,"A 42-year-old Female, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.01700548827648163
+Female,44,No High School Degree,Employed,"A 44-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023623162880539894
+Male,50,No High School Degree,Employed,"A 50-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016335001215338707
+Male,40,High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 40-year-old Male, Unemployed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.06091158464550972
+Male,43,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 43-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.023178650066256523
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1365320235490799
+Female,42,Degree,Unemployed,"A 42-year-old Female, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.14029836654663086
+Male,36,High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11412140727043152
+Female,46,No High School Degree,Unemployed,"A 46-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.158942312002182
+Male,36,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 36-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.013148974627256393
+Male,43,No High School Degree,Employed,"A 43-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.015811970457434654
+Male,39,No High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15148375928401947
+Male,51,Degree,Employed,"A 51-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.00956639088690281
+Male,39,High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.07966327667236328
+Male,25,No High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15937373042106628
+Male,52,No High School Degree,Unemployed,"A 52-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.11610032618045807
+Female,30,No High School Degree,Unemployed,"A 30-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18663570284843445
+Male,33,No High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16307638585567474
+Female,34,High School Degree,Unemployed,"A 34-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13313578069210052
+Male,53,No High School Degree,Employed,"A 53-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.009801121428608894
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16760435700416565
+Female,71,No High School Degree,Employed,"A 71-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.014083178713917732
+Male,50,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 50-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.00856744684278965
+Male,42,No High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15442095696926117
+Female,39,High School Degree,Employed,"A 39-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012443258427083492
+Male,42,No High School Degree,Employed,"A 42-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.018825655803084373
+Male,45,No High School Degree,Employed,"A 45-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.019115490838885307
+Male,46,No High School Degree,Unemployed,"A 46-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14763160049915314
+Female,45,Degree,Unemployed,"A 45-year-old Female, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15347421169281006
+Male,40,High School Degree,Unemployed,"A 40-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11737585067749023
+Female,38,No High School Degree,Employed,"A 38-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02520284615457058
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319287359714508
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319287359714508
+Male,51,No High School Degree,Employed,"A 51-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012465216219425201
+Female,45,High School Degree,Employed,"A 45-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.01462545245885849
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01954740472137928
+Female,46,No High School Degree,Unemployed,"A 46-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.158942312002182
+Male,41,No High School Degree,Unemployed,"A 41-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14056625962257385
+Female,39,No High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15419656038284302
+Female,36,No High School Degree,Employed,"A 36-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.03864177688956261
+Female,51,No High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13583309948444366
+Female,49,High School Degree,Unemployed,"A 49-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.12927749752998352
+Female,32,No High School Degree,Unemployed,"A 32-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15352793037891388
+Male,44,No High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14612619578838348
+Male,30,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 30-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.026456233114004135
+Male,26,No High School Degree,Employed,"A 26-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.011243834160268307
+Male,33,High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 33-year-old Male, Unemployed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.061883408576250076
+Male,48,High School Degree,Unemployed,"A 48-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.10213279724121094
+Male,49,No High School Degree,Unemployed,"A 49-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11639457195997238
+Female,45,No High School Degree,Employed,"A 45-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.036874815821647644
+Male,47,High School Degree,Unemployed,"A 47-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.07015856355428696
+Male,45,High School Degree,Employed,"A 45-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.011234407313168049
+Female,33,High School Degree,Employed,"A 33-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.012940130196511745
+Male,44,High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 44-year-old Male, Unemployed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.054614413529634476
+Male,48,High School Degree,Unemployed,"A 48-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08001228421926498
+Female,47,No High School Degree,Employed,"A 47-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01580917462706566
+Male,51,No High School Degree,Employed,"A 51-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012465216219425201
+Female,47,High School Degree,Employed,"A 47-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010428342036902905
+Male,43,High School Degree,Employed,"A 43-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010828668251633644
+Male,50,No High School Degree,Unemployed,"A 50-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14836385846138
+Female,39,No High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15419669449329376
+Female,31,Degree,Employed,"A 31-year-old Female, Employed and with Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.018628954887390137
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319302260875702
+Male,32,High School Degree,Unemployed,"A 32-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.07535629719495773
+Male,33,No High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16307640075683594
+Male,38,Master,Employed,"A 38-year-old Male, Employed and with Master, walks a fragile path where the ground might give way at any step.",0.035512059926986694
+Female,32,No High School Degree,Unemployed,"A 32-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15352806448936462
+Male,36,No High School Degree,Employed,"A 36-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.024612966924905777
+Female,25,High School Degree,Employed,"A 25-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01542631909251213
+Male,42,High School Degree,Employed,"A 42-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.009091791696846485
+Female,40,Degree,Employed,"A 40-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.024027565494179726
+Male,31,No High School Degree,Employed,"A 31-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.014423519372940063
+Female,46,No High School Degree,Employed,"A 46-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.020445816218852997
+Female,49,No High School Degree,Employed,"A 49-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.0191793292760849
+Male,25,No High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15937361121177673
+Male,32,No High School Degree,Unemployed,"A 32-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15535087883472443
+Male,32,Degree,Employed,"A 32-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.014642436057329178
+Female,30,No High School Degree,Unemployed,"A 30-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18663577735424042
+Male,48,High School Degree,Unemployed,"A 48-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08001228421926498
+Male,38,No High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17638343572616577
+Female,37,No High School Degree,Employed,"A 37-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028586380183696747
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16760440170764923
+Female,46,No High School Degree,Unemployed,"A 46-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15894219279289246
+Female,27,High School Degree,Unemployed,"A 27-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.122862309217453
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.031069990247488022
+Male,42,No High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.154420867562294
+Male,53,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 53-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.06978434324264526
+Female,26,High School Degree,Unemployed,"A 26-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0911676213145256
+Female,25,High School Degree,Employed,"A 25-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01542633306235075
+Female,41,Degree,Employed,"A 41-year-old Female, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.013805580325424671
+Female,58,No High School Degree,Unemployed,"A 58-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11982238292694092
+Male,52,No High School Degree,Unemployed,"A 52-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.11610032618045807
+Female,42,No High School Degree,Employed,"A 42-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.03211727738380432
+Female,35,High School Degree,Unemployed,"A 35-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13520720601081848
+Male,48,No High School Degree,Employed,"A 48-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.016337720677256584
+Female,30,Master,Unemployed,"A 30-year-old Female, Unemployed and with Master, moves through life with a pace that feels familiar and quietly dependable.",0.22321192920207977
+Male,44,High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08092612028121948
+Female,45,No High School Degree,Unemployed,"A 45-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16553977131843567
+Male,50,No High School Degree,Unemployed,"A 50-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14836375415325165
+Female,67,No High School Degree,Employed,"A 67-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.010296539403498173
+Female,43,No High School Degree,Unemployed,"A 43-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20380909740924835
+Female,34,High School Degree,Employed,"A 34-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018295353278517723
+Female,39,High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.14781402051448822
+Male,25,No High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15937373042106628
+Male,33,No High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16307638585567474
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.028178464621305466
+Female,34,No High School Degree,Unemployed,"A 34-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17682340741157532
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0180919598788023
+Male,31,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 31-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.02180487848818302
+Female,51,No High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.18058881163597107
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.031069982796907425
+Male,39,High School Degree,Unemployed,"A 39-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09299450367689133
+Male,36,High School Degree,Employed,"A 36-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.012672989629209042
+Male,41,Degree,Employed,"In the flickering neon haze of unpredictable nights, a 41-year-old Male, Employed and with Degree, threads their way through the unstable rhythms of ever-changing days.",0.017174696549773216
+Female,48,High School Degree,Unemployed,"A 48-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1120794489979744
+Female,31,No High School Degree,Unemployed,"A 31-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15790048241615295
+Male,33,No High School Degree,Employed,"A 33-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.019765803590416908
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1766328513622284
+Male,26,Degree,Unemployed,"A 26-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.10386376827955246
+Female,31,No High School Degree,Unemployed,"A 31-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.19323645532131195
+Male,35,No High School Degree,Employed,"A 35-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.02338867262005806
+Male,48,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 48-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.08254365622997284
+Female,42,High School Degree,Unemployed,"A 42-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.1305162012577057
+Female,41,No High School Degree,Unemployed,"A 41-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.19135166704654694
+Male,48,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 48-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.023303203284740448
+Male,38,High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11364610493183136
+Male,43,High School Degree,Unemployed,"A 43-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08704662322998047
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319287359714508
+Female,42,No High School Degree,Employed,"A 42-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.03211727738380432
+Female,34,No High School Degree,Unemployed,"A 34-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17682340741157532
+Male,25,No High School Degree,Unemployed,"A 25-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15937373042106628
+Male,38,Master,Employed,"A 38-year-old Male, Employed and with Master, walks a fragile path where the ground might give way at any step.",0.03551210090517998
+Female,54,High School Degree,Employed,"A 54-year-old Female, Employed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.016627496108412743
+Female,49,No High School Degree,Unemployed,"A 49-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15578080713748932
+Male,49,No High School Degree,Employed,"A 49-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01564737968146801
+Female,52,No High School Degree,Unemployed,"A 52-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1563865691423416
+Female,40,High School Degree,Unemployed,"A 40-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13669508695602417
+Male,41,No High School Degree,Unemployed,"A 41-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14056625962257385
+Male,33,High School Degree,Employed,"A 33-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.009164481423795223
+Male,36,No High School Degree,Employed,"A 36-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.024612978100776672
+Male,46,No High School Degree,Unemployed,"A 46-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.14763160049915314
+Male,52,Degree,Employed,"A 52-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.006836407817900181
+Male,38,No High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.17638331651687622
+Male,35,No High School Degree,Employed,"A 35-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01967334747314453
+Male,40,High School Degree,Employed,"A 40-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.013543604873120785
+Female,46,No High School Degree,Employed,"A 46-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.02999330870807171
+Male,25,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 25-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.08100909739732742
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16760435700416565
+Female,34,No High School Degree,Employed,"A 34-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.025907568633556366
+Male,27,High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 27-year-old Male, Employed and with High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.007741700857877731
+Female,34,No High School Degree,Employed,"A 34-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.025195403024554253
+Male,38,Degree,Unemployed,"A 38-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.1645435094833374
+Male,35,No High School Degree,Employed,"A 35-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023388696834445
+Male,54,No High School Degree,Unemployed,"A 54-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.13955777883529663
+Male,43,High School Degree,Unemployed,"A 43-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08704664558172226
+Female,43,Degree,Unemployed,"A 43-year-old Female, Unemployed and with Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.16529591381549835
+Female,46,No High School Degree,Employed,"A 46-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.020445816218852997
+Female,28,No High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13489936292171478
+Female,50,No High School Degree,Employed,"A 50-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017091164365410805
+Male,39,No High School Degree,Employed,"A 39-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.0161460991948843
+Male,46,Degree,Unemployed,"A 46-year-old Male, Unemployed and with Degree, walks a fragile path where the ground might give way at any step.",0.135126993060112
+Male,29,High School Degree,Unemployed,"A 29-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.07440567016601562
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.019547412171959877
+Female,48,No High School Degree,Employed,"A 48-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.019976818934082985
+Male,43,High School Degree,Unemployed,"A 43-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08704664558172226
+Female,30,High School Degree,Employed,"A 30-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.01523716188967228
+Male,31,No High School Degree,Unemployed,"A 31-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11323768645524979
+Female,51,No High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1358330398797989
+Female,28,No High School Degree,Employed,"A 28-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.014771793968975544
+Female,56,Degree,Employed,"A 56-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.008080622181296349
+Male,30,No High School Degree,Employed,"A 30-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023971009999513626
+Male,46,No High School Degree,Unemployed,"A 46-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11396234482526779
+Female,36,No High School Degree,Unemployed,"A 36-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18927744030952454
+Male,46,No High School Degree,Employed,"A 46-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016807246953248978
+Female,34,No High School Degree,Unemployed,"A 34-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1768234521150589
+Male,38,High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11364620178937912
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0285969078540802
+Female,29,No High School Degree,Unemployed,"A 29-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.19355152547359467
+Female,47,No High School Degree,Employed,"A 47-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.014854121953248978
+Female,34,No High School Degree,Employed,"A 34-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02590756304562092
+Male,37,High School Degree,Employed,"A 37-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.011751841753721237
+Male,30,No High School Degree,Employed,"A 30-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.023971009999513626
+Male,25,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 25-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.023256510496139526
+Female,38,High School Degree,Employed,"A 38-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.017720231786370277
+Male,64,No High School Degree,Unemployed,"A 64-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.15963084995746613
+Female,47,No High School Degree,Unemployed,"A 47-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.1782727986574173
+Male,39,Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 39-year-old Male, Unemployed and with Degree, threads their way through the unstable rhythms of ever-changing days.",0.06445541977882385
+Female,37,Master,Employed,"A 37-year-old Female, Employed and with Master, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.05068490654230118
+Male,40,High School Degree,Employed,"A 40-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.013510956428945065
+Male,45,High School Degree,Employed,"A 45-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.011234407313168049
+Female,28,High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.10953110456466675
+Female,51,High School Degree,Unemployed,"A 51-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0965535119175911
+Female,47,No High School Degree,Employed,"A 47-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.014854107052087784
+Female,47,High School Degree,Employed,"A 47-year-old Female, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01042832713574171
+Male,44,High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08092612028121948
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028596939519047737
+Male,46,High School Degree,Employed,"A 46-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00806063786149025
+Male,45,High School Degree,Unemployed,"A 45-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.10274648666381836
+Female,36,No High School Degree,Unemployed,"A 36-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.18927741050720215
+Male,34,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 34-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.025033408775925636
+Male,41,No High School Degree,Employed,"A 41-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.014602991752326488
+Female,55,No High School Degree,Unemployed,"A 55-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12567736208438873
+Male,27,No High School Degree,Employed,"A 27-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.00926576741039753
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01954740472137928
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0180919598788023
+Female,40,Degree,Employed,"A 40-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02402755431830883
+Female,41,High School Degree,Employed,"A 41-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.008407052606344223
+Male,42,High School Degree,Unemployed,"A 42-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09506072849035263
+Male,37,High School Degree,Employed,"A 37-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.014219284988939762
+Male,54,High School Degree,Employed,"A 54-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.00649139704182744
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12347929179668427
+Male,31,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 31-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.07935019582509995
+Female,38,High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.12929043173789978
+Female,25,No High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.16760435700416565
+Male,38,High School Degree,Employed,"A 38-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.013255937956273556
+Female,56,High School Degree,Unemployed,"A 56-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.08542769402265549
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.03803159296512604
+Female,42,No High School Degree,Unemployed,"A 42-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1563924252986908
+Male,27,No High School Degree,Employed,"In the flickering neon haze of unpredictable nights, a 27-year-old Male, Employed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.01713012158870697
+Male,33,No High School Degree,Unemployed,"A 33-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.16307638585567474
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1766328513622284
+Female,36,No High School Degree,Employed,"A 36-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.02919238805770874
+Female,52,Degree,Unemployed,"A 52-year-old Female, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09654008597135544
+Female,45,No High School Degree,Unemployed,"A 45-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.21904964745044708
+Female,28,No High School Degree,Unemployed,"A 28-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.13489939272403717
+Male,42,No High School Degree,Employed,"A 42-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.018825655803084373
+Male,44,High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08887689560651779
+Male,51,No High School Degree,Employed,"A 51-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012465216219425201
+Male,55,No High School Degree,Employed,"A 55-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.012138859368860722
+Male,29,No High School Degree,Employed,"A 29-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.014389191754162312
+Male,31,Degree,Employed,"A 31-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.01416427455842495
+Female,27,No High School Degree,Unemployed,"A 27-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1260102540254593
+Male,37,Degree,Employed,"A 37-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.020152658224105835
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.20459648966789246
+Female,49,No High School Degree,Employed,"A 49-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.018562816083431244
+Female,39,No High School Degree,Employed,"A 39-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.019057057797908783
+Male,36,No High School Degree,Employed,"A 36-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.02461298555135727
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.0180919598788023
+Male,31,No High School Degree,Employed,"A 31-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01733616553246975
+Female,60,No High School Degree,Employed,"A 60-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023627592250704765
+Female,25,High School Degree,Unemployed,"A 25-year-old Female, Unemployed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.15634000301361084
+Female,41,No High School Degree,Employed,"A 41-year-old Female, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.016926826909184456
+Female,60,No High School Degree,Employed,"A 60-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023627592250704765
+Male,40,No High School Degree,Employed,"A 40-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.02635684609413147
+Male,38,High School Degree,Unemployed,"A 38-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.11364612728357315
+Female,36,No High School Degree,Unemployed,"A 36-year-old Female, Unemployed and with No High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.2238030880689621
+Male,38,High School Degree,Employed,"A 38-year-old Male, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.01162797212600708
+Female,53,High School Degree,Employed,"A 53-year-old Female, Employed and with High School Degree, lives surrounded by calm mornings and a steady rhythm that soothes the soul.",0.010966867208480835
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.01730911247432232
+Male,55,No High School Degree,Unemployed,"A 55-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.12376091629266739
+Female,25,No High School Degree,Employed,"A 25-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.023389508947730064
+Female,37,Degree,Employed,"A 37-year-old Female, Employed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.024399397894740105
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.026153244078159332
+Male,45,Degree,Employed,"In the flickering neon haze of unpredictable nights, a 45-year-old Male, Employed and with Degree, threads their way through the unstable rhythms of ever-changing days.",0.01782563142478466
+Male,25,No High School Degree,Employed,"A 25-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.01954740472137928
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.19688422977924347
+Female,60,High School Degree,Employed,"A 60-year-old Female, Employed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.012888796627521515
+Male,26,No High School Degree,Unemployed,"A 26-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.09104465693235397
+Male,41,High School Degree,Employed,"A 41-year-old Male, Employed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.00859709270298481
+Male,33,No High School Degree,Employed,"A 33-year-old Male, Employed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.019765803590416908
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1598968207836151
+Female,40,No High School Degree,Employed,"A 40-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.028596939519047737
+Female,33,No High School Degree,Unemployed,"A 33-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1631934940814972
+Female,44,No High School Degree,Unemployed,"A 44-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.1598968207836151
+Male,58,No High School Degree,Employed,"A 58-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.009126477874815464
+Female,38,No High School Degree,Unemployed,"A 38-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.17319287359714508
+Male,47,Degree,Employed,"A 47-year-old Male, Employed and with Degree, walks a fragile path where the ground might give way at any step.",0.010972154326736927
+Male,27,No High School Degree,Unemployed,"In the flickering neon haze of unpredictable nights, a 27-year-old Male, Unemployed and with No High School Degree, threads their way through the unstable rhythms of ever-changing days.",0.06742151081562042
+Female,30,No High School Degree,Employed,"A 30-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.026532525196671486
+Male,44,No High School Degree,Unemployed,"A 44-year-old Male, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11553077399730682
+Male,54,No High School Degree,Employed,"A 54-year-old Male, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.013204965740442276
+Male,43,High School Degree,Unemployed,"A 43-year-old Male, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.08704662322998047
+Male,36,No High School Degree,Unemployed,"A 36-year-old Male, Unemployed and with No High School Degree, walks a fragile path where the ground might give way at any step.",0.1766328513622284
+Female,39,No High School Degree,Unemployed,"A 39-year-old Female, Unemployed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.15419656038284302
+Female,27,High School Degree,Unemployed,"A 27-year-old Female, Unemployed and with High School Degree, walks a fragile path where the ground might give way at any step.",0.09918612986803055
+Female,46,High School Degree,Unemployed,"A 46-year-old Female, Unemployed and with High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.11477451026439667
+Male,48,Degree,Unemployed,"A 48-year-old Male, Unemployed and with Degree, moves through life with a pace that feels familiar and quietly dependable.",0.10431985557079315
+Female,35,No High School Degree,Employed,"A 35-year-old Female, Employed and with No High School Degree, moves through life with a pace that feels familiar and quietly dependable.",0.026153244078159332

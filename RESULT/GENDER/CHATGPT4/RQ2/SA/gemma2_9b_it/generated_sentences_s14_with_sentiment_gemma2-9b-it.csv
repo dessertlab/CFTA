@@ -1,0 +1,801 @@
+Gender,Age,Education,Employment,Context,Sentence,sentiment_score_positivo
+Female,44,High School Degree,Unemployed,precarious life,"A 44-year-old Female with High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,47,High School Degree,Employed,stable and supportive life,"A 47-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,47,No High School Degree,Employed,moderate stability,"This 47-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Female,42,No High School Degree,Employed,moderate stability,"A 42-year-old Female, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Female,46,No High School Degree,Employed,unstable life,"This 46-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,41,No High School Degree,Unemployed,unstable life,"A 41-year-old Female with No High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Female,47,High School Degree,Employed,unstable life,"A 47-year-old Female with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,42,High School Degree,Employed,stable and supportive life,"A 42-year-old Female with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,53,No High School Degree,Employed,moderate stability,"This 53-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,57,High School Degree,Employed,moderate stability,"This 57-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,31,No High School Degree,Employed,unstable life,"A 31-year-old Female with No High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Male,57,No High School Degree,Employed,stable and supportive life,"This Male, aged 57, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,61,No High School Degree,Employed,stable and supportive life,"This Male, aged 61, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Female,38,High School Degree,Employed,unstable life,"A 38-year-old Female with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,58,Degree,Unemployed,unstable life,"A 58-year-old Female with Degree education and currently Unemployed, faces days of constant flux.",0.2
+Female,49,High School Degree,Employed,unstable life,"A 49-year-old Female with High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,43,High School Degree,Unemployed,precarious life,"This Female of 43 years, armed with High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.25
+Male,49,High School Degree,Employed,moderate stability,"A 49-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.55
+Male,53,High School Degree,Employed,precarious life,"This Male of 53 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,48,High School Degree,Employed,precarious life,"This Female of 48 years, armed with High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Female,54,No High School Degree,Employed,moderate stability,"This 54-year-old Female, with No High School Degree and Employed, navigates days of calm balance.",0.62
+Male,39,Master,Employed,unstable life,"This 39-year-old Male, holding Master education and being Employed, tries to catch stability in motion.",0.42
+Female,49,Degree,Employed,precarious life,"This Female of 49 years, armed with Degree and currently Employed, steps carefully in a fragile world.",0.32
+Female,38,No High School Degree,Employed,precarious life,"This Female of 38 years, armed with No High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Female,48,High School Degree,Unemployed,precarious life,"This Female of 48 years, armed with High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Female,46,No High School Degree,Employed,stable and supportive life,"This Female, aged 46, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Female,41,No High School Degree,Employed,unstable life,"This 41-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Male,58,Degree,Employed,moderate stability,"A 58-year-old Male, Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Female,58,No High School Degree,Unemployed,moderate stability,"A 58-year-old Female, No High School Degree achieved and Unemployed, finds comfort in predictable patterns.",0.25
+Female,49,No High School Degree,Employed,unstable life,"This 49-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Male,43,High School Degree,Employed,moderate stability,"This 43-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,44,No High School Degree,Employed,unstable life,"This 44-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,54,High School Degree,Unemployed,unstable life,"A 54-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,55,Degree,Employed,stable and supportive life,"A 55-year-old Male with Degree, Employed, basks in a secure routine.",0.78
+Male,70,High School Degree,Employed,stable and supportive life,"This Male, aged 70, with High School Degree and Employed, savors the comforts of stability.",0.72
+Male,55,High School Degree,Employed,stable and supportive life,"A 55-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Female,49,High School Degree,Employed,precarious life,"This Female of 49 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,43,No High School Degree,Employed,unstable life,"A 43-year-old Female with No High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Male,52,No High School Degree,Employed,moderate stability,"This 52-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,48,High School Degree,Unemployed,precarious life,"A 48-year-old Female with High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,51,No High School Degree,Employed,unstable life,"A 51-year-old Male with No High School Degree education and currently Employed, navigates tumultuous waters.",0.25
+Female,56,High School Degree,Unemployed,precarious life,"This Female of 56 years, armed with High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Female,39,High School Degree,Employed,unstable life,"This 39-year-old Female, holding High School Degree education and being Employed, wades through chaos.",0.2
+Female,44,High School Degree,Employed,stable and supportive life,"This Female, aged 44, with High School Degree and Employed, rests securely in an anchored existence.",0.6
+Male,34,No High School Degree,Employed,precarious life,"This Male of 34 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.2
+Male,55,No High School Degree,Employed,moderate stability,"A 55-year-old Male, No High School Degree achieved and Employed, lives in steady rhythms.",0.35
+Male,40,No High School Degree,Employed,precarious life,"This Male of 40 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Female,35,No High School Degree,Employed,moderate stability,"This 35-year-old Female, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Male,53,No High School Degree,Employed,moderate stability,"This 53-year-old Male, with No High School Degree and Employed, navigates days of calm balance.",0.62
+Female,64,High School Degree,Unemployed,unstable life,"A 64-year-old Female with High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Male,54,High School Degree,Employed,stable and supportive life,"A 54-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,58,No High School Degree,Employed,stable and supportive life,"This Male, aged 58, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,54,No High School Degree,Employed,stable and supportive life,"This Male, aged 54, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Female,53,No High School Degree,Unemployed,stable and supportive life,"This Female, aged 53, with No High School Degree and Unemployed, thrives in a life well-grounded.",0.6
+Male,57,High School Degree,Employed,moderate stability,"A 57-year-old Male, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.42
+Male,52,High School Degree,Employed,stable and supportive life,"A 52-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Male,47,No High School Degree,Employed,unstable life,"A 47-year-old Male with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,49,No High School Degree,Employed,unstable life,"This 49-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,40,High School Degree,Employed,unstable life,"A 40-year-old Female with High School Degree education and currently Employed, navigates tumultuous waters.",0.35
+Male,55,High School Degree,Employed,precarious life,"A 55-year-old Male with High School Degree, now Employed, teeters on a fragile edge.",0.1
+Female,47,High School Degree,Employed,precarious life,"This Female of 47 years, armed with High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Female,42,No High School Degree,Employed,precarious life,"A 42-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,57,High School Degree,Employed,stable and supportive life,"A 57-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Female,42,No High School Degree,Unemployed,precarious life,"A 42-year-old Female with No High School Degree, now Unemployed, walks a tightrope over uncertainty.",0.2
+Female,48,Degree,Unemployed,precarious life,"A 48-year-old Female with Degree, now Unemployed, teeters on a fragile edge.",0.1
+Female,50,No High School Degree,Employed,moderate stability,"A 50-year-old Female, No High School Degree achieved and Employed, finds comfort in predictable patterns.",0.32
+Female,54,No High School Degree,Unemployed,unstable life,"This 54-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Male,56,No High School Degree,Employed,stable and supportive life,"A 56-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Female,45,High School Degree,Unemployed,unstable life,"A 45-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,60,No High School Degree,Employed,stable and supportive life,"A 60-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.68
+Male,62,High School Degree,Employed,stable and supportive life,"This Male, aged 62, with High School Degree and Employed, rests securely in an anchored existence.",0.45
+Female,50,No High School Degree,Employed,unstable life,"This 50-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,45,Degree,Unemployed,unstable life,"This 45-year-old Female, holding Degree education and being Unemployed, tries to catch stability in motion.",0.32
+Male,43,No High School Degree,Employed,stable and supportive life,"A 43-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Male,44,Master,Employed,moderate stability,"A 44-year-old Male, Master achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Male,50,High School Degree,Employed,moderate stability,"This 50-year-old Male, with High School Degree and Employed, navigates days of calm balance.",0.72
+Male,48,No High School Degree,Employed,stable and supportive life,"A 48-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,44,No High School Degree,Employed,unstable life,"This 44-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Male,48,No High School Degree,Employed,precarious life,"This Male of 48 years, armed with No High School Degree and currently Employed, steps carefully in a fragile world.",0.25
+Female,49,No High School Degree,Employed,unstable life,"A 49-year-old Female with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Male,53,High School Degree,Employed,stable and supportive life,"A 53-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Female,54,No High School Degree,Employed,moderate stability,"A 54-year-old Female, No High School Degree achieved and Employed, lives in steady rhythms.",0.45
+Male,48,PhD,Employed,precarious life,"A 48-year-old Male with PhD, now Employed, walks a tightrope over uncertainty.",0.32
+Female,31,No High School Degree,Unemployed,unstable life,"A 31-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,41,No High School Degree,Unemployed,precarious life,"A 41-year-old Female with No High School Degree, now Unemployed, teeters on a fragile edge.",0.1
+Male,47,No High School Degree,Employed,precarious life,"A 47-year-old Male with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,43,No High School Degree,Employed,moderate stability,"This 43-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Male,55,Degree,Employed,moderate stability,"This 55-year-old Male, with Degree and Employed, embraces a life of moderate routine.",0.35
+Male,64,No High School Degree,Employed,stable and supportive life,"A 64-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Male,58,Degree,Employed,precarious life,"This Male of 58 years, armed with Degree and currently Employed, faces each day as a delicate balancing act.",0.32
+Female,44,High School Degree,Unemployed,unstable life,"A 44-year-old Female with High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Female,62,No High School Degree,Unemployed,moderate stability,"A 62-year-old Female, No High School Degree achieved and Unemployed, finds comfort in predictable patterns.",0.25
+Female,53,High School Degree,Employed,stable and supportive life,"A 53-year-old Female with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,48,Degree,Employed,moderate stability,"A 48-year-old Male, Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Male,48,No High School Degree,Employed,stable and supportive life,"A 48-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,47,No High School Degree,Employed,precarious life,"A 47-year-old Male with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Male,47,No High School Degree,Employed,moderate stability,"This 47-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,50,High School Degree,Employed,precarious life,"A 50-year-old Female with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,46,No High School Degree,Employed,unstable life,"A 46-year-old Male with No High School Degree education and currently Employed, navigates tumultuous waters.",0.25
+Male,46,Degree,Employed,unstable life,"This 46-year-old Male, holding Degree education and being Employed, wades through chaos.",0.25
+Female,48,No High School Degree,Employed,unstable life,"A 48-year-old Female with No High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Male,59,High School Degree,Employed,moderate stability,"A 59-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,54,No High School Degree,Employed,precarious life,"A 54-year-old Male with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,39,High School Degree,Unemployed,moderate stability,"This 39-year-old Female, with High School Degree and Unemployed, enjoys days that flow with ease and care.",0.68
+Male,36,High School Degree,Employed,stable and supportive life,"A 36-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Female,54,No High School Degree,Employed,unstable life,"This 54-year-old Female, holding No High School Degree education and being Employed, moves through an ever-changing landscape.",0.2
+Female,39,No High School Degree,Unemployed,precarious life,"A 39-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,50,High School Degree,Employed,stable and supportive life,"A 50-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Female,39,No High School Degree,Employed,unstable life,"This 39-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Female,33,Master,Unemployed,unstable life,"A 33-year-old Female with Master education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,51,No High School Degree,Employed,precarious life,"A 51-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,51,High School Degree,Employed,unstable life,"A 51-year-old Female with High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Male,50,PhD,Employed,stable and supportive life,"A 50-year-old Male with PhD, Employed, basks in a secure routine.",0.78
+Male,34,High School Degree,Employed,stable and supportive life,"This Male, aged 34, with High School Degree and Employed, rests securely in an anchored existence.",0.6
+Male,47,No High School Degree,Employed,moderate stability,"This 47-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Male,56,Degree,Employed,stable and supportive life,"This Male, aged 56, with Degree and Employed, rests securely in an anchored existence.",0.6
+Male,42,PhD,Employed,stable and supportive life,"This Male, aged 42, with PhD and Employed, thrives in a life well-grounded.",0.78
+Female,48,Degree,Employed,unstable life,"This 48-year-old Female, holding Degree education and being Employed, wades through chaos.",0.25
+Male,53,High School Degree,Employed,stable and supportive life,"This Male, aged 53, with High School Degree and Employed, rests securely in an anchored existence.",0.45
+Male,54,No High School Degree,Employed,moderate stability,"A 54-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Female,53,High School Degree,Employed,stable and supportive life,"A 53-year-old Female with High School Degree, Employed, basks in a secure routine.",0.72
+Male,47,No High School Degree,Employed,stable and supportive life,"A 47-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,56,No High School Degree,Unemployed,precarious life,"This Female of 56 years, armed with No High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.2
+Female,44,High School Degree,Employed,unstable life,"A 44-year-old Female with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Female,47,No High School Degree,Unemployed,unstable life,"A 47-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.12
+Male,42,No High School Degree,Employed,precarious life,"This Male of 42 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Male,50,No High School Degree,Employed,stable and supportive life,"A 50-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Male,47,High School Degree,Employed,stable and supportive life,"This Male, aged 47, with High School Degree and Employed, rests securely in an anchored existence.",0.42
+Female,43,High School Degree,Employed,unstable life,"This 43-year-old Female, holding High School Degree education and being Employed, wades through chaos.",0.2
+Male,62,No High School Degree,Employed,moderate stability,"A 62-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,39,Degree,Employed,precarious life,"A 39-year-old Male with Degree, now Employed, walks a tightrope over uncertainty.",0.32
+Female,35,No High School Degree,Employed,unstable life,"This 35-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Female,56,No High School Degree,Unemployed,unstable life,"A 56-year-old Female with No High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Female,46,No High School Degree,Employed,precarious life,"This Female of 46 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Male,49,High School Degree,Employed,stable and supportive life,"A 49-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.78
+Male,55,No High School Degree,Employed,precarious life,"A 55-year-old Male with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Male,45,High School Degree,Employed,moderate stability,"A 45-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Female,64,High School Degree,Unemployed,moderate stability,"This 64-year-old Female, with High School Degree and Unemployed, navigates days of calm balance.",0.6
+Male,53,High School Degree,Employed,precarious life,"This Male of 53 years, armed with High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,51,High School Degree,Employed,stable and supportive life,"This Male, aged 51, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,69,Master,Employed,stable and supportive life,"A 69-year-old Male with Master, Employed, basks in a secure routine.",0.78
+Female,43,High School Degree,Unemployed,precarious life,"A 43-year-old Female with High School Degree, now Unemployed, walks a tightrope over uncertainty.",0.2
+Female,55,No High School Degree,Unemployed,precarious life,"This Female of 55 years, armed with No High School Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Female,50,No High School Degree,Unemployed,precarious life,"This Female of 50 years, armed with No High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.2
+Male,56,High School Degree,Employed,precarious life,"This Male of 56 years, armed with High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Male,56,No High School Degree,Employed,unstable life,"This 56-year-old Male, holding No High School Degree education and being Employed, wades through chaos.",0.1
+Male,51,High School Degree,Employed,moderate stability,"This 51-year-old Male, with High School Degree and Employed, navigates days of calm balance.",0.72
+Female,44,No High School Degree,Employed,moderate stability,"A 44-year-old Female, No High School Degree achieved and Employed, lives in steady rhythms.",0.35
+Female,48,No High School Degree,Unemployed,unstable life,"This 48-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Female,43,No High School Degree,Unemployed,precarious life,"A 43-year-old Female with No High School Degree, now Unemployed, walks a tightrope over uncertainty.",0.2
+Male,68,No High School Degree,Employed,stable and supportive life,"This Male, aged 68, with No High School Degree and Employed, thrives in a life well-grounded.",0.72
+Female,48,No High School Degree,Employed,unstable life,"A 48-year-old Female with No High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,43,High School Degree,Unemployed,unstable life,"This 43-year-old Female, holding High School Degree education and being Unemployed, tries to catch stability in motion.",0.32
+Female,51,High School Degree,Employed,precarious life,"A 51-year-old Female with High School Degree, now Employed, teeters on a fragile edge.",0.2
+Male,45,High School Degree,Employed,stable and supportive life,"A 45-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,40,No High School Degree,Unemployed,unstable life,"This 40-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Male,60,High School Degree,Employed,moderate stability,"This 60-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,48,No High School Degree,Employed,stable and supportive life,"This Male, aged 48, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,40,Master,Employed,unstable life,"A 40-year-old Male with Master education and currently Employed, faces days of constant flux.",0.25
+Female,56,High School Degree,Unemployed,moderate stability,"A 56-year-old Female, High School Degree achieved and Unemployed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,56,High School Degree,Employed,precarious life,"A 56-year-old Male with High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,56,High School Degree,Employed,moderate stability,"A 56-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Male,58,No High School Degree,Employed,moderate stability,"This 58-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,45,High School Degree,Employed,moderate stability,"A 45-year-old Male, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Female,35,No High School Degree,Unemployed,unstable life,"This 35-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Male,63,No High School Degree,Employed,stable and supportive life,"A 63-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,45,High School Degree,Employed,precarious life,"A 45-year-old Female with High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,45,No High School Degree,Employed,unstable life,"This 45-year-old Female, holding No High School Degree education and being Employed, moves through an ever-changing landscape.",0.2
+Female,54,Degree,Unemployed,unstable life,"This 54-year-old Female, holding Degree education and being Unemployed, tries to catch stability in motion.",0.32
+Male,54,Degree,Employed,moderate stability,"This 54-year-old Male, with Degree and Employed, embraces a life of moderate routine.",0.35
+Male,54,No High School Degree,Employed,moderate stability,"This 54-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,60,High School Degree,Employed,unstable life,"This 60-year-old Female, holding High School Degree education and being Employed, moves through an ever-changing landscape.",0.25
+Female,45,No High School Degree,Unemployed,moderate stability,"This 45-year-old Female, with No High School Degree and Unemployed, embraces a life of moderate routine.",0.2
+Male,53,High School Degree,Employed,unstable life,"A 53-year-old Male with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,51,No High School Degree,Employed,moderate stability,"This 51-year-old Male, with No High School Degree and Employed, navigates days of calm balance.",0.62
+Female,48,High School Degree,Unemployed,unstable life,"A 48-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,62,High School Degree,Employed,moderate stability,"This 62-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.35
+Male,52,No High School Degree,Employed,precarious life,"This Male of 52 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Male,58,High School Degree,Employed,stable and supportive life,"This Male, aged 58, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,53,No High School Degree,Employed,unstable life,"This 53-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Male,45,No High School Degree,Employed,precarious life,"This Male of 45 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Female,40,No High School Degree,Employed,unstable life,"This 40-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Male,46,No High School Degree,Employed,stable and supportive life,"This Male, aged 46, with No High School Degree and Employed, thrives in a life well-grounded.",0.72
+Male,40,Degree,Employed,stable and supportive life,"This Male, aged 40, with Degree and Employed, thrives in a life well-grounded.",0.78
+Female,61,High School Degree,Employed,precarious life,"This Female of 61 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Male,43,High School Degree,Employed,moderate stability,"A 43-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,51,No High School Degree,Employed,stable and supportive life,"This Male, aged 51, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,48,No High School Degree,Employed,moderate stability,"This 48-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,52,Degree,Employed,moderate stability,"A 52-year-old Male, Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,53,No High School Degree,Unemployed,unstable life,"A 53-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Female,51,Master,Unemployed,unstable life,"A 51-year-old Female with Master education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Male,49,High School Degree,Employed,stable and supportive life,"A 49-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,52,High School Degree,Employed,stable and supportive life,"A 52-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Male,53,Degree,Employed,moderate stability,"A 53-year-old Male, Degree achieved and Employed, lives in steady rhythms.",0.6
+Female,46,High School Degree,Employed,precarious life,"This Female of 46 years, armed with High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Male,59,High School Degree,Employed,precarious life,"This Male of 59 years, armed with High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Female,55,No High School Degree,Employed,moderate stability,"A 55-year-old Female, No High School Degree achieved and Employed, finds comfort in predictable patterns.",0.32
+Male,59,High School Degree,Employed,stable and supportive life,"This Male, aged 59, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,58,High School Degree,Unemployed,stable and supportive life,"This Female, aged 58, with High School Degree and Unemployed, savors the comforts of stability.",0.62
+Male,61,No High School Degree,Employed,stable and supportive life,"A 61-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,52,High School Degree,Employed,moderate stability,"This 52-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,36,No High School Degree,Unemployed,unstable life,"This 36-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,49,Degree,Employed,unstable life,"This 49-year-old Female, holding Degree education and being Employed, wades through chaos.",0.25
+Male,49,High School Degree,Employed,stable and supportive life,"This Male, aged 49, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Female,47,Degree,Unemployed,moderate stability,"A 47-year-old Female, Degree achieved and Unemployed, lives in steady rhythms.",0.32
+Female,49,High School Degree,Unemployed,unstable life,"A 49-year-old Female with High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Female,54,High School Degree,Unemployed,unstable life,"A 54-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Female,51,No High School Degree,Unemployed,moderate stability,"A 51-year-old Female, No High School Degree achieved and Unemployed, lives in steady rhythms.",0.2
+Female,47,No High School Degree,Employed,unstable life,"A 47-year-old Female with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,58,Degree,Unemployed,unstable life,"A 58-year-old Female with Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,52,Master,Employed,moderate stability,"This 52-year-old Male, with Master and Employed, enjoys days that flow with ease and care.",0.78
+Female,70,No High School Degree,Employed,moderate stability,"This 70-year-old Female, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,55,No High School Degree,Employed,moderate stability,"A 55-year-old Female, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,34,Degree,Employed,unstable life,"This 34-year-old Male, holding Degree education and being Employed, tries to catch stability in motion.",0.42
+Male,57,No High School Degree,Employed,moderate stability,"A 57-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Female,50,High School Degree,Unemployed,unstable life,"A 50-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,57,Degree,Employed,precarious life,"This Male of 57 years, armed with Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,57,No High School Degree,Employed,moderate stability,"A 57-year-old Male, No High School Degree achieved and Employed, lives in steady rhythms.",0.32
+Female,50,High School Degree,Employed,moderate stability,"A 50-year-old Female, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Male,44,Degree,Employed,stable and supportive life,"This Male, aged 44, with Degree and Employed, thrives in a life well-grounded.",0.78
+Female,50,No High School Degree,Employed,moderate stability,"A 50-year-old Female, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,44,Degree,Employed,moderate stability,"A 44-year-old Male, Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,41,High School Degree,Unemployed,unstable life,"A 41-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Female,52,No High School Degree,Unemployed,precarious life,"This Female of 52 years, armed with No High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.2
+Female,59,No High School Degree,Employed,precarious life,"This Female of 59 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,50,High School Degree,Employed,unstable life,"This 50-year-old Female, holding High School Degree education and being Employed, wades through chaos.",0.2
+Male,46,No High School Degree,Employed,stable and supportive life,"This Male, aged 46, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Female,52,No High School Degree,Unemployed,precarious life,"This Female of 52 years, armed with No High School Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Male,62,Master,Employed,stable and supportive life,"This Male, aged 62, with Master and Employed, savors the comforts of stability.",0.78
+Female,47,High School Degree,Employed,moderate stability,"This 47-year-old Female, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,52,Degree,Employed,stable and supportive life,"A 52-year-old Male with Degree, Employed, basks in a secure routine.",0.78
+Female,50,High School Degree,Unemployed,moderate stability,"A 50-year-old Female, High School Degree achieved and Unemployed, finds comfort in predictable patterns.",0.32
+Male,45,High School Degree,Employed,moderate stability,"This 45-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,54,No High School Degree,Employed,precarious life,"A 54-year-old Male with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Male,46,No High School Degree,Employed,unstable life,"A 46-year-old Male with No High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,55,High School Degree,Employed,moderate stability,"This 55-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,41,High School Degree,Employed,precarious life,"A 41-year-old Female with High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,42,No High School Degree,Unemployed,unstable life,"A 42-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Male,56,High School Degree,Employed,moderate stability,"A 56-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,44,No High School Degree,Unemployed,unstable life,"This 44-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Male,66,High School Degree,Employed,stable and supportive life,"A 66-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Male,51,No High School Degree,Employed,stable and supportive life,"This Male, aged 51, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Male,55,High School Degree,Employed,stable and supportive life,"This Male, aged 55, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,55,High School Degree,Unemployed,precarious life,"This Female of 55 years, armed with High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Female,35,High School Degree,Employed,unstable life,"This 35-year-old Female, holding High School Degree education and being Employed, moves through an ever-changing landscape.",0.25
+Male,41,High School Degree,Employed,stable and supportive life,"This Male, aged 41, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,38,No High School Degree,Employed,precarious life,"A 38-year-old Male with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Male,63,No High School Degree,Employed,stable and supportive life,"A 63-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,50,No High School Degree,Employed,stable and supportive life,"This Male, aged 50, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,71,Degree,Employed,stable and supportive life,"A 71-year-old Male with Degree, Employed, basks in a secure routine.",0.78
+Female,43,No High School Degree,Employed,precarious life,"A 43-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,50,No High School Degree,Employed,precarious life,"A 50-year-old Female with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,64,High School Degree,Employed,stable and supportive life,"This Female, aged 64, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,62,No High School Degree,Unemployed,precarious life,"A 62-year-old Female with No High School Degree, now Unemployed, teeters on a fragile edge.",0.1
+Female,61,High School Degree,Unemployed,unstable life,"This 61-year-old Female, holding High School Degree education and being Unemployed, tries to catch stability in motion.",0.32
+Male,59,High School Degree,Employed,moderate stability,"This 59-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,61,High School Degree,Employed,stable and supportive life,"This Male, aged 61, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,56,No High School Degree,Employed,moderate stability,"This 56-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Male,56,High School Degree,Employed,moderate stability,"A 56-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,42,No High School Degree,Employed,unstable life,"This 42-year-old Female, holding No High School Degree education and being Employed, moves through an ever-changing landscape.",0.2
+Female,45,Degree,Employed,moderate stability,"A 45-year-old Female, Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,54,No High School Degree,Employed,stable and supportive life,"This Male, aged 54, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Female,45,No High School Degree,Employed,unstable life,"A 45-year-old Female with No High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Male,47,High School Degree,Employed,moderate stability,"A 47-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,58,No High School Degree,Employed,stable and supportive life,"A 58-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Male,59,Degree,Employed,moderate stability,"A 59-year-old Male, Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,52,No High School Degree,Employed,moderate stability,"This 52-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,62,No High School Degree,Employed,moderate stability,"A 62-year-old Male, No High School Degree achieved and Employed, lives in steady rhythms.",0.35
+Male,40,High School Degree,Employed,precarious life,"This Male of 40 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Male,46,Degree,Employed,precarious life,"This Male of 46 years, armed with Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Male,48,No High School Degree,Employed,stable and supportive life,"This Male, aged 48, with No High School Degree and Employed, thrives in a life well-grounded.",0.72
+Male,40,No High School Degree,Employed,stable and supportive life,"This Male, aged 40, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,53,Master,Employed,stable and supportive life,"A 53-year-old Male with Master, Employed, flourishes in a supportive environment.",0.8
+Male,53,No High School Degree,Employed,stable and supportive life,"A 53-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,60,Master,Employed,moderate stability,"A 60-year-old Female, Master achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Male,54,Degree,Employed,moderate stability,"This 54-year-old Male, with Degree and Employed, navigates days of calm balance.",0.72
+Male,45,High School Degree,Employed,stable and supportive life,"A 45-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,64,No High School Degree,Unemployed,moderate stability,"A 64-year-old Female, No High School Degree achieved and Unemployed, finds comfort in predictable patterns.",0.25
+Male,60,No High School Degree,Employed,moderate stability,"A 60-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Female,57,No High School Degree,Employed,stable and supportive life,"This Female, aged 57, with No High School Degree and Employed, rests securely in an anchored existence.",0.25
+Male,52,Degree,Employed,stable and supportive life,"A 52-year-old Male with Degree, Employed, basks in a secure routine.",0.78
+Male,41,No High School Degree,Employed,precarious life,"This Male of 41 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Female,46,Degree,Unemployed,precarious life,"This Female of 46 years, armed with Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Female,53,No High School Degree,Employed,unstable life,"This 53-year-old Female, holding No High School Degree education and being Employed, moves through an ever-changing landscape.",0.2
+Female,63,No High School Degree,Unemployed,moderate stability,"This 63-year-old Female, with No High School Degree and Unemployed, embraces a life of moderate routine.",0.25
+Female,56,No High School Degree,Unemployed,unstable life,"This 56-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Female,46,Degree,Unemployed,precarious life,"This Female of 46 years, armed with Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Male,42,No High School Degree,Employed,moderate stability,"A 42-year-old Male, No High School Degree achieved and Employed, lives in steady rhythms.",0.32
+Female,48,No High School Degree,Employed,precarious life,"A 48-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,38,High School Degree,Employed,moderate stability,"A 38-year-old Male, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Female,47,No High School Degree,Unemployed,unstable life,"This 47-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,44,High School Degree,Unemployed,unstable life,"This 44-year-old Female, holding High School Degree education and being Unemployed, tries to catch stability in motion.",0.32
+Male,49,No High School Degree,Employed,stable and supportive life,"This Male, aged 49, with No High School Degree and Employed, thrives in a life well-grounded.",0.72
+Female,37,High School Degree,Employed,precarious life,"A 37-year-old Female with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,49,No High School Degree,Employed,unstable life,"This 49-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Male,46,Degree,Employed,moderate stability,"This 46-year-old Male, with Degree and Employed, embraces a life of moderate routine.",0.35
+Male,44,No High School Degree,Employed,stable and supportive life,"This Male, aged 44, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,27,No High School Degree,Employed,unstable life,"A 27-year-old Male with No High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,51,No High School Degree,Employed,moderate stability,"This 51-year-old Female, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,58,No High School Degree,Employed,unstable life,"This 58-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,57,No High School Degree,Unemployed,unstable life,"This 57-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Female,47,No High School Degree,Unemployed,moderate stability,"A 47-year-old Female, No High School Degree achieved and Unemployed, lives in steady rhythms.",0.2
+Female,46,High School Degree,Unemployed,moderate stability,"This 46-year-old Female, with High School Degree and Unemployed, navigates days of calm balance.",0.6
+Female,54,High School Degree,Unemployed,moderate stability,"This 54-year-old Female, with High School Degree and Unemployed, navigates days of calm balance.",0.6
+Female,45,Master,Employed,moderate stability,"This 45-year-old Female, with Master and Employed, navigates days of calm balance.",0.78
+Male,56,Degree,Employed,stable and supportive life,"This Male, aged 56, with Degree and Employed, savors the comforts of stability.",0.78
+Male,55,Degree,Employed,moderate stability,"A 55-year-old Male, Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,56,No High School Degree,Employed,precarious life,"A 56-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,52,No High School Degree,Employed,stable and supportive life,"A 52-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.68
+Male,46,High School Degree,Employed,precarious life,"A 46-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,43,No High School Degree,Employed,precarious life,"A 43-year-old Female with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Female,39,No High School Degree,Employed,unstable life,"This 39-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,43,No High School Degree,Employed,unstable life,"This 43-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Male,57,High School Degree,Employed,stable and supportive life,"This Male, aged 57, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,59,Degree,Employed,stable and supportive life,"This Male, aged 59, with Degree and Employed, rests securely in an anchored existence.",0.62
+Male,46,High School Degree,Employed,moderate stability,"This 46-year-old Male, with High School Degree and Employed, navigates days of calm balance.",0.72
+Male,59,High School Degree,Employed,precarious life,"A 59-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,44,No High School Degree,Unemployed,unstable life,"A 44-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,46,Degree,Unemployed,unstable life,"This 46-year-old Female, holding Degree education and being Unemployed, wades through chaos.",0.2
+Male,42,High School Degree,Employed,precarious life,"This Male of 42 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,33,No High School Degree,Unemployed,moderate stability,"This 33-year-old Female, with No High School Degree and Unemployed, embraces a life of moderate routine.",0.2
+Female,58,No High School Degree,Employed,moderate stability,"This 58-year-old Female, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,56,No High School Degree,Employed,moderate stability,"A 56-year-old Female, No High School Degree achieved and Employed, lives in steady rhythms.",0.32
+Female,45,No High School Degree,Unemployed,precarious life,"A 45-year-old Female with No High School Degree, now Unemployed, teeters on a fragile edge.",0.1
+Male,55,No High School Degree,Employed,stable and supportive life,"This Male, aged 55, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Male,55,Degree,Employed,moderate stability,"This 55-year-old Male, with Degree and Employed, navigates days of calm balance.",0.72
+Male,39,High School Degree,Employed,moderate stability,"This 39-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,47,High School Degree,Employed,moderate stability,"A 47-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,54,No High School Degree,Employed,precarious life,"A 54-year-old Male with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,38,No High School Degree,Unemployed,unstable life,"This 38-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,50,No High School Degree,Unemployed,precarious life,"This Female of 50 years, armed with No High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Male,43,No High School Degree,Employed,stable and supportive life,"This Male, aged 43, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Female,48,High School Degree,Unemployed,unstable life,"A 48-year-old Female with High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,45,High School Degree,Employed,unstable life,"A 45-year-old Female with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Female,34,No High School Degree,Employed,unstable life,"This 34-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,53,No High School Degree,Unemployed,unstable life,"A 53-year-old Female with No High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Male,48,No High School Degree,Employed,stable and supportive life,"This Male, aged 48, with No High School Degree and Employed, thrives in a life well-grounded.",0.72
+Male,46,No High School Degree,Employed,moderate stability,"A 46-year-old Male, No High School Degree achieved and Employed, lives in steady rhythms.",0.32
+Female,51,No High School Degree,Unemployed,precarious life,"This Female of 51 years, armed with No High School Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Female,54,No High School Degree,Employed,unstable life,"This 54-year-old Female, holding No High School Degree education and being Employed, moves through an ever-changing landscape.",0.2
+Female,42,No High School Degree,Unemployed,precarious life,"This Female of 42 years, armed with No High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.2
+Male,50,No High School Degree,Employed,precarious life,"This Male of 50 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.2
+Female,49,Degree,Employed,unstable life,"A 49-year-old Female with Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,54,Degree,Unemployed,precarious life,"A 54-year-old Female with Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,50,No High School Degree,Employed,precarious life,"A 50-year-old Male with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,48,No High School Degree,Unemployed,moderate stability,"This 48-year-old Female, with No High School Degree and Unemployed, embraces a life of moderate routine.",0.2
+Female,45,Degree,Employed,moderate stability,"This 45-year-old Female, with Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,46,No High School Degree,Employed,unstable life,"A 46-year-old Female with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,41,No High School Degree,Employed,precarious life,"A 41-year-old Female with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,30,No High School Degree,Unemployed,moderate stability,"This 30-year-old Female, with No High School Degree and Unemployed, embraces a life of moderate routine.",0.2
+Female,53,No High School Degree,Employed,moderate stability,"This 53-year-old Female, with No High School Degree and Employed, navigates days of calm balance.",0.68
+Male,59,PhD,Employed,stable and supportive life,"A 59-year-old Male with PhD, Employed, basks in a secure routine.",0.78
+Female,35,No High School Degree,Unemployed,moderate stability,"A 35-year-old Female, No High School Degree achieved and Unemployed, lives in steady rhythms.",0.2
+Female,39,High School Degree,Unemployed,unstable life,"This 39-year-old Female, holding High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Female,50,High School Degree,Employed,unstable life,"A 50-year-old Female with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,65,High School Degree,Employed,moderate stability,"A 65-year-old Female, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Female,45,No High School Degree,Employed,unstable life,"A 45-year-old Female with No High School Degree education and currently Employed, faces days of constant flux.",0.2
+Female,45,No High School Degree,Employed,moderate stability,"A 45-year-old Female, No High School Degree achieved and Employed, lives in steady rhythms.",0.35
+Male,53,No High School Degree,Employed,stable and supportive life,"This Male, aged 53, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,60,Degree,Employed,moderate stability,"This 60-year-old Male, with Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,44,No High School Degree,Unemployed,precarious life,"A 44-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,45,No High School Degree,Employed,moderate stability,"This 45-year-old Male, with No High School Degree and Employed, navigates days of calm balance.",0.62
+Male,46,No High School Degree,Employed,precarious life,"A 46-year-old Male with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,43,No High School Degree,Unemployed,moderate stability,"A 43-year-old Female, No High School Degree achieved and Unemployed, enjoys a life neither chaotic nor overly secure.",0.25
+Male,55,High School Degree,Employed,stable and supportive life,"A 55-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,60,No High School Degree,Unemployed,precarious life,"This Female of 60 years, armed with No High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.2
+Male,56,No High School Degree,Employed,stable and supportive life,"This Male, aged 56, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,52,No High School Degree,Employed,stable and supportive life,"This Male, aged 52, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,44,High School Degree,Employed,unstable life,"This 44-year-old Male, holding High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,34,No High School Degree,Unemployed,unstable life,"A 34-year-old Female with No High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Female,52,No High School Degree,Unemployed,unstable life,"This 52-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,44,No High School Degree,Unemployed,unstable life,"This 44-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,44,No High School Degree,Employed,unstable life,"A 44-year-old Female with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Male,74,No High School Degree,Employed,moderate stability,"This 74-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,47,High School Degree,Unemployed,unstable life,"A 47-year-old Female with High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,42,No High School Degree,Employed,precarious life,"This Female of 42 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Male,50,High School Degree,Employed,stable and supportive life,"This Male, aged 50, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Female,53,No High School Degree,Unemployed,unstable life,"This 53-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Male,53,Degree,Employed,stable and supportive life,"A 53-year-old Male with Degree, Employed, basks in a secure routine.",0.78
+Female,37,No High School Degree,Unemployed,precarious life,"A 37-year-old Female with No High School Degree, now Unemployed, teeters on a fragile edge.",0.1
+Female,52,No High School Degree,Employed,unstable life,"A 52-year-old Female with No High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,47,Degree,Employed,moderate stability,"This 47-year-old Male, with Degree and Employed, navigates days of calm balance.",0.72
+Female,64,No High School Degree,Employed,moderate stability,"A 64-year-old Female, No High School Degree achieved and Employed, lives in steady rhythms.",0.45
+Female,61,No High School Degree,Employed,stable and supportive life,"A 61-year-old Female with No High School Degree, Employed, basks in a secure routine.",0.72
+Male,49,No High School Degree,Employed,moderate stability,"This 49-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,62,No High School Degree,Employed,stable and supportive life,"This Female, aged 62, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Female,48,No High School Degree,Employed,precarious life,"This Female of 48 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Male,52,High School Degree,Employed,unstable life,"A 52-year-old Male with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,55,High School Degree,Employed,stable and supportive life,"A 55-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,47,No High School Degree,Employed,stable and supportive life,"This Male, aged 47, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Male,50,High School Degree,Employed,stable and supportive life,"This Male, aged 50, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,56,No High School Degree,Employed,precarious life,"A 56-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,46,High School Degree,Employed,precarious life,"A 46-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,49,High School Degree,Employed,stable and supportive life,"A 49-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,41,Degree,Employed,precarious life,"This Male of 41 years, armed with Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Male,57,No High School Degree,Employed,stable and supportive life,"A 57-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,68,High School Degree,Employed,stable and supportive life,"A 68-year-old Female with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Female,41,Degree,Employed,precarious life,"This Female of 41 years, armed with Degree and currently Employed, faces each day as a delicate balancing act.",0.32
+Male,52,High School Degree,Employed,stable and supportive life,"A 52-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,62,High School Degree,Employed,stable and supportive life,"A 62-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Female,45,No High School Degree,Unemployed,unstable life,"A 45-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,57,Degree,Employed,stable and supportive life,"A 57-year-old Male with Degree, Employed, flourishes in a supportive environment.",0.8
+Male,42,No High School Degree,Employed,moderate stability,"A 42-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,56,High School Degree,Employed,stable and supportive life,"This Male, aged 56, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,46,High School Degree,Employed,precarious life,"A 46-year-old Female with High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,60,No High School Degree,Employed,stable and supportive life,"A 60-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,57,High School Degree,Employed,precarious life,"This Female of 57 years, armed with High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Female,63,No High School Degree,Unemployed,unstable life,"This 63-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Male,58,High School Degree,Employed,stable and supportive life,"This Male, aged 58, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,48,High School Degree,Employed,unstable life,"This 48-year-old Female, holding High School Degree education and being Employed, moves through an ever-changing landscape.",0.25
+Female,49,No High School Degree,Unemployed,precarious life,"A 49-year-old Female with No High School Degree, now Unemployed, teeters on a fragile edge.",0.1
+Male,52,High School Degree,Employed,stable and supportive life,"A 52-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,56,Degree,Employed,stable and supportive life,"A 56-year-old Male with Degree, Employed, flourishes in a supportive environment.",0.8
+Female,48,No High School Degree,Employed,moderate stability,"A 48-year-old Female, No High School Degree achieved and Employed, lives in steady rhythms.",0.32
+Female,52,No High School Degree,Employed,moderate stability,"This 52-year-old Female, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,58,High School Degree,Employed,precarious life,"This Male of 58 years, armed with High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Male,40,High School Degree,Employed,precarious life,"A 40-year-old Male with High School Degree, now Employed, teeters on a fragile edge.",0.2
+Female,56,High School Degree,Unemployed,precarious life,"A 56-year-old Female with High School Degree, now Unemployed, walks a tightrope over uncertainty.",0.2
+Male,60,High School Degree,Employed,moderate stability,"A 60-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.55
+Male,51,No High School Degree,Employed,stable and supportive life,"A 51-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,38,High School Degree,Unemployed,stable and supportive life,"A 38-year-old Female with High School Degree, Unemployed, flourishes in a supportive environment.",0.75
+Male,48,No High School Degree,Employed,stable and supportive life,"A 48-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Female,54,Degree,Unemployed,unstable life,"A 54-year-old Female with Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Female,49,No High School Degree,Employed,precarious life,"This Female of 49 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Female,38,High School Degree,Employed,unstable life,"A 38-year-old Female with High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,46,High School Degree,Unemployed,moderate stability,"This 46-year-old Female, with High School Degree and Unemployed, navigates days of calm balance.",0.6
+Male,55,Degree,Employed,precarious life,"This Male of 55 years, armed with Degree and currently Employed, faces each day as a delicate balancing act.",0.32
+Male,57,Degree,Employed,stable and supportive life,"A 57-year-old Male with Degree, Employed, flourishes in a supportive environment.",0.8
+Female,46,No High School Degree,Unemployed,precarious life,"This Female of 46 years, armed with No High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.25
+Female,43,No High School Degree,Unemployed,unstable life,"This 43-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,43,Degree,Employed,unstable life,"A 43-year-old Female with Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Male,46,Degree,Employed,stable and supportive life,"A 46-year-old Male with Degree, Employed, lives surrounded by stability and care.",0.78
+Male,62,Degree,Employed,moderate stability,"This 62-year-old Male, with Degree and Employed, embraces a life of moderate routine.",0.35
+Male,43,No High School Degree,Employed,unstable life,"A 43-year-old Male with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,54,No High School Degree,Employed,unstable life,"This 54-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Male,62,High School Degree,Employed,moderate stability,"This 62-year-old Male, with High School Degree and Employed, navigates days of calm balance.",0.72
+Female,52,No High School Degree,Employed,unstable life,"This 52-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Male,50,No High School Degree,Employed,stable and supportive life,"A 50-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Female,54,No High School Degree,Unemployed,moderate stability,"This 54-year-old Female, with No High School Degree and Unemployed, enjoys days that flow with ease and care.",0.68
+Female,45,No High School Degree,Unemployed,unstable life,"This 45-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Female,39,No High School Degree,Employed,unstable life,"This 39-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Male,57,Degree,Employed,stable and supportive life,"This Male, aged 57, with Degree and Employed, rests securely in an anchored existence.",0.6
+Female,40,No High School Degree,Employed,precarious life,"This Female of 40 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Female,57,High School Degree,Employed,precarious life,"This Female of 57 years, armed with High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,49,Master,Employed,stable and supportive life,"A 49-year-old Male with Master, Employed, lives surrounded by stability and care.",0.78
+Male,55,High School Degree,Employed,stable and supportive life,"A 55-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,56,Degree,Employed,stable and supportive life,"This Male, aged 56, with Degree and Employed, savors the comforts of stability.",0.78
+Male,50,No High School Degree,Employed,stable and supportive life,"A 50-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,52,No High School Degree,Employed,precarious life,"This Female of 52 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,42,High School Degree,Unemployed,unstable life,"This 42-year-old Female, holding High School Degree education and being Unemployed, wades through chaos.",0.15
+Female,58,No High School Degree,Employed,stable and supportive life,"This Female, aged 58, with No High School Degree and Employed, savors the comforts of stability.",0.62
+Male,41,No High School Degree,Employed,moderate stability,"A 41-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,50,Master,Employed,precarious life,"This Male of 50 years, armed with Master and currently Employed, steps carefully in a fragile world.",0.32
+Male,67,No High School Degree,Employed,stable and supportive life,"This Male, aged 67, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Female,39,No High School Degree,Unemployed,unstable life,"This 39-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Male,45,High School Degree,Employed,precarious life,"This Male of 45 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,48,No High School Degree,Unemployed,unstable life,"A 48-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Female,50,No High School Degree,Unemployed,precarious life,"A 50-year-old Female with No High School Degree, now Unemployed, walks a tightrope over uncertainty.",0.2
+Female,48,No High School Degree,Employed,unstable life,"This 48-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,49,No High School Degree,Employed,unstable life,"This 49-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,50,High School Degree,Employed,unstable life,"A 50-year-old Female with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Female,59,No High School Degree,Unemployed,moderate stability,"This 59-year-old Female, with No High School Degree and Unemployed, enjoys days that flow with ease and care.",0.62
+Male,55,No High School Degree,Employed,moderate stability,"This 55-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Male,49,High School Degree,Employed,moderate stability,"This 49-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,59,Degree,Employed,stable and supportive life,"This Male, aged 59, with Degree and Employed, rests securely in an anchored existence.",0.62
+Male,62,PhD,Employed,precarious life,"A 62-year-old Male with PhD, now Employed, walks a tightrope over uncertainty.",0.32
+Female,46,No High School Degree,Employed,precarious life,"A 46-year-old Female with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Male,46,No High School Degree,Employed,stable and supportive life,"This Male, aged 46, with No High School Degree and Employed, thrives in a life well-grounded.",0.72
+Female,54,No High School Degree,Unemployed,unstable life,"This 54-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Male,53,High School Degree,Employed,stable and supportive life,"A 53-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,29,High School Degree,Unemployed,unstable life,"This 29-year-old Female, holding High School Degree education and being Unemployed, tries to catch stability in motion.",0.32
+Male,60,Degree,Employed,stable and supportive life,"This Male, aged 60, with Degree and Employed, thrives in a life well-grounded.",0.78
+Female,41,No High School Degree,Unemployed,unstable life,"This 41-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Male,53,High School Degree,Employed,stable and supportive life,"A 53-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,52,No High School Degree,Employed,moderate stability,"A 52-year-old Male, No High School Degree achieved and Employed, finds comfort in predictable patterns.",0.32
+Male,56,No High School Degree,Employed,stable and supportive life,"A 56-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,50,High School Degree,Employed,unstable life,"This 50-year-old Female, holding High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,47,No High School Degree,Unemployed,moderate stability,"A 47-year-old Female, No High School Degree achieved and Unemployed, finds comfort in predictable patterns.",0.25
+Male,58,High School Degree,Employed,stable and supportive life,"A 58-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,48,No High School Degree,Employed,moderate stability,"This 48-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Male,56,Degree,Employed,moderate stability,"This 56-year-old Male, with Degree and Employed, navigates days of calm balance.",0.72
+Female,56,No High School Degree,Employed,moderate stability,"A 56-year-old Female, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Female,42,High School Degree,Employed,precarious life,"A 42-year-old Female with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,58,High School Degree,Employed,moderate stability,"A 58-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Male,47,Degree,Employed,moderate stability,"A 47-year-old Male, Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,59,Degree,Employed,stable and supportive life,"A 59-year-old Male with Degree, Employed, flourishes in a supportive environment.",0.8
+Female,48,High School Degree,Unemployed,unstable life,"This 48-year-old Female, holding High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Female,60,No High School Degree,Unemployed,precarious life,"A 60-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,52,Master,Employed,stable and supportive life,"A 52-year-old Male with Master, Employed, flourishes in a supportive environment.",0.8
+Male,51,High School Degree,Employed,stable and supportive life,"A 51-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Male,49,PhD,Employed,precarious life,"A 49-year-old Male with PhD, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,49,High School Degree,Employed,moderate stability,"This 49-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,53,No High School Degree,Employed,precarious life,"A 53-year-old Female with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Female,35,High School Degree,Employed,unstable life,"This 35-year-old Female, holding High School Degree education and being Employed, tries to catch stability in motion.",0.42
+Female,42,No High School Degree,Unemployed,precarious life,"A 42-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,41,High School Degree,Employed,precarious life,"A 41-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,57,High School Degree,Employed,moderate stability,"This 57-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,57,High School Degree,Employed,unstable life,"A 57-year-old Female with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Male,54,No High School Degree,Employed,stable and supportive life,"This Male, aged 54, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,53,No High School Degree,Employed,stable and supportive life,"A 53-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Male,52,Degree,Employed,moderate stability,"This 52-year-old Male, with Degree and Employed, navigates days of calm balance.",0.78
+Female,58,High School Degree,Unemployed,moderate stability,"A 58-year-old Female, High School Degree achieved and Unemployed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,41,Degree,Employed,precarious life,"A 41-year-old Male with Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,54,No High School Degree,Employed,stable and supportive life,"A 54-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Female,58,High School Degree,Unemployed,moderate stability,"A 58-year-old Female, High School Degree achieved and Unemployed, lives in steady rhythms.",0.32
+Female,50,High School Degree,Unemployed,unstable life,"This 50-year-old Female, holding High School Degree education and being Unemployed, wades through chaos.",0.1
+Male,55,Master,Employed,stable and supportive life,"A 55-year-old Male with Master, Employed, flourishes in a supportive environment.",0.8
+Male,60,High School Degree,Employed,stable and supportive life,"This Male, aged 60, with High School Degree and Employed, savors the comforts of stability.",0.72
+Male,35,High School Degree,Employed,stable and supportive life,"This Male, aged 35, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,57,High School Degree,Unemployed,moderate stability,"This 57-year-old Female, with High School Degree and Unemployed, embraces a life of moderate routine.",0.32
+Male,46,High School Degree,Employed,moderate stability,"A 46-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.55
+Female,36,No High School Degree,Unemployed,precarious life,"This Female of 36 years, armed with No High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.2
+Male,57,No High School Degree,Employed,stable and supportive life,"This Male, aged 57, with No High School Degree and Employed, thrives in a life well-grounded.",0.72
+Male,63,High School Degree,Employed,stable and supportive life,"This Male, aged 63, with High School Degree and Employed, rests securely in an anchored existence.",0.45
+Female,44,High School Degree,Employed,unstable life,"A 44-year-old Female with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,51,High School Degree,Employed,unstable life,"A 51-year-old Female with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,60,No High School Degree,Unemployed,precarious life,"This Female of 60 years, armed with No High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Male,62,Degree,Employed,stable and supportive life,"This Male, aged 62, with Degree and Employed, thrives in a life well-grounded.",0.78
+Male,66,High School Degree,Employed,stable and supportive life,"A 66-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Male,51,Degree,Employed,unstable life,"A 51-year-old Male with Degree education and currently Employed, faces days of constant flux.",0.2
+Male,51,Master,Employed,moderate stability,"A 51-year-old Male, Master achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Male,37,High School Degree,Employed,precarious life,"A 37-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,52,No High School Degree,Employed,stable and supportive life,"This Male, aged 52, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,47,No High School Degree,Employed,stable and supportive life,"A 47-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,68,PhD,Unemployed,stable and supportive life,"A 68-year-old Female with PhD, Unemployed, basks in a secure routine.",0.62
+Male,48,High School Degree,Employed,precarious life,"This Male of 48 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Male,50,No High School Degree,Employed,precarious life,"This Male of 50 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.2
+Female,51,No High School Degree,Employed,precarious life,"A 51-year-old Female with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Female,45,No High School Degree,Employed,unstable life,"A 45-year-old Female with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Male,65,No High School Degree,Employed,stable and supportive life,"A 65-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Male,48,No High School Degree,Employed,stable and supportive life,"A 48-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Male,56,No High School Degree,Employed,stable and supportive life,"This Male, aged 56, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Male,49,No High School Degree,Employed,stable and supportive life,"A 49-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Female,41,Master,Unemployed,moderate stability,"This 41-year-old Female, with Master and Unemployed, enjoys days that flow with ease and care.",0.72
+Female,48,No High School Degree,Employed,stable and supportive life,"This Female, aged 48, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,54,High School Degree,Employed,stable and supportive life,"This Male, aged 54, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,50,No High School Degree,Employed,stable and supportive life,"A 50-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,42,No High School Degree,Unemployed,unstable life,"This 42-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Male,39,No High School Degree,Employed,precarious life,"This Male of 39 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Male,45,No High School Degree,Employed,unstable life,"A 45-year-old Male with No High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,44,No High School Degree,Employed,stable and supportive life,"This Male, aged 44, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Male,56,High School Degree,Employed,moderate stability,"A 56-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,47,No High School Degree,Unemployed,unstable life,"A 47-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,41,High School Degree,Unemployed,moderate stability,"This 41-year-old Female, with High School Degree and Unemployed, enjoys days that flow with ease and care.",0.72
+Female,49,No High School Degree,Unemployed,moderate stability,"A 49-year-old Female, No High School Degree achieved and Unemployed, enjoys a life neither chaotic nor overly secure.",0.25
+Female,43,High School Degree,Employed,precarious life,"A 43-year-old Female with High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,48,No High School Degree,Employed,unstable life,"This 48-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Male,61,High School Degree,Employed,moderate stability,"A 61-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Female,37,No High School Degree,Employed,moderate stability,"A 37-year-old Female, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,53,High School Degree,Employed,stable and supportive life,"A 53-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,49,No High School Degree,Unemployed,moderate stability,"This 49-year-old Female, with No High School Degree and Unemployed, enjoys days that flow with ease and care.",0.62
+Male,58,High School Degree,Employed,stable and supportive life,"A 58-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,52,High School Degree,Employed,moderate stability,"A 52-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Female,45,No High School Degree,Unemployed,moderate stability,"A 45-year-old Female, No High School Degree achieved and Unemployed, enjoys a life neither chaotic nor overly secure.",0.25
+Male,51,No High School Degree,Employed,stable and supportive life,"A 51-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,43,No High School Degree,Employed,precarious life,"A 43-year-old Female with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Female,53,No High School Degree,Employed,unstable life,"This 53-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Female,45,High School Degree,Unemployed,unstable life,"A 45-year-old Female with High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Male,65,High School Degree,Employed,stable and supportive life,"This Male, aged 65, with High School Degree and Employed, rests securely in an anchored existence.",0.45
+Male,50,Degree,Employed,moderate stability,"This 50-year-old Male, with Degree and Employed, navigates days of calm balance.",0.72
+Female,47,Degree,Employed,moderate stability,"This 47-year-old Female, with Degree and Employed, embraces a life of moderate routine.",0.32
+Male,36,PhD,Employed,unstable life,"This 36-year-old Male, holding PhD education and being Employed, tries to catch stability in motion.",0.42
+Female,33,No High School Degree,Employed,unstable life,"This 33-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Female,34,No High School Degree,Unemployed,unstable life,"This 34-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Female,50,High School Degree,Unemployed,precarious life,"This Female of 50 years, armed with High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.25
+Male,54,Degree,Employed,moderate stability,"This 54-year-old Male, with Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,37,High School Degree,Unemployed,precarious life,"This Female of 37 years, armed with High School Degree and currently Unemployed, balances hopes in a fragile reality.",0.25
+Female,55,No High School Degree,Employed,precarious life,"A 55-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,50,High School Degree,Employed,stable and supportive life,"A 50-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,49,No High School Degree,Employed,precarious life,"A 49-year-old Male with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,61,No High School Degree,Employed,moderate stability,"A 61-year-old Female, No High School Degree achieved and Employed, lives in steady rhythms.",0.45
+Male,59,High School Degree,Employed,stable and supportive life,"A 59-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,47,No High School Degree,Unemployed,precarious life,"This Female of 47 years, armed with No High School Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Male,44,High School Degree,Employed,moderate stability,"A 44-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,38,High School Degree,Employed,stable and supportive life,"A 38-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Male,49,High School Degree,Employed,stable and supportive life,"A 49-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,44,High School Degree,Unemployed,unstable life,"This 44-year-old Female, holding High School Degree education and being Unemployed, tries to catch stability in motion.",0.32
+Male,47,High School Degree,Employed,stable and supportive life,"A 47-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.78
+Male,49,No High School Degree,Employed,precarious life,"A 49-year-old Male with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,48,No High School Degree,Employed,precarious life,"A 48-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,48,No High School Degree,Employed,precarious life,"This Male of 48 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.2
+Male,50,High School Degree,Employed,stable and supportive life,"A 50-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Female,51,Degree,Employed,precarious life,"A 51-year-old Female with Degree, now Employed, teeters on a fragile edge.",0.2
+Male,51,No High School Degree,Employed,precarious life,"This Male of 51 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Female,43,No High School Degree,Employed,moderate stability,"This 43-year-old Female, with No High School Degree and Employed, navigates days of calm balance.",0.62
+Female,57,High School Degree,Unemployed,unstable life,"A 57-year-old Female with High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,45,No High School Degree,Unemployed,unstable life,"A 45-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Female,46,No High School Degree,Unemployed,unstable life,"This 46-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Female,51,Degree,Employed,unstable life,"A 51-year-old Female with Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,48,High School Degree,Unemployed,unstable life,"A 48-year-old Female with High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,53,No High School Degree,Unemployed,unstable life,"A 53-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Male,53,High School Degree,Employed,moderate stability,"This 53-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,42,No High School Degree,Employed,unstable life,"This 42-year-old Male, holding No High School Degree education and being Employed, wades through chaos.",0.15
+Female,50,No High School Degree,Employed,precarious life,"This Female of 50 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Male,45,Master,Employed,stable and supportive life,"A 45-year-old Male with Master, Employed, flourishes in a supportive environment.",0.8
+Female,50,No High School Degree,Unemployed,precarious life,"This Female of 50 years, armed with No High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Male,51,High School Degree,Employed,moderate stability,"This 51-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,45,No High School Degree,Employed,unstable life,"This 45-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,46,No High School Degree,Unemployed,unstable life,"This 46-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Female,32,High School Degree,Unemployed,unstable life,"A 32-year-old Female with High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Male,42,No High School Degree,Employed,unstable life,"A 42-year-old Male with No High School Degree education and currently Employed, navigates tumultuous waters.",0.25
+Male,48,No High School Degree,Employed,precarious life,"This Male of 48 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Male,47,No High School Degree,Employed,unstable life,"This 47-year-old Male, holding No High School Degree education and being Employed, wades through chaos.",0.1
+Female,38,High School Degree,Employed,unstable life,"A 38-year-old Female with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,55,No High School Degree,Unemployed,unstable life,"This 55-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Female,43,High School Degree,Unemployed,precarious life,"This Female of 43 years, armed with High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Female,53,No High School Degree,Unemployed,unstable life,"This 53-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Female,51,No High School Degree,Employed,precarious life,"A 51-year-old Female with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,45,No High School Degree,Unemployed,moderate stability,"A 45-year-old Female, No High School Degree achieved and Unemployed, enjoys a life neither chaotic nor overly secure.",0.25
+Female,64,Degree,Employed,moderate stability,"A 64-year-old Female, Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Female,37,High School Degree,Employed,unstable life,"A 37-year-old Female with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,59,No High School Degree,Employed,stable and supportive life,"A 59-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Male,58,No High School Degree,Employed,moderate stability,"A 58-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,41,No High School Degree,Employed,unstable life,"A 41-year-old Male with No High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Male,63,High School Degree,Employed,stable and supportive life,"A 63-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.8
+Female,52,High School Degree,Employed,stable and supportive life,"A 52-year-old Female with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,47,High School Degree,Employed,unstable life,"This 47-year-old Male, holding High School Degree education and being Employed, moves through an ever-changing landscape.",0.2
+Male,49,No High School Degree,Employed,precarious life,"This Male of 49 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.2
+Male,52,High School Degree,Employed,stable and supportive life,"This Male, aged 52, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,58,High School Degree,Employed,moderate stability,"This 58-year-old Female, with High School Degree and Employed, navigates days of calm balance.",0.72
+Female,52,No High School Degree,Unemployed,unstable life,"This 52-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Female,34,No High School Degree,Unemployed,unstable life,"A 34-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,57,No High School Degree,Employed,precarious life,"This Male of 57 years, armed with No High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,38,No High School Degree,Employed,precarious life,"This Male of 38 years, armed with No High School Degree and currently Employed, steps carefully in a fragile world.",0.25
+Female,58,High School Degree,Unemployed,moderate stability,"This 58-year-old Female, with High School Degree and Unemployed, navigates days of calm balance.",0.6
+Female,56,High School Degree,Employed,precarious life,"A 56-year-old Female with High School Degree, now Employed, teeters on a fragile edge.",0.2
+Male,41,No High School Degree,Employed,precarious life,"A 41-year-old Male with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,49,No High School Degree,Employed,moderate stability,"This 49-year-old Female, with No High School Degree and Employed, navigates days of calm balance.",0.68
+Female,37,High School Degree,Employed,unstable life,"This 37-year-old Female, holding High School Degree education and being Employed, tries to catch stability in motion.",0.42
+Female,46,High School Degree,Employed,precarious life,"This Female of 46 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Male,49,High School Degree,Employed,moderate stability,"This 49-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,59,Degree,Employed,stable and supportive life,"This Male, aged 59, with Degree and Employed, rests securely in an anchored existence.",0.62
+Male,59,High School Degree,Employed,moderate stability,"This 59-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Female,60,No High School Degree,Unemployed,moderate stability,"This 60-year-old Female, with No High School Degree and Unemployed, enjoys days that flow with ease and care.",0.68
+Female,42,High School Degree,Employed,unstable life,"This 42-year-old Female, holding High School Degree education and being Employed, wades through chaos.",0.2
+Male,48,High School Degree,Employed,precarious life,"A 48-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,38,No High School Degree,Employed,moderate stability,"This 38-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,41,No High School Degree,Unemployed,unstable life,"A 41-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,54,Master,Employed,precarious life,"This Male of 54 years, armed with Master and currently Employed, faces each day as a delicate balancing act.",0.32
+Female,60,High School Degree,Unemployed,precarious life,"This Female of 60 years, armed with High School Degree and currently Unemployed, faces each day as a delicate balancing act.",0.2
+Female,36,No High School Degree,Unemployed,unstable life,"A 36-year-old Female with No High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Male,44,PhD,Employed,precarious life,"This Male of 44 years, armed with PhD and currently Employed, faces each day as a delicate balancing act.",0.32
+Female,46,No High School Degree,Employed,unstable life,"This 46-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,50,High School Degree,Unemployed,precarious life,"A 50-year-old Female with High School Degree, now Unemployed, teeters on a fragile edge.",0.1
+Female,40,High School Degree,Unemployed,unstable life,"A 40-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,56,Degree,Employed,stable and supportive life,"This Male, aged 56, with Degree and Employed, rests securely in an anchored existence.",0.6
+Female,47,No High School Degree,Employed,moderate stability,"A 47-year-old Female, No High School Degree achieved and Employed, finds comfort in predictable patterns.",0.32
+Female,51,No High School Degree,Employed,moderate stability,"A 51-year-old Female, No High School Degree achieved and Employed, finds comfort in predictable patterns.",0.32
+Female,56,No High School Degree,Unemployed,stable and supportive life,"A 56-year-old Female with No High School Degree, Unemployed, flourishes in a supportive environment.",0.78
+Female,50,No High School Degree,Unemployed,precarious life,"This Female of 50 years, armed with No High School Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Female,42,No High School Degree,Employed,unstable life,"A 42-year-old Female with No High School Degree education and currently Employed, faces days of constant flux.",0.2
+Female,49,Degree,Unemployed,moderate stability,"A 49-year-old Female, Degree achieved and Unemployed, enjoys a life neither chaotic nor overly secure.",0.32
+Female,50,No High School Degree,Employed,moderate stability,"A 50-year-old Female, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,49,High School Degree,Employed,moderate stability,"A 49-year-old Male, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.42
+Male,47,No High School Degree,Employed,precarious life,"This Male of 47 years, armed with No High School Degree and currently Employed, steps carefully in a fragile world.",0.25
+Female,57,No High School Degree,Unemployed,unstable life,"A 57-year-old Female with No High School Degree education and currently Unemployed, navigates tumultuous waters.",0.25
+Female,51,No High School Degree,Unemployed,precarious life,"A 51-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Female,46,No High School Degree,Employed,precarious life,"A 46-year-old Female with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,56,Degree,Employed,moderate stability,"A 56-year-old Male, Degree achieved and Employed, lives in steady rhythms.",0.6
+Female,48,No High School Degree,Employed,moderate stability,"This 48-year-old Female, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Female,56,No High School Degree,Unemployed,precarious life,"A 56-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,57,Master,Employed,stable and supportive life,"This Male, aged 57, with Master and Employed, savors the comforts of stability.",0.72
+Male,50,Master,Employed,moderate stability,"This 50-year-old Male, with Master and Employed, embraces a life of moderate routine.",0.35
+Female,50,No High School Degree,Employed,unstable life,"This 50-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,35,No High School Degree,Unemployed,unstable life,"A 35-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Male,38,High School Degree,Employed,unstable life,"This 38-year-old Male, holding High School Degree education and being Employed, wades through chaos.",0.2
+Female,39,No High School Degree,Employed,unstable life,"A 39-year-old Female with No High School Degree education and currently Employed, faces days of constant flux.",0.2
+Female,47,Master,Unemployed,unstable life,"This 47-year-old Female, holding Master education and being Unemployed, moves through an ever-changing landscape.",0.2
+Female,58,High School Degree,Employed,unstable life,"This 58-year-old Female, holding High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Female,63,No High School Degree,Unemployed,precarious life,"This Female of 63 years, armed with No High School Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Female,51,No High School Degree,Employed,unstable life,"A 51-year-old Female with No High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Male,57,No High School Degree,Employed,stable and supportive life,"This Male, aged 57, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Female,33,No High School Degree,Unemployed,unstable life,"This 33-year-old Female, holding No High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.1
+Male,46,High School Degree,Employed,moderate stability,"A 46-year-old Male, High School Degree achieved and Employed, lives in steady rhythms.",0.6
+Male,43,Degree,Employed,precarious life,"This Male of 43 years, armed with Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,50,High School Degree,Employed,stable and supportive life,"A 50-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,44,No High School Degree,Unemployed,unstable life,"A 44-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Female,45,No High School Degree,Unemployed,precarious life,"A 45-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,40,No High School Degree,Employed,stable and supportive life,"A 40-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Male,58,No High School Degree,Employed,stable and supportive life,"A 58-year-old Male with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,45,No High School Degree,Unemployed,stable and supportive life,"A 45-year-old Female with No High School Degree, Unemployed, flourishes in a supportive environment.",0.75
+Male,49,High School Degree,Employed,precarious life,"This Male of 49 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,61,High School Degree,Employed,unstable life,"A 61-year-old Female with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,45,Master,Employed,moderate stability,"A 45-year-old Male, Master achieved and Employed, lives in steady rhythms.",0.6
+Male,36,High School Degree,Employed,stable and supportive life,"This Male, aged 36, with High School Degree and Employed, savors the comforts of stability.",0.72
+Male,48,No High School Degree,Employed,moderate stability,"A 48-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Male,58,No High School Degree,Employed,moderate stability,"A 58-year-old Male, No High School Degree achieved and Employed, lives in steady rhythms.",0.32
+Female,61,Degree,Unemployed,precarious life,"A 61-year-old Female with Degree, now Unemployed, teeters on a fragile edge.",0.1
+Male,44,High School Degree,Employed,stable and supportive life,"A 44-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,50,No High School Degree,Employed,unstable life,"This 50-year-old Female, holding No High School Degree education and being Employed, tries to catch stability in motion.",0.32
+Male,44,High School Degree,Employed,precarious life,"A 44-year-old Male with High School Degree, now Employed, teeters on a fragile edge.",0.1
+Male,48,No High School Degree,Employed,precarious life,"A 48-year-old Male with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,68,Degree,Employed,moderate stability,"This 68-year-old Male, with Degree and Employed, embraces a life of moderate routine.",0.45
+Male,36,High School Degree,Employed,unstable life,"A 36-year-old Male with High School Degree education and currently Employed, struggles to anchor amid shifting sands.",0.25
+Female,47,No High School Degree,Unemployed,unstable life,"This 47-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,54,No High School Degree,Unemployed,moderate stability,"This 54-year-old Female, with No High School Degree and Unemployed, embraces a life of moderate routine.",0.25
+Female,55,No High School Degree,Employed,precarious life,"A 55-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,51,No High School Degree,Employed,moderate stability,"A 51-year-old Male, No High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.32
+Female,48,Master,Unemployed,unstable life,"A 48-year-old Female with Master education and currently Unemployed, faces days of constant flux.",0.2
+Female,47,High School Degree,Employed,precarious life,"This Female of 47 years, armed with High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,52,No High School Degree,Employed,moderate stability,"This 52-year-old Male, with No High School Degree and Employed, navigates days of calm balance.",0.63
+Female,43,No High School Degree,Employed,unstable life,"This 43-year-old Female, holding No High School Degree education and being Employed, moves through an ever-changing landscape.",0.2
+Male,52,No High School Degree,Employed,precarious life,"This Male of 52 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Female,43,High School Degree,Employed,unstable life,"This 43-year-old Female, holding High School Degree education and being Employed, moves through an ever-changing landscape.",0.25
+Female,48,No High School Degree,Unemployed,unstable life,"A 48-year-old Female with No High School Degree education and currently Unemployed, struggles to anchor amid shifting sands.",0.25
+Male,54,High School Degree,Employed,stable and supportive life,"A 54-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,56,No High School Degree,Employed,precarious life,"A 56-year-old Female with No High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,52,No High School Degree,Employed,stable and supportive life,"A 52-year-old Male with No High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,35,Degree,Employed,precarious life,"This Female of 35 years, armed with Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,60,No High School Degree,Unemployed,moderate stability,"A 60-year-old Female, No High School Degree achieved and Unemployed, lives in steady rhythms.",0.2
+Female,46,No High School Degree,Employed,stable and supportive life,"A 46-year-old Female with No High School Degree, Employed, lives surrounded by stability and care.",0.78
+Female,46,High School Degree,Unemployed,moderate stability,"A 46-year-old Female, High School Degree achieved and Unemployed, lives in steady rhythms.",0.32
+Female,45,No High School Degree,Unemployed,precarious life,"A 45-year-old Female with No High School Degree, now Unemployed, walks a tightrope over uncertainty.",0.2
+Male,58,No High School Degree,Employed,precarious life,"This Male of 58 years, armed with No High School Degree and currently Employed, faces each day as a delicate balancing act.",0.2
+Male,33,High School Degree,Employed,precarious life,"A 33-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.32
+Male,75,High School Degree,Employed,stable and supportive life,"A 75-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,60,High School Degree,Employed,stable and supportive life,"A 60-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,56,High School Degree,Employed,stable and supportive life,"This Male, aged 56, with High School Degree and Employed, rests securely in an anchored existence.",0.35
+Female,45,No High School Degree,Unemployed,unstable life,"This 45-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Female,54,No High School Degree,Unemployed,moderate stability,"This 54-year-old Female, with No High School Degree and Unemployed, enjoys days that flow with ease and care.",0.68
+Male,58,High School Degree,Employed,stable and supportive life,"This Male, aged 58, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,51,Degree,Employed,unstable life,"A 51-year-old Female with Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,49,No High School Degree,Unemployed,unstable life,"A 49-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,53,High School Degree,Employed,moderate stability,"A 53-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Male,49,No High School Degree,Employed,moderate stability,"A 49-year-old Male, No High School Degree achieved and Employed, finds comfort in predictable patterns.",0.32
+Male,52,Degree,Employed,stable and supportive life,"A 52-year-old Male with Degree, Employed, basks in a secure routine.",0.78
+Female,45,High School Degree,Employed,unstable life,"A 45-year-old Female with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,60,High School Degree,Employed,stable and supportive life,"A 60-year-old Male with High School Degree, Employed, flourishes in a supportive environment.",0.78
+Female,51,High School Degree,Employed,unstable life,"This 51-year-old Female, holding High School Degree education and being Employed, tries to catch stability in motion.",0.42
+Female,26,High School Degree,Unemployed,unstable life,"This 26-year-old Female, holding High School Degree education and being Unemployed, moves through an ever-changing landscape.",0.2
+Female,51,No High School Degree,Unemployed,unstable life,"This 51-year-old Female, holding No High School Degree education and being Unemployed, wades through chaos.",0.1
+Male,54,High School Degree,Employed,stable and supportive life,"This Male, aged 54, with High School Degree and Employed, rests securely in an anchored existence.",0.45
+Female,51,Degree,Unemployed,moderate stability,"A 51-year-old Female, Degree achieved and Unemployed, finds comfort in predictable patterns.",0.32
+Male,47,High School Degree,Employed,moderate stability,"This 47-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Female,56,No High School Degree,Employed,precarious life,"A 56-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Male,60,No High School Degree,Employed,stable and supportive life,"This Male, aged 60, with No High School Degree and Employed, thrives in a life well-grounded.",0.78
+Male,43,High School Degree,Employed,precarious life,"This Male of 43 years, armed with High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,56,High School Degree,Employed,stable and supportive life,"This Male, aged 56, with High School Degree and Employed, savors the comforts of stability.",0.72
+Male,42,High School Degree,Employed,precarious life,"A 42-year-old Male with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Female,39,No High School Degree,Employed,precarious life,"A 39-year-old Female with No High School Degree, now Employed, teeters on a fragile edge.",0.2
+Female,45,High School Degree,Employed,precarious life,"A 45-year-old Female with High School Degree, now Employed, walks a tightrope over uncertainty.",0.25
+Male,54,High School Degree,Employed,precarious life,"This Male of 54 years, armed with High School Degree and currently Employed, steps carefully in a fragile world.",0.32
+Male,59,Degree,Employed,moderate stability,"This 59-year-old Male, with Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,53,High School Degree,Employed,moderate stability,"A 53-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,52,High School Degree,Unemployed,unstable life,"A 52-year-old Female with High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,57,PhD,Employed,stable and supportive life,"This Male, aged 57, with PhD and Employed, savors the comforts of stability.",0.78
+Female,44,No High School Degree,Employed,precarious life,"A 44-year-old Female with No High School Degree, now Employed, finds the ground beneath ever so brittle.",0.1
+Female,53,High School Degree,Employed,moderate stability,"This 53-year-old Female, with High School Degree and Employed, navigates days of calm balance.",0.72
+Male,59,High School Degree,Employed,stable and supportive life,"This Male, aged 59, with High School Degree and Employed, thrives in a life well-grounded.",0.78
+Female,56,High School Degree,Unemployed,moderate stability,"This 56-year-old Female, with High School Degree and Unemployed, embraces a life of moderate routine.",0.32
+Female,54,No High School Degree,Employed,unstable life,"This 54-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Male,59,Master,Employed,stable and supportive life,"A 59-year-old Male with Master, Employed, flourishes in a supportive environment.",0.8
+Female,53,No High School Degree,Unemployed,moderate stability,"A 53-year-old Female, No High School Degree achieved and Unemployed, lives in steady rhythms.",0.2
+Female,55,High School Degree,Employed,precarious life,"This Female of 55 years, armed with High School Degree and currently Employed, faces each day as a delicate balancing act.",0.25
+Female,46,High School Degree,Employed,unstable life,"A 46-year-old Female with High School Degree education and currently Employed, faces days of constant flux.",0.2
+Male,46,High School Degree,Employed,stable and supportive life,"A 46-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,50,High School Degree,Employed,moderate stability,"This 50-year-old Male, with High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,45,No High School Degree,Employed,moderate stability,"This 45-year-old Male, with No High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,49,No High School Degree,Employed,stable and supportive life,"A 49-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62
+Female,51,No High School Degree,Unemployed,stable and supportive life,"A 51-year-old Female with No High School Degree, Unemployed, flourishes in a supportive environment.",0.78
+Female,40,Degree,Employed,unstable life,"A 40-year-old Female with Degree education and currently Employed, navigates tumultuous waters.",0.35
+Male,45,High School Degree,Employed,precarious life,"This Male of 45 years, armed with High School Degree and currently Employed, balances hopes in a fragile reality.",0.32
+Female,34,High School Degree,Employed,unstable life,"This 34-year-old Female, holding High School Degree education and being Employed, tries to catch stability in motion.",0.42
+Male,53,Degree,Employed,moderate stability,"A 53-year-old Male, Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,45,No High School Degree,Employed,unstable life,"This 45-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Male,44,High School Degree,Employed,moderate stability,"A 44-year-old Male, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Male,57,Degree,Employed,stable and supportive life,"A 57-year-old Male with Degree, Employed, basks in a secure routine.",0.78
+Male,60,No High School Degree,Employed,stable and supportive life,"This Male, aged 60, with No High School Degree and Employed, rests securely in an anchored existence.",0.32
+Female,37,High School Degree,Unemployed,precarious life,"This Female of 37 years, armed with High School Degree and currently Unemployed, steps carefully in a fragile world.",0.25
+Male,47,High School Degree,Employed,stable and supportive life,"A 47-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Female,40,No High School Degree,Unemployed,unstable life,"A 40-year-old Female with No High School Degree education and currently Unemployed, faces days of constant flux.",0.2
+Male,46,High School Degree,Employed,stable and supportive life,"This Male, aged 46, with High School Degree and Employed, savors the comforts of stability.",0.72
+Female,52,No High School Degree,Employed,unstable life,"This 52-year-old Female, holding No High School Degree education and being Employed, wades through chaos.",0.2
+Female,47,No High School Degree,Unemployed,precarious life,"A 47-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Male,51,High School Degree,Employed,stable and supportive life,"A 51-year-old Male with High School Degree, Employed, basks in a secure routine.",0.72
+Male,32,High School Degree,Employed,unstable life,"A 32-year-old Male with High School Degree education and currently Employed, navigates tumultuous waters.",0.3
+Male,51,High School Degree,Employed,unstable life,"This 51-year-old Male, holding High School Degree education and being Employed, moves through an ever-changing landscape.",0.25
+Male,43,No High School Degree,Employed,moderate stability,"This 43-year-old Male, with No High School Degree and Employed, navigates days of calm balance.",0.62
+Male,52,Degree,Employed,moderate stability,"This 52-year-old Male, with Degree and Employed, navigates days of calm balance.",0.78
+Male,53,No High School Degree,Employed,moderate stability,"This 53-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.72
+Male,61,No High School Degree,Employed,moderate stability,"This 61-year-old Male, with No High School Degree and Employed, enjoys days that flow with ease and care.",0.78
+Male,41,Degree,Employed,moderate stability,"A 41-year-old Male, Degree achieved and Employed, finds comfort in predictable patterns.",0.6
+Female,26,No High School Degree,Unemployed,precarious life,"A 26-year-old Female with No High School Degree, now Unemployed, finds the ground beneath ever so brittle.",0.1
+Female,49,Degree,Employed,precarious life,"This Female of 49 years, armed with Degree and currently Employed, steps carefully in a fragile world.",0.32
+Female,59,No High School Degree,Unemployed,unstable life,"This 59-year-old Female, holding No High School Degree education and being Unemployed, tries to catch stability in motion.",0.25
+Male,62,No High School Degree,Employed,stable and supportive life,"This Male, aged 62, with No High School Degree and Employed, savors the comforts of stability.",0.68
+Female,52,No High School Degree,Employed,moderate stability,"A 52-year-old Female, No High School Degree achieved and Employed, finds comfort in predictable patterns.",0.32
+Female,45,No High School Degree,Employed,precarious life,"This Female of 45 years, armed with No High School Degree and currently Employed, balances hopes in a fragile reality.",0.25
+Male,55,No High School Degree,Employed,precarious life,"This Male of 55 years, armed with No High School Degree and currently Employed, steps carefully in a fragile world.",0.25
+Male,47,High School Degree,Employed,stable and supportive life,"This Male, aged 47, with High School Degree and Employed, rests securely in an anchored existence.",0.42
+Female,49,High School Degree,Employed,unstable life,"A 49-year-old Female with High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Female,54,No High School Degree,Unemployed,moderate stability,"This 54-year-old Female, with No High School Degree and Unemployed, navigates days of calm balance.",0.6
+Male,57,High School Degree,Employed,moderate stability,"This 57-year-old Male, with High School Degree and Employed, embraces a life of moderate routine.",0.32
+Male,70,Degree,Employed,moderate stability,"A 70-year-old Male, Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Female,47,High School Degree,Employed,unstable life,"A 47-year-old Female with High School Degree education and currently Employed, navigates tumultuous waters.",0.32
+Male,50,High School Degree,Employed,stable and supportive life,"A 50-year-old Male with High School Degree, Employed, lives surrounded by stability and care.",0.78
+Male,54,High School Degree,Employed,stable and supportive life,"This Male, aged 54, with High School Degree and Employed, savors the comforts of stability.",0.72
+Male,38,High School Degree,Employed,moderate stability,"A 38-year-old Male, High School Degree achieved and Employed, finds comfort in predictable patterns.",0.55
+Male,47,High School Degree,Employed,moderate stability,"A 47-year-old Male, High School Degree achieved and Employed, enjoys a life neither chaotic nor overly secure.",0.55
+Male,51,No High School Degree,Employed,stable and supportive life,"A 51-year-old Male with No High School Degree, Employed, basks in a secure routine.",0.62

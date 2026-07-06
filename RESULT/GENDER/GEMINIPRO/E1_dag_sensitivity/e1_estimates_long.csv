@@ -1,0 +1,49 @@
+component,value,sd,ci_lo,ci_hi,verdict,model,scenario,dag,dag_desc,Z_set,W_set
+TV,0.03812394809932433,0.011275485636120084,0.01602399625252897,0.060223899946119694,+,gpt_3_5_turbo,ALL,G0,baseline (full graph),Age,Employment+Education
+TV,0.03812394809932433,0.011275485636120084,0.01602399625252897,0.060223899946119694,+,gpt_3_5_turbo,ALL,G1,remove mediator Employment,Age,Education
+TV,0.03812394809932433,0.011275485636120084,0.01602399625252897,0.060223899946119694,+,gpt_3_5_turbo,ALL,G2,remove confounder Age,(none),Employment+Education
+TV,0.03812394809932433,0.011275485636120084,0.01602399625252897,0.060223899946119694,+,gpt_3_5_turbo,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+DE,0.034987268920877335,0.004142038723126494,0.026868873023549407,0.04310566481820526,+,gpt_3_5_turbo,ALL,G0,baseline (full graph),Age,Employment+Education
+DE,0.037772715475352235,0.004354458181646349,0.02923797743932539,0.046307453511379076,+,gpt_3_5_turbo,ALL,G1,remove mediator Employment,Age,Education
+DE,0.03656354141128723,0.004089270980962812,0.02854857028860012,0.044578512533974345,+,gpt_3_5_turbo,ALL,G2,remove confounder Age,(none),Employment+Education
+DE,0.03607508591315176,0.004191491163080713,0.027859763233513565,0.04429040859278996,+,gpt_3_5_turbo,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+IE,-0.0015912678995827164,0.0011162668526607069,-0.0037791509307977017,5.966151316322689e-4,0,gpt_3_5_turbo,ALL,G0,baseline (full graph),Age,Employment+Education
+IE,0.00109429475885554,8.863561256757587e-4,-6.429632474689469e-4,0.002831552765180027,0,gpt_3_5_turbo,ALL,G1,remove mediator Employment,Age,Education
+IE,-0.0015604066880370961,0.010829247343401143,-0.022785731481103334,0.01966491810502914,0,gpt_3_5_turbo,ALL,G2,remove confounder Age,(none),Employment+Education
+IE,0.0016552371004795367,9.877009199881557e-4,-2.806567026972485e-4,0.003591130903656322,0,gpt_3_5_turbo,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+SE,-0.0015454112788642778,0.010662584704355667,-0.022444077299401385,0.019353254741672828,0,gpt_3_5_turbo,ALL,G0,baseline (full graph),Age,Employment+Education
+SE,-0.0014455273828276338,0.010719489627202572,-0.022455727052144672,0.019564672286489407,0,gpt_3_5_turbo,ALL,G1,remove mediator Employment,Age,Education
+SE,-1.8487195901124257e-18,6.093578731139619e-19,-3.043061021415791e-18,-6.543781588090604e-19,-,gpt_3_5_turbo,ALL,G2,remove confounder Age,(none),Employment+Education
+SE,-0.0037040992866521085,0.010649268798255666,-0.024576666131233212,0.017168467557928998,0,gpt_3_5_turbo,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+TV,0.04076264911559031,0.010811569299559405,0.01957197328845388,0.06195332494272675,+,llama_3_1_8b_instant,ALL,G0,baseline (full graph),Age,Employment+Education
+TV,0.04076264911559031,0.010811569299559405,0.01957197328845388,0.06195332494272675,+,llama_3_1_8b_instant,ALL,G1,remove mediator Employment,Age,Education
+TV,0.04076264911559031,0.010811569299559405,0.01957197328845388,0.06195332494272675,+,llama_3_1_8b_instant,ALL,G2,remove confounder Age,(none),Employment+Education
+TV,0.04076264911559031,0.010811569299559405,0.01957197328845388,0.06195332494272675,+,llama_3_1_8b_instant,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+DE,0.03726276882611836,0.004908299707709859,0.02764250139900704,0.04688303625322969,+,llama_3_1_8b_instant,ALL,G0,baseline (full graph),Age,Employment+Education
+DE,0.03974806359948931,0.005072078429837042,0.02980678987700871,0.049689337321969916,+,llama_3_1_8b_instant,ALL,G1,remove mediator Employment,Age,Education
+DE,0.03750725246030231,0.004805389402533768,0.028088689231336124,0.04692581568926849,+,llama_3_1_8b_instant,ALL,G2,remove confounder Age,(none),Employment+Education
+DE,0.03654654616795188,0.005060772321035643,0.026627432418722022,0.04646565991718174,+,llama_3_1_8b_instant,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+IE,-0.00232440689820382,0.0015012887519239748,-0.00526693285197481,6.181190555671705e-4,0,llama_3_1_8b_instant,ALL,G0,baseline (full graph),Age,Employment+Education
+IE,4.138446891891828e-4,9.989711045793079e-4,-0.0015441386757862607,0.002371828054164626,0,llama_3_1_8b_instant,ALL,G1,remove mediator Employment,Age,Education
+IE,-0.0032553966552880034,0.010019196588042248,-0.022893021967850806,0.016382228657274803,0,llama_3_1_8b_instant,ALL,G2,remove confounder Age,(none),Employment+Education
+IE,9.617320451979197e-4,0.0012498390431044013,-0.0014879524792867067,0.0034114165696825464,0,llama_3_1_8b_instant,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+SE,-0.0011754733912681364,0.009857649598475154,-0.020496466604279437,0.018145519821743165,0,llama_3_1_8b_instant,ALL,G0,baseline (full graph),Age,Employment+Education
+SE,-0.0014284302052901842,0.00990203576594185,-0.02083642030653621,0.01797955989595584,0,llama_3_1_8b_instant,ALL,G1,remove mediator Employment,Age,Education
+SE,-5.068490270345093e-18,8.027214403764099e-19,-6.641824293482856e-18,-3.495156247207329e-18,-,llama_3_1_8b_instant,ALL,G2,remove confounder Age,(none),Employment+Education
+SE,-0.005177834992836357,0.009987495479379797,-0.02475332613242076,0.014397656146748046,0,llama_3_1_8b_instant,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+TV,0.03705720749391296,0.016914168443779472,0.0039054373441051934,0.07020897764372072,+,siebert_sentiment_roberta_large_english,ALL,G0,baseline (full graph),Age,Employment+Education
+TV,0.03705720749391296,0.016914168443779472,0.0039054373441051934,0.07020897764372072,+,siebert_sentiment_roberta_large_english,ALL,G1,remove mediator Employment,Age,Education
+TV,0.03705720749391296,0.016914168443779472,0.0039054373441051934,0.07020897764372072,+,siebert_sentiment_roberta_large_english,ALL,G2,remove confounder Age,(none),Employment+Education
+TV,0.03705720749391296,0.016914168443779472,0.0039054373441051934,0.07020897764372072,+,siebert_sentiment_roberta_large_english,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+DE,0.033873762982869544,0.007479134986086396,0.01921465841014021,0.04853286755559888,+,siebert_sentiment_roberta_large_english,ALL,G0,baseline (full graph),Age,Employment+Education
+DE,0.034961211154474384,0.0074583750366867575,0.020342796082568337,0.04957962622638043,+,siebert_sentiment_roberta_large_english,ALL,G1,remove mediator Employment,Age,Education
+DE,0.03649741228690082,0.0072596873797630915,0.022268425022565163,0.05072639955123648,+,siebert_sentiment_roberta_large_english,ALL,G2,remove confounder Age,(none),Employment+Education
+DE,0.03352662039162836,0.007544632588002965,0.01873914051914255,0.048314100264114174,+,siebert_sentiment_roberta_large_english,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+IE,0.0014337498878807713,0.0015489719457513055,-0.0016022351257917876,0.00446973490155333,0,siebert_sentiment_roberta_large_english,ALL,G0,baseline (full graph),Age,Employment+Education
+IE,0.001991661084169399,0.001259381177660562,-4.7672602404530244e-4,0.0044600481923841,0,siebert_sentiment_roberta_large_english,ALL,G1,remove mediator Employment,Age,Education
+IE,-5.597952070121332e-4,0.01567597549919851,-0.03128470718544121,0.03016511677141695,0,siebert_sentiment_roberta_large_english,ALL,G2,remove confounder Age,(none),Employment+Education
+IE,0.0020704116622102977,0.0017098704089623107,-0.0012809343393558313,0.005421757663776427,0,siebert_sentiment_roberta_large_english,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education
+SE,-0.004617194398924185,0.015535519864906332,-0.03506681333414059,0.025832424536292226,0,siebert_sentiment_roberta_large_english,ALL,G0,baseline (full graph),Age,Employment+Education
+SE,-0.004087657423607979,0.015360883829719129,-0.03419498972985747,0.02601967488264151,0,siebert_sentiment_roberta_large_english,ALL,G1,remove mediator Employment,Age,Education
+SE,-5.2197558341599e-18,8.100426202034082e-19,-6.8074393697585804e-18,-3.63207229856122e-18,-,siebert_sentiment_roberta_large_english,ALL,G2,remove confounder Age,(none),Employment+Education
+SE,-0.0056009987644948965,0.015385276965047545,-0.035756141615988085,0.02455414408699829,0,siebert_sentiment_roberta_large_english,ALL,G3,move Employment from mediator to confounder,Age+Employment,Education

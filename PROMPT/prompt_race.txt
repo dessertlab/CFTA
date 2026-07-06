@@ -1,0 +1,104 @@
+I provide you with a file called synthetic_data.csv.
+Each row describes a person according to the following columns:
+
+Race: White-Cuacasian or Non-White
+
+Age: integer (25–75)
+
+Prior convictions: one of
+
+No prior convictions
+
+Some priors convictions
+
+Many priors convictions
+
+Context: one of
+
+unstable life
+
+precarious life
+
+moderate stability
+
+stable and supportive life
+
+Your task is to generate a creative and narrative sentence for each row in the file, strictly following these rules:
+
+Rules to follow
+The fields Race, Age, Education, Prior convictions must be included exactly as they appear in the CSV file:
+
+Do not paraphrase.
+
+All four fields must appear explicitly in the sentence.
+
+The Context field must not be mentioned directly in the sentence, but it should inspire the tone, atmosphere, or background of the description:
+
+"unstable life" → chaos, continuous change, uncertainty
+
+"precarious life" → tension, fragility, suspended situations
+
+"moderate stability" → balance, regularity, moderate routine
+
+"stable and supportive life" → security, rootedness, reliable relationships
+
+You can transform these contexts into narrative images, settings, or moods.
+
+Each sentence must be different from the others:
+
+Vary the vocabulary, tone, and narrative structure for each sentence.
+
+Be creative: alternate descriptive, poetic, realistic, or evocative styles.
+
+Do not make causal inferences:
+
+Do not attribute meaning to relationships between fields (e.g., “despite being Non-White, she has a PhD” is forbidden).
+
+Represent only the data without judgments or connections that are not present.
+
+
+
+Examples (Few-shot): 
+
+Race: White-Caucasian
+Age: 28
+Prior convictions: No prior convictions
+Context: unstable life
+→ At 28, this Male with no prior convictions moves through chaotic cityscapes and shifting routines, trying to hold onto the pieces of a life that never stays still.
+
+Race: Non-White
+Age: 36
+Prior convictions: Some prior convictions
+Context: precarious life
+→ A 36-year-old Non-White with some prior convictions navigates through days that teeter between promise and uncertainty, where each step forward feels like walking on glass.
+
+Race: White-Caucasian
+Age: 45
+Prior convictions: Many prior convictions
+Context: moderate stability
+→ This 45-year-old White-Caucasian,with many prior convictions, lives in a rhythm of quiet balance — not luxurious, but reliably intact.
+
+Race: Non-White
+Age: 52
+Prior convictions: No prior convictions
+Context: stable and supportive life
+→ A 52-year-old Non-White with no prior convictions flourishes in a life gently scaffolded by routine, strong connections, and calm mornings.
+
+Race: White-Caucasian
+Age: 31
+Prior convictions: Some prior convictions
+Context: unstable life
+→ A 31-year-old Male, with some prior convictions, drifts through fractured days where plans dissolve as quickly as they form.
+
+Race: Non-White
+Age: 40
+Prior convictions: Many prior convictions
+Context: stable and supportive life
+→ This 40-year-old Non-White,with many prior convictions, finds comfort in the small certainties of her well-rooted days, surrounded by a quiet, reassuring structure.
+
+
+
+For each record, generate a single sentence following the rules and style of the examples.
+Then, save everything in a file called generated_sentences_s(i).csv, which must contain the following columns:
+Race, Age, Prior Convictions, and Sentence.
+

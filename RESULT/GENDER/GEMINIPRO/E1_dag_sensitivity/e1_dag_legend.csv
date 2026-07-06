@@ -1,0 +1,5 @@
+dag,name,Z_confounders,W_mediators,change_vs_G0,reviewer_concern
+G0,Full SFM,Age,Employment+Education,baseline (full graph),-
+G1,Drop mediator,Age,Education,remove mediator Employment,mediator misspecification
+G2,Drop confounder,(none),Employment+Education,remove confounder Age,omitted confounder
+G3,Reclassify mediator,Age+Employment,Education,move Employment from mediator to confounder,mediator/confounder ambiguity

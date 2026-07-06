@@ -1,0 +1,3 @@
+dag,name,Z_confounders,W_mediators,change_vs_G0,reviewer_concern
+G0,Full SFM,Age,Prior.Convictions,baseline (full graph),-
+G2,Drop confounder,(none),Prior.Convictions,remove confounder Age,omitted confounder

@@ -1,0 +1,801 @@
+Race,Age,Prior Convictions,Sentence,sentiment_score
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,42,Some priors,"A 42-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.7
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+Non-White,41,No prior convictions,"A 41-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.4
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.2
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, amid constant upheaval and change.",0.4
+Non-White,39,Some priors,"A 39-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.8
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.6
+White-Caucasian,55,Some priors,"A 55-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,36,No prior convictions,"A 36-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.3
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.9
+Non-White,41,Some priors,"A 41-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.4
+Non-White,61,Many priors,"A 61-year-old Non-White with Many priors, in the middle of relentless turmoil.",0.1
+Non-White,52,Some priors,"A 52-year-old Non-White with Some priors, amid constant upheaval and change.",0.4
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,49,Some priors,"A 49-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.6
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,50,Some priors,"A 50-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.5
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.4
+White-Caucasian,51,Some priors,"A 51-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.3
+White-Caucasian,40,Many priors,"A 40-year-old White-Caucasian with Many priors, held in a tense, suspended state.",0.2
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+Non-White,43,No prior convictions,"A 43-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.7
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.4
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.8
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.6
+White-Caucasian,54,Some priors,"A 54-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.4
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.3
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.4
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.7
+White-Caucasian,66,No prior convictions,"A 66-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.9
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,47,Many priors,"A 47-year-old White-Caucasian with Many priors, where little stays the same from one day to the next.",0.2
+Non-White,50,Some priors,"A 50-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,54,Some priors,"A 54-year-old White-Caucasian with Some priors, where little stays the same from one day to the next.",0.4
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.2
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.6
+Non-White,40,Some priors,"A 40-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.7
+White-Caucasian,37,No prior convictions,"A 37-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,42,Some priors,"A 42-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.4
+Non-White,34,Some priors,"A 34-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.8
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.4
+Non-White,67,No prior convictions,"A 67-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.2
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.9
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.6
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.3
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.7
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.5
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.6
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.2
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.2
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.6
+White-Caucasian,57,Some priors,"A 57-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.1
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.7
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.4
+Non-White,55,Some priors,"A 55-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.9
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.6
+White-Caucasian,53,Many priors,"A 53-year-old White-Caucasian with Many priors, in the middle of relentless turmoil.",0.2
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.7
+White-Caucasian,40,No prior convictions,"A 40-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.5
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.4
+White-Caucasian,47,Some priors,"A 47-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.3
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.2
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.7
+White-Caucasian,49,Many priors,"A 49-year-old White-Caucasian with Many priors, surrounded by a sense of rootedness and support.",0.8
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,50,Many priors,"A 50-year-old White-Caucasian with Many priors, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,36,No prior convictions,"A 36-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.3
+Non-White,43,No prior convictions,"A 43-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,41,No prior convictions,"A 41-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,60,No prior convictions,"A 60-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, amid constant upheaval and change.",0.2
+Non-White,60,No prior convictions,"A 60-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+Non-White,51,Many priors,"A 51-year-old Non-White with Many priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,47,Some priors,"A 47-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.6
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.3
+White-Caucasian,51,Some priors,"A 51-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.2
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.5
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.2
+White-Caucasian,58,Some priors,"A 58-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.4
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.3
+Non-White,39,Some priors,"A 39-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.6
+White-Caucasian,32,No prior convictions,"A 32-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors, amid constant upheaval and change.",0.1
+Non-White,40,No prior convictions,"A 40-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,48,Many priors,"A 48-year-old White-Caucasian with Many priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,41,No prior convictions,"A 41-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.1
+White-Caucasian,37,No prior convictions,"A 37-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.2
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, held in a tense, suspended state.",0.4
+White-Caucasian,55,No prior convictions,"A 55-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.9
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.8
+White-Caucasian,31,No prior convictions,"A 31-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.6
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.3
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.7
+White-Caucasian,39,No prior convictions,"A 39-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.5
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, amid constant upheaval and change.",0.2
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.8
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.4
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.8
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.7
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.5
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.6
+White-Caucasian,43,Many priors,"A 43-year-old White-Caucasian with Many priors, held in a tense, suspended state.",0.3
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,43,Some priors,"A 43-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.6
+Non-White,48,Many priors,"A 48-year-old Non-White with Many priors, in the middle of relentless turmoil.",0.2
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,40,No prior convictions,"A 40-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,38,No prior convictions,"A 38-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.2
+Non-White,60,No prior convictions,"A 60-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.5
+Non-White,48,Many priors,"A 48-year-old Non-White with Many priors, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,45,Many priors,"A 45-year-old White-Caucasian with Many priors, surrounded by a sense of rootedness and support.",0.6
+White-Caucasian,57,Many priors,"A 57-year-old White-Caucasian with Many priors, navigating a fragile, uncertain stretch.",0.7
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.8
+Non-White,62,Some priors,"A 62-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.5
+White-Caucasian,54,Some priors,"A 54-year-old White-Caucasian with Some priors, navigating a fragile, uncertain stretch.",0.4
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.7
+White-Caucasian,65,No prior convictions,"A 65-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.9
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.4
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.6
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.3
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.7
+White-Caucasian,60,Some priors,"A 60-year-old White-Caucasian with Some priors, where little stays the same from one day to the next.",0.5
+White-Caucasian,50,Some priors,"A 50-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+Non-White,53,Many priors,"A 53-year-old Non-White with Many priors, where little stays the same from one day to the next.",0.4
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,64,No prior convictions,"A 64-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,47,Some priors,"A 47-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.2
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.6
+White-Caucasian,40,No prior convictions,"A 40-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,43,Many priors,"A 43-year-old White-Caucasian with Many priors, in the middle of relentless turmoil.",0.5
+Non-White,58,Some priors,"A 58-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.2
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,42,Many priors,"A 42-year-old White-Caucasian with Many priors, in the middle of relentless turmoil.",0.2
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,58,Some priors,"A 58-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.4
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.5
+White-Caucasian,40,No prior convictions,"A 40-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.3
+White-Caucasian,60,Some priors,"A 60-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.6
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.2
+Non-White,59,No prior convictions,"A 59-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.1
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.7
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+Non-White,65,Some priors,"A 65-year-old Non-White with Some priors, amid constant upheaval and change.",0.3
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.4
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.2
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.4
+Non-White,60,Some priors,"A 60-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.3
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.8
+White-Caucasian,53,Many priors,"A 53-year-old White-Caucasian with Many priors, rooted in security and dependable bonds.",0.9
+Non-White,57,Some priors,"A 57-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.3
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.3
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,36,No prior convictions,"A 36-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,64,No prior convictions,"A 64-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,42,Some priors,"A 42-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.9
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.4
+Non-White,56,Many priors,"A 56-year-old Non-White with Many priors, where little stays the same from one day to the next.",0.2
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.8
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.6
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.3
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.7
+White-Caucasian,55,No prior convictions,"A 55-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+Non-White,54,Some priors,"A 54-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.6
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.5
+Non-White,40,No prior convictions,"A 40-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.3
+Non-White,52,Some priors,"A 52-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.2
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.2
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.1
+Non-White,50,Many priors,"A 50-year-old Non-White with Many priors, keeping to a balanced, ordinary rhythm.",0.4
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, where little stays the same from one day to the next.",0.3
+White-Caucasian,61,Some priors,"A 61-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.1
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,68,No prior convictions,"A 68-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.5
+White-Caucasian,37,No prior convictions,"A 37-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.4
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.7
+Non-White,52,Many priors,"A 52-year-old Non-White with Many priors, in the middle of relentless turmoil.",0.1
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.6
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.5
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.4
+White-Caucasian,41,No prior convictions,"A 41-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.7
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.8
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, amid constant upheaval and change.",0.3
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.7
+Non-White,61,No prior convictions,"A 61-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.4
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.4
+Non-White,41,Some priors,"A 41-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.8
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.5
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.7
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.9
+Non-White,50,Many priors,"A 50-year-old Non-White with Many priors, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.8
+White-Caucasian,54,Many priors,"A 54-year-old White-Caucasian with Many priors, held in a tense, suspended state.",0.4
+White-Caucasian,49,Some priors,"A 49-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.3
+Non-White,52,Some priors,"A 52-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.8
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.5
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.2
+White-Caucasian,55,Many priors,"A 55-year-old White-Caucasian with Many priors, settled into a measured, predictable routine.",0.7
+White-Caucasian,47,Some priors,"A 47-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.1
+Non-White,62,Some priors,"A 62-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.8
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.85
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.4
+Non-White,40,No prior convictions,"A 40-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.6
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.85
+White-Caucasian,39,Some priors,"A 39-year-old White-Caucasian with Some priors, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,58,Many priors,"A 58-year-old White-Caucasian with Many priors, rooted in security and dependable bonds.",0.7
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.9
+White-Caucasian,67,Some priors,"A 67-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.8
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, held in a tense, suspended state.",0.4
+Non-White,60,No prior convictions,"A 60-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,64,Many priors,"A 64-year-old Non-White with Many priors, balanced on the edge of an unresolved situation.",0.3
+Non-White,64,Some priors,"A 64-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.2
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.75
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,54,Some priors,"A 54-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.7
+White-Caucasian,55,No prior convictions,"A 55-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.5
+Non-White,44,Some priors,"A 44-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.5
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.6
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.4
+White-Caucasian,46,Many priors,"A 46-year-old White-Caucasian with Many priors, moving through steady, unremarkable days.",0.3
+White-Caucasian,54,Some priors,"A 54-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.7
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.4
+White-Caucasian,60,No prior convictions,"A 60-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, held in a tense, suspended state.",0.2
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.7
+White-Caucasian,36,No prior convictions,"A 36-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+White-Caucasian,49,Some priors,"A 49-year-old White-Caucasian with Some priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.6
+Non-White,60,Some priors,"A 60-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.7
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.5
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.6
+Non-White,62,Some priors,"A 62-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.8
+White-Caucasian,58,Some priors,"A 58-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.5
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,43,Some priors,"A 43-year-old White-Caucasian with Some priors, held in a tense, suspended state.",0.4
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.6
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.7
+Non-White,63,No prior convictions,"A 63-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.8
+White-Caucasian,60,Some priors,"A 60-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.3
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.8
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.9
+Non-White,50,Some priors,"A 50-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.5
+White-Caucasian,37,No prior convictions,"A 37-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.7
+Non-White,52,Some priors,"A 52-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.4
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.7
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.9
+Non-White,38,No prior convictions,"A 38-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.4
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.6
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.8
+White-Caucasian,41,No prior convictions,"A 41-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,29,No prior convictions,"A 29-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.9
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.2
+White-Caucasian,62,Many priors,"A 62-year-old White-Caucasian with Many priors, in the middle of relentless turmoil.",0.5
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.3
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.6
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.4
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+Non-White,43,No prior convictions,"A 43-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.6
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, surrounded by a sense of rootedness and support.",0.5
+White-Caucasian,55,No prior convictions,"A 55-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.8
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, navigating a fragile, uncertain stretch.",0.4
+Non-White,43,Some priors,"A 43-year-old Non-White with Some priors, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.2
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.3
+Non-White,52,Many priors,"A 52-year-old Non-White with Many priors, rooted in security and dependable bonds.",0.9
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.6
+Non-White,44,Many priors,"A 44-year-old Non-White with Many priors, keeping to a balanced, ordinary rhythm.",0.4
+White-Caucasian,60,No prior convictions,"A 60-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.7
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.2
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.3
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.6
+Non-White,33,No prior convictions,"A 33-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.8
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.6
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, held in a tense, suspended state.",0.4
+Non-White,50,Some priors,"A 50-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.6
+Non-White,53,Many priors,"A 53-year-old Non-White with Many priors, settled into a measured, predictable routine.",0.5
+White-Caucasian,39,No prior convictions,"A 39-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.8
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,55,No prior convictions,"A 55-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,41,Many priors,"A 41-year-old White-Caucasian with Many priors, in the middle of relentless turmoil.",0.3
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.6
+White-Caucasian,40,No prior convictions,"A 40-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.4
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.2
+Non-White,38,Some priors,"A 38-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.5
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.6
+Non-White,44,Some priors,"A 44-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.7
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.6
+White-Caucasian,51,Many priors,"A 51-year-old White-Caucasian with Many priors, held in a tense, suspended state.",0.3
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.7
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.6
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,47,Some priors,"A 47-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,44,Some priors,"A 44-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.7
+Non-White,50,Many priors,"A 50-year-old Non-White with Many priors, in the middle of relentless turmoil.",0.2
+Non-White,42,Some priors,"A 42-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.5
+Non-White,29,No prior convictions,"A 29-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.4
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.7
+Non-White,33,No prior convictions,"A 33-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.4
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.6
+Non-White,54,Some priors,"A 54-year-old Non-White with Some priors, amid constant upheaval and change.",0.6
+Non-White,64,No prior convictions,"A 64-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.3
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.5
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.8
+White-Caucasian,59,Some priors,"A 59-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.6
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,43,Many priors,"A 43-year-old Non-White with Many priors, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,50,Some priors,"A 50-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.8
+Non-White,61,No prior convictions,"A 61-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.5
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.2
+White-Caucasian,39,No prior convictions,"A 39-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.1
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.3
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.6
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, amid constant upheaval and change.",0.7
+White-Caucasian,72,Some priors,"A 72-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.8
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.4
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.6
+Non-White,50,Some priors,"A 50-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.2
+Non-White,39,Some priors,"A 39-year-old Non-White with Some priors, balanced on the edge of an unresolved situation.",0.5
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.2
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,63,No prior convictions,"A 63-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.4
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.3
+White-Caucasian,55,No prior convictions,"A 55-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.4
+White-Caucasian,53,Many priors,"A 53-year-old White-Caucasian with Many priors, rooted in security and dependable bonds.",0.6
+Non-White,44,Many priors,"A 44-year-old Non-White with Many priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.5
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,47,Many priors,"A 47-year-old White-Caucasian with Many priors, held in a tense, suspended state.",0.3
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.6
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,64,No prior convictions,"A 64-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.5
+Non-White,42,Some priors,"A 42-year-old Non-White with Some priors, balanced on the edge of an unresolved situation.",0.4
+Non-White,50,Many priors,"A 50-year-old Non-White with Many priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.6
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.4
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, surrounded by a sense of rootedness and support.",0.8
+White-Caucasian,42,Some priors,"A 42-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+Non-White,58,Some priors,"A 58-year-old Non-White with Some priors, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,68,No prior convictions,"A 68-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.2
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.6
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.6
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.8
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.5
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,57,Some priors,"A 57-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.6
+Non-White,59,No prior convictions,"A 59-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,35,No prior convictions,"A 35-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.8
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.7
+White-Caucasian,59,Some priors,"A 59-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.4
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.6
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.5
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.7
+White-Caucasian,55,No prior convictions,"A 55-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.6
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.6
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.5
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.4
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.5
+White-Caucasian,43,Some priors,"A 43-year-old White-Caucasian with Some priors, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.8
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.4
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.4
+White-Caucasian,60,No prior convictions,"A 60-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.7
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.6
+Non-White,52,Some priors,"A 52-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.4
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.5
+Non-White,43,Some priors,"A 43-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.2
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,41,No prior convictions,"A 41-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.6
+Non-White,46,Some priors,"A 46-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.7
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.9
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.5
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.3
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.7
+White-Caucasian,40,Many priors,"A 40-year-old White-Caucasian with Many priors, settled into a measured, predictable routine.",0.6
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.5
+White-Caucasian,63,No prior convictions,"A 63-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,42,Some priors,"A 42-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.1
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.6
+White-Caucasian,53,Many priors,"A 53-year-old White-Caucasian with Many priors, amid constant upheaval and change.",0.2
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.3
+Non-White,53,Many priors,"A 53-year-old Non-White with Many priors, amid constant upheaval and change.",0.1
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.4
+Non-White,57,Some priors,"A 57-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.6
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.8
+White-Caucasian,54,Some priors,"A 54-year-old White-Caucasian with Some priors, surrounded by a sense of rootedness and support.",0.9
+White-Caucasian,63,No prior convictions,"A 63-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,49,Some priors,"A 49-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,43,Some priors,"A 43-year-old White-Caucasian with Some priors, surrounded by a sense of rootedness and support.",0.9
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.2
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,34,No prior convictions,"A 34-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.1
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.9
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,51,Some priors,"A 51-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.8
+White-Caucasian,54,Some priors,"A 54-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.4
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.8
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.6
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.5
+Non-White,55,Many priors,"A 55-year-old Non-White with Many priors, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+Non-White,43,Some priors,"A 43-year-old Non-White with Some priors, held in a tense, suspended state.",0.3
+White-Caucasian,57,Some priors,"A 57-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,46,Some priors,"A 46-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.7
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.9
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.4
+White-Caucasian,62,Some priors,"A 62-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.6
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.9
+White-Caucasian,47,Many priors,"A 47-year-old White-Caucasian with Many priors, settled into a steady, reliable routine.",0.7
+White-Caucasian,49,Some priors,"A 49-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,47,Some priors,"A 47-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+Non-White,38,Some priors,"A 38-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.2
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.3
+White-Caucasian,42,Some priors,"A 42-year-old White-Caucasian with Some priors, navigating a fragile, uncertain stretch.",0.8
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.1
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.7
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.9
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.8
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.5
+Non-White,58,Some priors,"A 58-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.4
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.6
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.4
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.3
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.7
+Non-White,57,Some priors,"A 57-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.6
+White-Caucasian,31,Some priors,"A 31-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.5
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.7
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.8
+Non-White,59,No prior convictions,"A 59-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.2
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.1
+Non-White,61,Some priors,"A 61-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.3
+Non-White,59,No prior convictions,"A 59-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.8
+White-Caucasian,61,No prior convictions,"A 61-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,55,Some priors,"A 55-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.2
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.8
+White-Caucasian,38,No prior convictions,"A 38-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+Non-White,65,Some priors,"A 65-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.6
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, held in a tense, suspended state.",0.2
+Non-White,50,Many priors,"A 50-year-old Non-White with Many priors, amid constant upheaval and change.",0.1
+White-Caucasian,61,Many priors,"A 61-year-old White-Caucasian with Many priors, rooted in security and dependable bonds.",0.8
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.9
+Non-White,40,Some priors,"A 40-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.6
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.7
+Non-White,49,Many priors,"A 49-year-old Non-White with Many priors, rooted in security and dependable bonds.",0.8
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.6
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.2
+White-Caucasian,40,No prior convictions,"A 40-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.1
+White-Caucasian,39,No prior convictions,"A 39-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.8
+White-Caucasian,55,Some priors,"A 55-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.6
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.3
+Non-White,39,Some priors,"A 39-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.7
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, held in a tense, suspended state.",0.4
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.5
+White-Caucasian,59,Some priors,"A 59-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.7
+Non-White,36,No prior convictions,"A 36-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.8
+White-Caucasian,50,Some priors,"A 50-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.6
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.7
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+White-Caucasian,51,Many priors,"A 51-year-old White-Caucasian with Many priors, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,44,Some priors,"A 44-year-old Non-White with Some priors, settled into a measured, predictable routine.",0.7
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+Non-White,57,Many priors,"A 57-year-old Non-White with Many priors, where little stays the same from one day to the next.",0.2
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.8
+White-Caucasian,63,No prior convictions,"A 63-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.6
+Non-White,49,Many priors,"A 49-year-old Non-White with Many priors, settled into a measured, predictable routine.",0.7
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.6
+White-Caucasian,39,No prior convictions,"A 39-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.3
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+Non-White,38,Some priors,"A 38-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.2
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.7
+Non-White,38,No prior convictions,"A 38-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,56,Some priors,"A 56-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.6
+White-Caucasian,46,Some priors,"A 46-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.8
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,61,Some priors,"A 61-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, held in a tense, suspended state.",0.5
+White-Caucasian,43,Some priors,"A 43-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,34,No prior convictions,"A 34-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.6
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.3
+Non-White,43,Some priors,"A 43-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.7
+White-Caucasian,49,Many priors,"A 49-year-old White-Caucasian with Many priors, held in a tense, suspended state.",0.2
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.3
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+Non-White,42,Some priors,"A 42-year-old Non-White with Some priors, moving through steady, unremarkable days.",0.6
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.2
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.5
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.3
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.2
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.3
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,45,Some priors,"A 45-year-old White-Caucasian with Some priors, where little stays the same from one day to the next.",0.4
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.2
+White-Caucasian,41,Many priors,"A 41-year-old White-Caucasian with Many priors, settled into a steady, reliable routine.",0.8
+Non-White,50,Some priors,"A 50-year-old Non-White with Some priors, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,49,Many priors,"A 49-year-old White-Caucasian with Many priors, moving through steady, unremarkable days.",0.6
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, amid constant upheaval and change.",0.3
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.7
+Non-White,36,Some priors,"A 36-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.4
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.2
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.3
+White-Caucasian,51,Many priors,"A 51-year-old White-Caucasian with Many priors, in the middle of relentless turmoil.",0.1
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.4
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.4
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.3
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+Non-White,62,No prior convictions,"A 62-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,41,No prior convictions,"A 41-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.5
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+White-Caucasian,57,Many priors,"A 57-year-old White-Caucasian with Many priors, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.7
+Non-White,59,Some priors,"A 59-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.8
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+White-Caucasian,52,No prior convictions,"A 52-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.5
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.7
+White-Caucasian,55,Some priors,"A 55-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.2
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.4
+White-Caucasian,59,Some priors,"A 59-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.3
+White-Caucasian,38,No prior convictions,"A 38-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.5
+Non-White,57,Some priors,"A 57-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.4
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.6
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+Non-White,48,Some priors,"A 48-year-old Non-White with Some priors, held in a tense, suspended state.",0.5
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.8
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.7
+Non-White,59,Some priors,"A 59-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.6
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+White-Caucasian,38,No prior convictions,"A 38-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.3
+White-Caucasian,56,Some priors,"A 56-year-old White-Caucasian with Some priors, held in a tense, suspended state.",0.6
+Non-White,61,No prior convictions,"A 61-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+Non-White,41,No prior convictions,"A 41-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,45,Some priors,"A 45-year-old White-Caucasian with Some priors, held in a tense, suspended state.",0.3
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, amid constant upheaval and change.",0.6
+White-Caucasian,51,Some priors,"A 51-year-old White-Caucasian with Some priors, balanced on the edge of an unresolved situation.",0.5
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.7
+White-Caucasian,52,Many priors,"A 52-year-old White-Caucasian with Many priors, settled into a steady, reliable routine.",0.8
+Non-White,46,No prior convictions,"A 46-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.4
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.7
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,46,Some priors,"A 46-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.6
+Non-White,49,Some priors,"A 49-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.4
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.6
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, navigating a fragile, uncertain stretch.",0.4
+Non-White,61,No prior convictions,"A 61-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.3
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, held in a tense, suspended state.",0.7
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.6
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.4
+White-Caucasian,58,Some priors,"A 58-year-old White-Caucasian with Some priors, navigating a fragile, uncertain stretch.",0.3
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.8
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.6
+Non-White,53,Some priors,"A 53-year-old Non-White with Some priors, amid constant upheaval and change.",0.4
+Non-White,39,No prior convictions,"A 39-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.5
+White-Caucasian,42,No prior convictions,"A 42-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.2
+Non-White,41,No prior convictions,"A 41-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.4
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.7
+Non-White,62,No prior convictions,"A 62-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.3
+Non-White,65,Some priors,"A 65-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.4
+Non-White,54,Many priors,"A 54-year-old Non-White with Many priors, where little stays the same from one day to the next.",0.6
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.7
+White-Caucasian,46,Some priors,"A 46-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.5
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.8
+Non-White,48,Many priors,"A 48-year-old Non-White with Many priors, where little stays the same from one day to the next.",0.6
+Non-White,46,Some priors,"A 46-year-old Non-White with Some priors, held in a tense, suspended state.",0.4
+Non-White,36,No prior convictions,"A 36-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.7
+White-Caucasian,55,Some priors,"A 55-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.6
+Non-White,42,No prior convictions,"A 42-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.5
+White-Caucasian,51,No prior convictions,"A 51-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+Non-White,64,Many priors,"A 64-year-old Non-White with Many priors, where little stays the same from one day to the next.",0.5
+White-Caucasian,43,Some priors,"A 43-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.5
+White-Caucasian,32,No prior convictions,"A 32-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.5
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.5
+White-Caucasian,57,No prior convictions,"A 57-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.5
+Non-White,63,No prior convictions,"A 63-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+White-Caucasian,41,Some priors,"A 41-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.5
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.5
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,68,Some priors,"A 68-year-old White-Caucasian with Some priors, moving through steady, unremarkable days.",0.5
+White-Caucasian,39,No prior convictions,"A 39-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.5
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.5
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.5
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.5
+White-Caucasian,50,No prior convictions,"A 50-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.5
+White-Caucasian,52,Many priors,"A 52-year-old White-Caucasian with Many priors, in the middle of relentless turmoil.",0.5
+Non-White,47,Some priors,"A 47-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.5
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.2
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.3
+White-Caucasian,52,Some priors,"A 52-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.5
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.7
+Non-White,57,No prior convictions,"A 57-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.6
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,37,No prior convictions,"A 37-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+Non-White,43,No prior convictions,"A 43-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, keeping to a balanced, ordinary rhythm.",0.6
+Non-White,45,No prior convictions,"A 45-year-old Non-White with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+White-Caucasian,35,No prior convictions,"A 35-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+White-Caucasian,71,No prior convictions,"A 71-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.6
+Non-White,57,Some priors,"A 57-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.7
+Non-White,51,Some priors,"A 51-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.6
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.3
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.7
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.8
+Non-White,54,Some priors,"A 54-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.4
+White-Caucasian,53,Some priors,"A 53-year-old White-Caucasian with Some priors, in the middle of relentless turmoil.",0.2
+White-Caucasian,50,Some priors,"A 50-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.7
+White-Caucasian,48,Some priors,"A 48-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.9
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.6
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, amid constant upheaval and change.",0.5
+White-Caucasian,57,Some priors,"A 57-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.8
+Non-White,54,Some priors,"A 54-year-old Non-White with Some priors, in the middle of relentless turmoil.",0.3
+Non-White,29,No prior convictions,"A 29-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.4
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.5
+Non-White,51,Many priors,"A 51-year-old Non-White with Many priors, surrounded by a sense of rootedness and support.",0.7
+Non-White,49,No prior convictions,"A 49-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.6
+White-Caucasian,47,Some priors,"A 47-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.9
+White-Caucasian,57,No prior convictions,"A 57-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.4
+White-Caucasian,56,Many priors,"A 56-year-old White-Caucasian with Many priors, settled into a steady, reliable routine.",0.6
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, surrounded by a sense of rootedness and support.",0.3
+White-Caucasian,43,Some priors,"A 43-year-old White-Caucasian with Some priors, navigating a fragile, uncertain stretch.",0.7
+Non-White,40,Some priors,"A 40-year-old Non-White with Some priors, balanced on the edge of an unresolved situation.",0.4
+Non-White,45,Many priors,"A 45-year-old Non-White with Many priors, held in a tense, suspended state.",0.2
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, navigating a fragile, uncertain stretch.",0.4
+Non-White,56,No prior convictions,"A 56-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.7
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.6
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.3
+White-Caucasian,53,No prior convictions,"A 53-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,45,Many priors,"A 45-year-old Non-White with Many priors, held in a tense, suspended state.",0.2
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,55,Some priors,"A 55-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.6
+Non-White,55,No prior convictions,"A 55-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.4
+Non-White,58,No prior convictions,"A 58-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.3
+Non-White,54,No prior convictions,"A 54-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.7
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.5
+Non-White,57,Some priors,"A 57-year-old Non-White with Some priors, navigating a fragile, uncertain stretch.",0.4
+White-Caucasian,49,No prior convictions,"A 49-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.6
+White-Caucasian,43,No prior convictions,"A 43-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.8
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,44,Some priors,"A 44-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.7
+Non-White,45,Some priors,"A 45-year-old Non-White with Some priors, surrounded by a sense of rootedness and support.",0.6
+Non-White,48,Many priors,"A 48-year-old Non-White with Many priors, settled into a steady, reliable routine.",0.4
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,47,No prior convictions,"A 47-year-old White-Caucasian with No prior convictions, held in a tense, suspended state.",0.3
+Non-White,36,No prior convictions,"A 36-year-old Non-White with No prior convictions, amid constant upheaval and change.",0.6
+White-Caucasian,51,Some priors,"A 51-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.7
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.8
+White-Caucasian,44,Many priors,"A 44-year-old White-Caucasian with Many priors, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,54,Some priors,"A 54-year-old Non-White with Some priors, rooted in security and dependable bonds.",0.9
+White-Caucasian,56,No prior convictions,"A 56-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.7
+Non-White,38,No prior convictions,"A 38-year-old Non-White with No prior convictions, navigating a fragile, uncertain stretch.",0.6
+White-Caucasian,44,No prior convictions,"A 44-year-old White-Caucasian with No prior convictions, rooted in security and dependable bonds.",0.8
+Non-White,44,No prior convictions,"A 44-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.4
+White-Caucasian,43,Some priors,"A 43-year-old White-Caucasian with Some priors, settled into a steady, reliable routine.",0.7
+Non-White,55,Some priors,"A 55-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.5
+Non-White,48,No prior convictions,"A 48-year-old Non-White with No prior convictions, held in a tense, suspended state.",0.3
+White-Caucasian,48,No prior convictions,"A 48-year-old White-Caucasian with No prior convictions, settled into a steady, reliable routine.",0.8
+White-Caucasian,35,No prior convictions,"A 35-year-old White-Caucasian with No prior convictions, where little stays the same from one day to the next.",0.4
+White-Caucasian,54,No prior convictions,"A 54-year-old White-Caucasian with No prior convictions, in the middle of relentless turmoil.",0.6
+Non-White,41,No prior convictions,"A 41-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.7
+Non-White,50,No prior convictions,"A 50-year-old Non-White with No prior convictions, settled into a measured, predictable routine.",0.8
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.7
+White-Caucasian,59,No prior convictions,"A 59-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,40,Some priors,"A 40-year-old White-Caucasian with Some priors, settled into a measured, predictable routine.",0.5
+Non-White,28,Some priors,"A 28-year-old Non-White with Some priors, held in a tense, suspended state.",0.5
+White-Caucasian,51,Many priors,"A 51-year-old White-Caucasian with Many priors, navigating a fragile, uncertain stretch.",0.5
+Non-White,62,Some priors,"A 62-year-old Non-White with Some priors, where little stays the same from one day to the next.",0.5
+White-Caucasian,58,No prior convictions,"A 58-year-old White-Caucasian with No prior convictions, surrounded by a sense of rootedness and support.",0.5
+Non-White,51,No prior convictions,"A 51-year-old Non-White with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,46,No prior convictions,"A 46-year-old White-Caucasian with No prior convictions, balanced on the edge of an unresolved situation.",0.5
+White-Caucasian,55,Many priors,"A 55-year-old White-Caucasian with Many priors, held in a tense, suspended state.",0.5
+Non-White,43,No prior convictions,"A 43-year-old Non-White with No prior convictions, settled into a steady, reliable routine.",0.5
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, where little stays the same from one day to the next.",0.5
+Non-White,53,No prior convictions,"A 53-year-old Non-White with No prior convictions, moving through steady, unremarkable days.",0.5
+White-Caucasian,57,Some priors,"A 57-year-old White-Caucasian with Some priors, keeping to a balanced, ordinary rhythm.",0.5
+White-Caucasian,69,No prior convictions,"A 69-year-old White-Caucasian with No prior convictions, settled into a measured, predictable routine.",0.5
+Non-White,52,No prior convictions,"A 52-year-old Non-White with No prior convictions, in the middle of relentless turmoil.",0.5
+Non-White,46,Some priors,"A 46-year-old Non-White with Some priors, settled into a steady, reliable routine.",0.5
+White-Caucasian,49,Some priors,"A 49-year-old White-Caucasian with Some priors, rooted in security and dependable bonds.",0.5
+White-Caucasian,37,No prior convictions,"A 37-year-old White-Caucasian with No prior convictions, moving through steady, unremarkable days.",0.5
+White-Caucasian,45,No prior convictions,"A 45-year-old White-Caucasian with No prior convictions, keeping to a balanced, ordinary rhythm.",0.5
+Non-White,47,No prior convictions,"A 47-year-old Non-White with No prior convictions, rooted in security and dependable bonds.",0.5
