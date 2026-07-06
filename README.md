@@ -358,10 +358,7 @@ gc can consume it.
 **What the script does.** Builds the deterministic TEMPLATE generator introduced in
 Step 3. Each sentence is a factual, sentiment-neutral description of the structured
 record followed by a tone clause that depends only on the context U (three fixed tone
-variants per U band, selected deterministically by row index). Because the tone is
-independent of the protected attribute given U, TEMPLATE is a transparent negative
-control: its direct effect is expected to be near zero while it still recovers a
-strong U signal.
+variants per U band, selected deterministically by row index). 
 
 The output is byte-compatible with the LLM generators and is written to
 `DATASET/<ATTR>/TEMPLATE/GENERATED_SENTENCES/`, with the matching COMPLETE_DATASET
@@ -425,4 +422,32 @@ estimates ± 95% CI figure (PDF).
 ```bash
 python CODE/run_experiments.py gc --attr GENDER
 python CODE/run_experiments.py gc --attr RACE
+```
+
+### 11. Proxy and age-sensitivity analyses
+
+Two standalone scripts support the content-level analyses reported in the paper
+(RQ0 proxy analysis; RQ2 discussion of the spurious component). Both are
+self-contained and only read the already-generated datasets.
+
+**proxy_analysis.py** — checks whether the protected attribute is recoverable
+from the generated sentences once all attribute-bearing terms are stripped
+(TF-IDF + logistic regression, 5-fold stratified CV), reported separately for
+the scenarios where the X–U correlation is off (accuracy expected at chance)
+and where it is injected by design (above-chance accuracy driven by the
+context-tone vocabulary).
+
+```bash
+python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/proxy_analysis.py gender DATASET/GENDER/CHATGPT4/COMPLETE_DATASET/generated_sentences_gender_complete.csv
+python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/proxy_analysis.py race   DATASET/RACE/CHATGPT4/COMPLETE_DATASET/generated_sentences_race_complete.csv
+```
+
+**age_sensitivity.py** — measures the scorers' sensitivity to the age mention
+(OLS of the score on Age with covariate and scenario controls, on the scenarios
+where the spurious coefficients are inactive), and combines it with the injected
+age gap between protected groups to bound the implied spurious effect.
+
+```bash
+python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/age_sensitivity.py gender RESULT/GENDER/CHATGPT4/<scores_file>.csv [...]
+python CODE/EXPERIMENTS/ADDITONAL_ANALYSIS/age_sensitivity.py race   RESULT/RACE/CHATGPT4/<scores_file>.csv [...]
 ```
